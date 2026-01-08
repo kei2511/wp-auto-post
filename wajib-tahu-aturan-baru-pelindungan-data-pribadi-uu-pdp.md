@@ -1,5 +1,5 @@
 ---
-title: Wajib Tahu: Aturan Baru Pelindungan Data Pribadi (UU PDP)
+title: "Wajib Tahu: Aturan Baru Pelindungan Data Pribadi (UU PDP)"
 date: 2026-02-18
 categories: [Kepatuhan Hukum]
 tags: [uu pdp, data privacy, keamanan data, sanksi hukum]
