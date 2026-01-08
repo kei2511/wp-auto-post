@@ -1,30 +1,29 @@
-
-Title: Memahami Dasar-Dasar Hukum Kontrak Bisnis
-Date: 2026-02-01
+Title: Etika dan Regulasi Penggunaan AI dalam Bisnis
+Date: 2026-02-15
+Category: Teknologi & Hukum
+Tags: ai, kecerdasan buatan, uu ite, etika bisnis
+Content Summary: membahas batasan hukum penggunaan konten hasil generate AI untuk komersial, hak cipta karya AI, dan antisipasi regulasi AI di Indonesia.
+---
+Title: Wajib Tahu: Aturan Baru Pelindungan Data Pribadi (UU PDP)
+Date: 2026-02-18
+Category: Kepatuhan Hukum
+Tags: uu pdp, data privacy, keamanan data, sanksi hukum
+Content Summary: panduan bagi pemilik bisnis dalam mengelola data pelanggan sesuai UU PDP, penunjukan Pejabat Pelindungan Data (DPO), dan sanksi jika terjadi kebocoran data.
+---
+Title: Digitalisasi Dokumen: Sahkah Tanda Tangan Elektronik & E-Meterai?
+Date: 2026-02-21
+Category: Operasional Bisnis
+Tags: tanda tangan elektronik, e-meterai, peruri, digital signature
+Content Summary: penjelasan kekuatan hukum tanda tangan digital dan e-meterai dalam kontrak bisnis, serta cara penggunaannya yang sah menurut undang-undang.
+---
+Title: Cara Mengamankan Aset Crypto Perusahaan secara Legal
+Date: 2026-02-24
+Category: Keuangan Digital
+Tags: cryptocurrency, aset digital, bappebti, investasi perusahaan
+Content Summary: tinjauan regulasi Bappebti mengenai kepemilikan aset kripto oleh badan usaha, perpajakan transaksi kripto, dan cara pelaporannya dalam laporan keuangan.
+---
+Title: Menyelesaikan Sengketa Bisnis Tanpa Masuk Pengadilan
+Date: 2026-02-27
 Category: Hukum Bisnis
-Tags: kontrak, legal, perjanjian, bisnis
-Content Summary: panduan lengkap mengenai elemen penting dalam kontrak bisnis, tips negosiasi, dan cara menghindari celah hukum yang merugikan.
----
-Title: Langkah Mudah Mengurus Izin Usaha di Indonesia
-Date: 2026-02-03
-Category: Legalitas Usaha
-Tags: izin usaha, oss, umkm, legalitas
-Content Summary: tutorial praktis cara mendaftarkan Nomor Induk Berusaha (NIB) melalui sistem OSS untuk pelaku UMKM dan perusahaan pemula.
----
-Title: Pentingnya Hak Kekayaan Intelektual untuk Brand Anda
-Date: 2026-02-05
-Category: HKI
-Tags: merek, hak cipta, brand protection, hki
-Content Summary: mengapa pendaftaran merek itu krusial, cara melakukan pengecekan merek, dan perlindungan hukum terhadap aset intangible bisnis Anda.
----
-Title: Strategi Perencanaan Pajak untuk Startup
-Date: 2026-02-08
-Category: Perpajakan
-Tags: pajak, startup, kepatuhan, pph
-Content Summary: tips manajemen pajak yang efisien dan legal untuk perusahaan rintisan agar arus kas tetap sehat sambil mematuhi regulasi perpajakan.
----
-Title: Aspek Hukum Ketenagakerjaan yang Wajib Diketahui Pengusaha
-Date: 2026-02-10
-Category: Ketenagakerjaan
-Tags: sdm, uu cipta kerja, karyawan, kontrak kerja
-Content Summary: ulasan mengenai hak dan kewajiban pengusaha serta karyawan berdasarkan regulasi terbaru, termasuk aturan pesangon dan jam kerja.
+Tags: arbitrase, mediasi, sengketa, kontrak
+Content Summary: mengenal alternatif penyelesaian sengketa (ADR) seperti mediasi dan arbitrase yang lebih hemat biaya dan waktu dibandingkan litigasi di pengadilan.
