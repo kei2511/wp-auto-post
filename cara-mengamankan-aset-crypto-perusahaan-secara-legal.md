@@ -1,6 +1,6 @@
 ---
 title: "Cara Mengamankan Aset Crypto Perusahaan secara Legal"
-date: 2026-02-24
+date: 2026-01-08
 categories: [Keuangan Digital]
 tags: [cryptocurrency, aset digital, bappebti, investasi perusahaan]
 status: publish

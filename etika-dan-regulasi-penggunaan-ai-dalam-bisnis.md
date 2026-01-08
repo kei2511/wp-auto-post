@@ -1,6 +1,6 @@
 ---
 title: "Etika dan Regulasi Penggunaan AI dalam Bisnis"
-date: 2026-02-15
+date: 2026-01-08
 categories: [Teknologi & Hukum]
 tags: [ai, kecerdasan buatan, uu ite, etika bisnis]
 status: publish

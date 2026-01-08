@@ -1,6 +1,6 @@
 ---
 title: "Menyelesaikan Sengketa Bisnis Tanpa Masuk Pengadilan"
-date: 2026-02-27
+date: 2026-01-08
 categories: [Hukum Bisnis]
 tags: [arbitrase, mediasi, sengketa, kontrak]
 status: publish

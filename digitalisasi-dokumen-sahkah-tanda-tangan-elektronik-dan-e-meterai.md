@@ -1,6 +1,6 @@
 ---
 title: "Digitalisasi Dokumen: Sahkah Tanda Tangan Elektronik & E-Meterai?"
-date: 2026-02-21
+date: 2026-01-08
 categories: [Operasional Bisnis]
 tags: [tanda tangan elektronik, e-meterai, peruri, digital signature]
 status: publish
