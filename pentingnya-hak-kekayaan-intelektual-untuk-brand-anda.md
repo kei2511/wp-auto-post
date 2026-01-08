@@ -51,3 +51,5 @@ Sebelum mendaftar, wajib hukumnya melakukan **Pengecekan Merek** (search) di dat
 ## Kesimpulan
 
 Biaya pendaftaran merek relatif kecil dibandingkan kerugian yang harus ditanggung jika harus rebranding total di kemudian hari. Lindungi ide dan jerih payah Anda dengan payung hukum yang tepat sejak dini.
+ 
+ 

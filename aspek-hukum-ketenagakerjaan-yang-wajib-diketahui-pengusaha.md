@@ -53,3 +53,5 @@ Ini adalah topik sensitif. UU Cipta Kerja memberikan rambu-rambu baru mengenai a
 ## Penutup
 
 Hukum ketenagakerjaan ada untuk melindungi kedua belah pihak: pengusaha dan pekerja. Dengan memiliki Peraturan Perusahaan (PP) atau Kontrak Kerja yang jelas dan sesuai regulasi, Anda menciptakan lingkungan kerja yang kondusif di mana karyawan merasa aman, dan bisnis Anda terhindar dari tuntutan hukum di kemudian hari.
+ 
+ 

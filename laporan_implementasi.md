@@ -56,3 +56,5 @@ Jika atasan bertanya lebih teknis, berikut poin kuncinya:
 *   **Engine:** Menggunakan Webhook GitHub yang menembak ke API WordPress.
 *   **Keamanan:** Menggunakan Token Autentikasi khusus, tidak mengekspos password admin.
 *   **Media:** Gambar di-hosting sendiri di WordPress (diimpor otomatis), bukan hotlink dari GitHub.
+ 
+ 

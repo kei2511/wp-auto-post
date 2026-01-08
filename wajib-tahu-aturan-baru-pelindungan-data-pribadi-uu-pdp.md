@@ -26,3 +26,5 @@ Untuk perusahaan yang memproses data dalam skala besar atau data yang bersifat s
 Jangan main-main, sanksi pelanggaran UU PDP bisa berupa denda administratif hingga **2% dari pendapatan tahunan** atau bahkan pidana penjara.
 
 Pastikan bisnis Anda sudah mulai melakukan audit data internal dan memperbarui *Privacy Policy* sesuai standar terbaru.
+ 
+ 

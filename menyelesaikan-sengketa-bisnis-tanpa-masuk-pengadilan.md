@@ -27,3 +27,5 @@ Jika mediasi gagal, Arbitrase adalah pilihan populer bagi dunia bisnis. Arbitras
 Agar bisa memanfaatkan jalur ini, pastikan dalam setiap kontrak kerjasama Anda terdapat **Klausul Penyelesaian Sengketa** yang spesifik. Jangan gunakan template standar "diselesaikan secara musyawarah mufakat" saja. Tulislah secara tegas: *"Apabila musyawarah gagal, sengketa akan diselesaikan melalui BANI sesuai peraturan yang berlaku."*
 
 Jalur non-litigasi bukan tanda kelemahan, melainkan tanda kedewasaan dalam berbisnis.
+ 
+ 

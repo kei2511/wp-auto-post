@@ -48,3 +48,5 @@ Disiplin mencatat setiap pengeluaran yang berkaitan dengan usaha (3M: Mendapatka
 
 Pajak adalah bagian dari kontribusi kita membangun negeri, namun sebagai pengusaha, Anda berhak mengelolanya seefisien mungkin. Jangan menunggu bisnis menjadi besar baru memikirkan pajak. Fondasi kepatuhan yang dibangun sejak *Day 1* akan membuat startup Anda lebih siap saat 
 menerima investasi besar di masa depan (karena investor pasti akan melakukan *Due Diligence* pajak).
+ 
+ 

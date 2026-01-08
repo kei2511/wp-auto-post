@@ -23,3 +23,5 @@ Selain itu, penggunaan data untuk melatih AI juga berpotensi bersinggungan denga
 ## Antisipasi Regulasi Masa Depan
 
 Pemerintah Indonesia, melalui Kementerian Kominfo, telah mulai merumuskan pedoman etika kecerdasan buatan. Meskipun belum berupa undang-undang yang mengikat secara spesifik, ini adalah sinyal kuat bahwa regulasi ketat akan segera hadir. Bisnis yang proaktif mengadopsi prinsip *Responsible AI* akan lebih siap menghadapi gelombang regulasi ini.
+ 
+ 

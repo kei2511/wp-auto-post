@@ -25,3 +25,5 @@ Sebagai badan usaha, Anda wajib mencatat bukti potong ini dan melaporkan kepemil
 ## Pelaporan Akuntansi
 
 Dalam laporan keuangan, aset kripto biasanya diklasifikasikan sebagai **Aset Tak Berwujud (Intangible Asset)** atau **Persediaan (Inventory)** tergantung model bisnis perusahaan. Pastikan tim accounting Anda memahami standar akuntansi yang relevan agar audit keuangan berjalan lancar.
+ 
+ 

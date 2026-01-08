@@ -24,3 +24,5 @@ Penggunaan E-Meterai pada dokumen elektronik (seperti perjanjian utang piutang d
 ## Kesimpulan
 
 Beralih ke digital bukan hanya soal efisiensi, tapi juga kepastian hukum. Gunakan TTE Tersertifikasi dan E-Meterai resmi untuk kontrak bisnis Anda agar aman dan profesional.
+ 
+ 

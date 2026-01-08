@@ -53,3 +53,5 @@ Lindungi bisnis Anda dengan membatasi nilai ganti rugi maksimal yang bisa ditunt
 Kontrak bisnis yang baik bukan hanya tentang melindungi diri sendiri, tetapi juga membangun kerangka kerja sama yang adil dan transparan. Jangan ragu untuk menginvestasikan waktu dan sumber daya untuk berkonsultasi dengan ahli hukum sebelum menandatangani perjanjian bernilai besar.
 
 *Ingin konsultasi lebih lanjut mengenai draft kontrak Anda? Pastikan Anda selalu update dengan regulasi terbaru.*
+ 
+ 
