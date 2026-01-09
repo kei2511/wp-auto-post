@@ -1,29 +1,29 @@
-Title: Etika dan Regulasi Penggunaan AI dalam Bisnis
-Date: 2026-02-15
-Category: Teknologi & Hukum
-Tags: ai, kecerdasan buatan, uu ite, etika bisnis
-Content Summary: membahas batasan hukum penggunaan konten hasil generate AI untuk komersial, hak cipta karya AI, dan antisipasi regulasi AI di Indonesia.
+Title: PKWT vs PKWTT: Panduan Lengkap Hukum Ketenagakerjaan untuk HRD
+Date: 2026-03-01
+Category: Ketenagakerjaan
+Tags: pkwt, pkwtt, kontrak kerja, uu cipta kerja, hrd
+Content Summary: membahas perbedaan mendasar perjanjian kerja waktu tertentu dan tidak tertentu, hak dan kewajiban karyawan, serta risiko hukum jika salah kontrak.
 ---
-Title: Wajib Tahu: Aturan Baru Pelindungan Data Pribadi (UU PDP)
-Date: 2026-02-18
-Category: Kepatuhan Hukum
-Tags: uu pdp, data privacy, keamanan data, sanksi hukum
-Content Summary: panduan bagi pemilik bisnis dalam mengelola data pelanggan sesuai UU PDP, penunjukan Pejabat Pelindungan Data (DPO), dan sanksi jika terjadi kebocoran data.
+Title: Wajib Tahu: Sanksi Transaksi Uang Asing (Valas) di Dalam Negeri
+Date: 2026-03-04
+Category: Keuangan & Hukum
+Tags: mata uang rupiah, transaksi valas, hukum bisnis, bank indonesia
+Content Summary: penjelasan aturan Bank Indonesia tentang kewajiban penggunaan Rupiah, pengecualian transaksi valas yang diperbolehkan, dan sanksi pidana/denda bagi pelanggar.
 ---
-Title: Digitalisasi Dokumen: Sahkah Tanda Tangan Elektronik & E-Meterai?
-Date: 2026-02-21
-Category: Operasional Bisnis
-Tags: tanda tangan elektronik, e-meterai, peruri, digital signature
-Content Summary: penjelasan kekuatan hukum tanda tangan digital dan e-meterai dalam kontrak bisnis, serta cara penggunaannya yang sah menurut undang-undang.
+Title: Cara Mendaftarkan Merek Dagang ke Luar Negeri (Protokol Madrid)
+Date: 2026-03-07
+Category: Kekayaan Intelektual
+Tags: merek dagang, haki, ekspor, bisnis global, wipo
+Content Summary: panduan langkah demi langkah mendaftarkan merek internasional melalui Protokol Madrid, biaya yang dibutuhkan, dan pentingnya perlindungan brand di pasar global.
 ---
-Title: Cara Mengamankan Aset Crypto Perusahaan secara Legal
-Date: 2026-02-24
-Category: Keuangan Digital
-Tags: cryptocurrency, aset digital, bappebti, investasi perusahaan
-Content Summary: tinjauan regulasi Bappebti mengenai kepemilikan aset kripto oleh badan usaha, perpajakan transaksi kripto, dan cara pelaporannya dalam laporan keuangan.
+Title: Legalitas Bisnis Top Up Game & Reseller Voucher Digital
+Date: 2026-03-10
+Category: Bisnis Digital
+Tags: bisnis produk digital, top up game, pajak digital, izin usaha
+Content Summary: mengupas aspek legalitas usaha jualan voucher game, kewajiban pemungutan pajak (PPN PMSE), dan izin PSE yang mungkin diperlukan.
 ---
-Title: Menyelesaikan Sengketa Bisnis Tanpa Masuk Pengadilan
-Date: 2026-02-27
-Category: Hukum Bisnis
-Tags: arbitrase, mediasi, sengketa, kontrak
-Content Summary: mengenal alternatif penyelesaian sengketa (ADR) seperti mediasi dan arbitrase yang lebih hemat biaya dan waktu dibandingkan litigasi di pengadilan.
+Title: Kenaikan PPN 12% di 2025: Strategi Adaptasi bagi Pelaku Usaha
+Date: 2026-03-13
+Category: Perpajakan
+Tags: ppn 12 persen, uu hpp, pajak perusahaan, strategi bisnis
+Content Summary: analisis dampak kenaikan tarif PPN menjadi 12%, sektor yang terdampak, dan tips mengatur cash flow serta pricing strategy agar bisnis tetap kompetitif.
