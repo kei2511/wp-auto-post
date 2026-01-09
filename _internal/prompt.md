@@ -9,12 +9,13 @@ Repositori ini dirancang untuk mengotomatisasi publikasi postingan blog ke websi
 
 ## 2. Struktur Direktori
 ```
-/ (Root)         -> Simpan file markdown artikel di sini.
-/_images/        -> Simpan semua gambar di sini. WAJIB agar terbaca oleh plugin.
+/ (Root)      -> Berisi README.md dan file sistem.
+/blog/        -> FOLDER UTAMA. Simpan semua artikel di sini.
+/blog/_images/ -> Simpan semua gambar di sini. WAJIB agar terbaca oleh plugin.
 ```
 
 ## 3. Cara Membuat Postingan Baru
-1.  **Buat file .md** di direktori utama (root).
+1.  **Buat file .md** di dalam folder `blog`.
 2.  **Tambahkan Front Matter** (Metadata) di bagian paling atas file:
     ```yaml
     ---
@@ -28,7 +29,7 @@ Repositori ini dirancang untuk mengotomatisasi publikasi postingan blog ke websi
 3.  **Tulis Konten** menggunakan format Markdown standar.
 
 ## 4. Cara Menambahkan Gambar
-1.  Upload file gambar ke folder `_images` (contoh: `_images/foto-baru.jpg`).
+1.  Upload file gambar ke folder `blog/_images` (contoh: `blog/_images/foto-baru.jpg`).
 2.  Panggil gambar tersebut di markdown menggunakan **relative path**:
     ```markdown
     ![Deskripsi Gambar](/_images/foto-baru.jpg)
@@ -36,7 +37,7 @@ Repositori ini dirancang untuk mengotomatisasi publikasi postingan blog ke websi
 
 ## 5. Konfigurasi Teknis (Sudah Disetting)
 - **Plugin:** Git It Write
-- **Source:** Branch `master`, Root folder.
+- **Source:** Branch `master`, Folder `blog`.
 - **Auth:** Menggunakan GitHub Personal Access Token.
 - **Otomatisasi:** Webhook sudah diatur di GitHub untuk trigger update saat ada Push.
 
