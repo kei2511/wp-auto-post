@@ -86,4 +86,4 @@ Kepastian hukum sejati di era digital tidak hanya dicapai melalui teknologi, tet
 
 ---
 
-*Artikel ini disusun berdasarkan kajian ilmiah "Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia" oleh Bahori Ahoen (Universitas Krisnadwipayana), diterbitkan di Jurnal LOCUS Vol. 4 No. 9, September 2025.*
+*Artikel ini disusun berdasarkan kajian ilmiah "[Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia](https://locus.rivierapublishing.id/index.php/jl/article/view/4784)" oleh Bahori Ahoen (Universitas Krisnadwipayana), diterbitkan di Jurnal LOCUS: Penelitian & Pengabdian, Vol. 4 No. 9, September 2025.*
