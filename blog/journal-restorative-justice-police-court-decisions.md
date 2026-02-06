@@ -1,7 +1,7 @@
 ---
 title: "Restorative Justice: From Police Agreements to Court Decisions"
 date: 2026-02-06
-categories: [Hukum Bisnis & Agraria]
+categories: [hukum-bisnis-agraria]
 tags: [restorative justice, criminal law, police mediation, court decisions, ultimum remedium]
 status: publish
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Rekonstruksi Yuridis dan Integrasi Mekanisme Keadilan Restoratif: Transformasi Kesepakatan Perdamaian Kepolisian Menjadi Putusan Pengadilan yang Berkekuatan Hukum Tetap"
 date: 2026-02-06
-categories: [Hukum Bisnis & Agraria]
+categories: [hukum-bisnis-agraria]
 tags: [keadilan restoratif, hukum pidana, restorative justice, perdamaian, putusan pengadilan]
 status: publish
 ---
