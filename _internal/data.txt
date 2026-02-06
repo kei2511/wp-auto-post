@@ -1,29 +1,29 @@
-Title: PKWT vs PKWTT: Panduan Lengkap Hukum Ketenagakerjaan untuk HRD
-Date: 2026-03-01
-Category: Ketenagakerjaan
-Tags: pkwt, pkwtt, kontrak kerja, uu cipta kerja, hrd
-Content Summary: membahas perbedaan mendasar perjanjian kerja waktu tertentu dan tidak tertentu, hak dan kewajiban karyawan, serta risiko hukum jika salah kontrak.
+Title: Tips Lolos Interview Kerja: Panduan Lengkap dari Persiapan hingga Follow-Up
+Date: 2026-02-10
+Category: Karir & Pengembangan Diri
+Tags: interview kerja, tips karir, melamar kerja, fresh graduate, hrd
+Content Summary: panduan komprehensif menghadapi wawancara kerja, mulai dari riset perusahaan, menjawab pertanyaan umum dan jebakan, body language yang tepat, hingga cara follow-up setelah interview.
 ---
-Title: Wajib Tahu: Sanksi Transaksi Uang Asing (Valas) di Dalam Negeri
-Date: 2026-03-04
-Category: Keuangan & Hukum
-Tags: mata uang rupiah, transaksi valas, hukum bisnis, bank indonesia
-Content Summary: penjelasan aturan Bank Indonesia tentang kewajiban penggunaan Rupiah, pengecualian transaksi valas yang diperbolehkan, dan sanksi pidana/denda bagi pelanggar.
+Title: Cara Membuat CV ATS-Friendly yang Menarik Perhatian HRD
+Date: 2026-02-13
+Category: Karir & Pengembangan Diri
+Tags: cv ats friendly, resume, lamaran kerja, hrd, rekrutmen
+Content Summary: menjelaskan apa itu sistem ATS (Applicant Tracking System), format CV yang direkomendasikan, kata kunci yang harus ada, dan kesalahan fatal yang sering dilakukan pelamar.
 ---
-Title: Cara Mendaftarkan Merek Dagang ke Luar Negeri (Protokol Madrid)
-Date: 2026-03-07
-Category: Kekayaan Intelektual
-Tags: merek dagang, haki, ekspor, bisnis global, wipo
-Content Summary: panduan langkah demi langkah mendaftarkan merek internasional melalui Protokol Madrid, biaya yang dibutuhkan, dan pentingnya perlindungan brand di pasar global.
+Title: Menjawab Pertanyaan "Ceritakan Tentang Diri Anda" dan 5 Pertanyaan Interview Tersulit Lainnya
+Date: 2026-02-16
+Category: Karir & Pengembangan Diri
+Tags: pertanyaan interview, wawancara kerja, tips hrd, negosiasi gaji
+Content Summary: strategi menjawab pertanyaan interview yang sering membuat kandidat gugup, termasuk "apa kelemahanmu", "kenapa resign dari pekerjaan sebelumnya", dan "berapa ekspektasi gajimu".
 ---
-Title: Legalitas Bisnis Top Up Game & Reseller Voucher Digital
-Date: 2026-03-10
-Category: Bisnis Digital
-Tags: bisnis produk digital, top up game, pajak digital, izin usaha
-Content Summary: mengupas aspek legalitas usaha jualan voucher game, kewajiban pemungutan pajak (PPN PMSE), dan izin PSE yang mungkin diperlukan.
+Title: Red Flag Perusahaan: Tanda-Tanda Lowongan Kerja yang Harus Dihindari
+Date: 2026-02-19
+Category: Karir & Pengembangan Diri
+Tags: lowongan kerja, penipuan kerja, red flag hrd, cari kerja aman
+Content Summary: mengidentifikasi ciri-ciri lowongan kerja palsu atau perusahaan toxic, mulai dari iklan yang mencurigakan, proses rekrutmen tidak wajar, hingga tanda-tanda budaya kerja tidak sehat.
 ---
-Title: Kenaikan PPN 12% di 2025: Strategi Adaptasi bagi Pelaku Usaha
-Date: 2026-03-13
-Category: Perpajakan
-Tags: ppn 12 persen, uu hpp, pajak perusahaan, strategi bisnis
-Content Summary: analisis dampak kenaikan tarif PPN menjadi 12%, sektor yang terdampak, dan tips mengatur cash flow serta pricing strategy agar bisnis tetap kompetitif.
+Title: Negosiasi Gaji untuk Fresh Graduate: Kapan dan Bagaimana Melakukannya
+Date: 2026-02-22
+Category: Karir & Pengembangan Diri
+Tags: negosiasi gaji, fresh graduate, tips karir, gaji pertama, hrd
+Content Summary: panduan praktis negosiasi gaji bagi lulusan baru, termasuk cara riset standar gaji industri, waktu yang tepat untuk bernegosiasi, dan script percakapan yang bisa digunakan.

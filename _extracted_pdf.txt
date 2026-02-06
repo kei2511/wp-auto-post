@@ -1,0 +1,671 @@
+JURNAL LOCUS: Penelitian & Pengabdian
+Volume 4 No. 9 September 2025
+E-ISSN 2829-7334| P-ISSN 2829-5439
+Hompage: https://locus.rivierapublishing.id/index.php/jl
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat
+Tanah Elektronik di Indonesia
+Bahori Ahoen
+Universitas Krisnadwipayana, Indonesia
+Email: orie_ahoen@yahoo.com
+Abstrak:
+Artikel ini menyajikan analisis komprehensif mengenai transisi Indonesia menuju sistem sertifikasi tanah digital,
+sebuah landasan agenda e-governance yang bertujuan untuk menyelesaikan sengketa pertanahan yang merajalela.
+Melalui metodologi yuridis normatif yang dilengkapi dengan analisis komparatif, studi ini mengkaji kerangka
+hukum yang kompleks yang menopang sertifikat elektronik (Sertipikat-el), mulai dari Undang-Undang Pokok
+Agraria (UUPA) yang fundamental hingga Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) yang
+krusial serta peraturan menteri terbaru. Artikel ini menyajikan penilaian dikotomis, merinci manfaat besar
+digitalisasi—seperti peningkatan efisiensi dan keamanan terhadap kehilangan fisik—sekaligus menyoroti bahaya
+signifikan, termasuk kerentanan keamanan siber yang akut, kesenjangan digital perkotaan-perdesaan yang
+persisten, dan risiko sistemik dari digitalisasi data warisan yang cacat. Inti analisis menginvestigasi kekuatan
+pembuktian Sertipikat-el di pengadilan perdata dan tata usaha negara, mengidentifikasi adanya disjungsi kritis
+antara pengakuan substantifnya sebagai bukti hak yang sah dan kekosongan prosedural dalam Kitab Undang-
+Undang Hukum Acara Perdata (HIR/RBg) warisan kolonial untuk autentikasi dan penanganannya. Celah
+prosedural ini, menurut argumen kami, menciptakan ketidakpastian hukum dan mengalihkan beban yang tidak
+semestinya kepada diskresi yudisial dan forensik digital. Dengan membandingkan model internasional dari
+Singapura dan Malaysia serta mengeksplorasi teknologi baru seperti blockchain, artikel ini diakhiri dengan
+kerangka strategis multi-cabang untuk implementasi yang tangguh. Artikel ini mengadvokasi reformasi hukum
+acara yang mendesak, adopsi standar keamanan siber yang kuat (ISO 27001), dan kampanye literasi digital
+nasional untuk memastikan transisi ini tidak hanya berhasil secara teknologi, tetapi juga pasti secara hukum dan
+adil secara sosial.
+Kata kunci: Sertifikat Elektronik (Sertipikat-el), Digitalisasi Tanah, Keamanan Siber
+Abstract:
+This article presents a comprehensive analysis of Indonesia's transition to a digital land certification system, a
+cornerstone of an e-governance agenda that aims to resolve rampant land disputes. Through a normative juridical
+methodology complemented by comparative analysis, this study examines the complex legal framework that
+underpins electronic certificates (e-certificates), ranging from the fundamental Basic Agrarian Law (UUPA) to
+the crucial Electronic Information and Transaction Law (ITE Law) and the latest ministerial regulations. This
+article presents a dichotomous assessment, detailing the major benefits of digitalization—such as increased
+efficiency and security against physical loss—while highlighting significant dangers, including acute
+cybersecurity vulnerabilities, persistent urban-rural digital divides, and systemic risks of flawed digitization of
+legacy data. The core of the analysis investigates the evidentiary power of e-certificates in civil and state
+administrative courts, identifying a critical disjuncture between their substantive recognition as evidence of
+legitimate rights and procedural gaps in the Civil Procedure Code (HIR/RBg) of colonial heritage for
+authentication and handling. This procedural loophole, in our arguments, creates legal uncertainty and shifts an
+undue burden to judicial and digital forensic discretion. By comparing international models from Singapore and
+Malaysia and exploring new technologies such as blockchain, this article concludes with a multi-pronged
+strategic framework for robust implementation. This article advocates urgent procedural law reforms, the
+adoption of strong cybersecurity standards (ISO 27001), and a national digital literacy campaign to ensure this
+transition is not only technologically successful, but also legally and socially equitable.
+Keywords: Electronic Certificate (Sertipikat-el), Land Digitization, Cybersecurity
+Corresponding: Bahori Ahoen
+E-mail: orie_ahoen@yahoo.com
+8414\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+PENDAHULUAN
+Inisiatif Indonesia untuk mendigitalisasi administrasi pertanahan merupakan bagian dari
+tren global transformasi digital di sektor publik, yang didorong oleh ambisi untuk
+memodernisasi layanan dan meningkatkan efisiensi. Langkah ini memiliki pertaruhan yang
+sangat tinggi, mengingat tanah bukan hanya aset ekonomi vital tetapi juga merupakan sumber
+konflik sosial yang persisten di Indonesia (Fikri et al., 2022). Transformasi dari sertifikat
+analog berbasis kertas menjadi Sertifikat Elektronik (Sertipikat-el) diharapkan dapat menjadi
+solusi untuk modernisasi sistem pertanahan, meningkatkan pelayanan publik, dan
+mengoptimalkan pemanfaatan teknologi informasi (Adinegoro, 2023; Pidada, 2021). Dalam
+konteks ini, implementasi sertifikat elektronik bertujuan untuk memperbaiki ketepatan dan
+kecepatan pelayanan, namun tetap menghadapi tantangan dalam penerapannya, terutama
+terkait dengan ketergantungan pada infrastruktur teknologi dan kesiapan sumber daya manusia
+(Anggraeni, 2020; Agustini, 2021). Selain itu, meskipun transformasi ini membawa potensi
+besar dalam mengurangi potensi sengketa, kesenjangan dalam pemahaman hukum dan teknis
+antara pihak terkait masih menjadi hambatan signifikan (Zanariyah, 2023). Namun demikian,
+berbagai studi menunjukkan bahwa digitalisasi sertifikat tanah memiliki dampak positif
+terhadap efisiensi pengelolaan pertanahan di Indonesia dan bisa mempercepat proses reformasi
+dalam sektor administrasi tanah (Ariani, 2022).
+Latar belakang utama dari kebijakan digitalisasi administrasi pertanahan di Indonesia
+adalah tingginya prevalensi sengketa dan konflik pertanahan (Alexander Samosir et al., 2025).
+Masalah ini sering kali berakar pada kegagalan administrasi, seperti penerbitan sertifikat
+tumpang tindih (overlapping), pemalsuan dokumen, dan data yuridis maupun fisik yang tidak
+akurat (Aziziyah, 2023; Syafiyah, 2021). Data dari Kementerian Agraria dan Tata
+Ruang/Badan Pertanahan Nasional (ATR/BPN) menunjukkan skala masalah yang signifikan,
+dengan angka sengketa yang dilaporkan berkisar antara 8.000 hingga puluhan ribu kasus setiap
+tahunnya, mencerminkan tantangan besar yang dihadapi pemerintah (Konsorsium Pembaruan
+Agraria, 2023). Pada tahun 2022 saja, dilaporkan terdapat 212 kasus konflik agraria, sebuah
+kenaikan dari tahun sebelumnya (Konsorsium Pembaruan Agraria, 2023). Angka-angka ini
+menggarisbawahi urgensi reformasi yang mendalam, di mana digitalisasi dipandang sebagai
+salah satu pilar utamanya, untuk mengurangi potensi masalah tumpang tindih dan pemalsuan
+dokumen tanah yang terjadi selama ini (Rinandar, 2021; Muflihat Rinandar, 2021; Tumbal,
+2018).
+Meskipun transisi ke Sertipikat-el merupakan langkah yang logis dan perlu secara
+teknologi, implementasinya menghadapi sejumlah permasalahan mendasar. Pertama, terdapat
+ketidakjelasan kekuatan pembuktian Sertipikat-el di hadapan pengadilan, mengingat hukum
+acara perdata Indonesia (HIR/RBg) yang berlaku saat ini tidak mengatur secara spesifik
+mengenai autentikasi dan pemeriksaan alat bukti elektronik (Salis Wulandari Fahdamir, 2024).
+Kedua, kerentanan keamanan siber yang melekat pada sistem digital menciptakan ancaman
+baru terhadap integritas data pertanahan (Pratama, 2025; Sinambela, 2024). Ketiga,
+kesenjangan digital yang lebar antara wilayah perkotaan dan perdesaan berpotensi
+memarginalkan masyarakat yang tidak memiliki akses atau kemampuan untuk mengelola aset
+digital (Nidhal, 2025; World Bank, 2021). Keempat, terdapat risiko mengabadikan kesalahan
+8415\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+data (error calcification) dari sistem analog ke dalam sistem digital, yang justru dapat
+memperparah sengketa yang ada (Hadiyat, 2014).
+Penelitian ini sangat urgent untuk dilakukan karena Sertipikat-el telah menjadi kebijakan
+nasional yang sedang diimplementasikan secara masif. Ketidaksiapan dari aspek hukum,
+teknologi, dan sosial dapat berakibat fatal, bukan hanya gagal menyelesaikan sengketa yang
+ada tetapi justru melahirkan bentuk-bentuk konflik baru yang lebih kompleks. Kegagalan
+sistem ini akan berdampak langsung pada kepastian hukum hak milik atas tanah, yang
+merupakan fondasi dari stabilitas sosial dan pertumbuhan ekonomi.
+Sejumlah penelitian sebelumnya telah membahas aspek-aspek tertentu dari Sertipikat-el.
+Beberapa fokus pada analisis normatif landasan hukumnya (seperti UU ITE dan UU Cipta
+Kerja), sementara yang lain mengkaji tantangan teknis implementasinya atau potensi
+pemanfaatan teknologi seperti blockchain. Namun, penelitian-penelitian tersebut cenderung
+terfragmentasi, menganalisis aspek-aspek tersebut secara terpisah. Kesenjangan penelitian
+(research gap) yang diidentifikasi adalah belum adanya kajian yang komprehensif dan
+terintegrasi yang menghubungkan analisis yuridis terhadap kekuatan pembuktian, kajian
+mendalam tentang kerentanan keamanan siber, dan pendekatan sosio-legal mengenai
+kesenjangan digital dalam satu kerangka analisis yang utuh untuk menilai efektivitas dan
+keadilan dari transisi digital ini.
+Kebaruan dari penelitian ini terletak pada pendekatan multidisiplin dan holistik yang
+menjembatani tiga bidang utama: hukum (kekosongan hukum acara), teknologi (manajemen
+risiko siber), dan sosial (inklusi digital). Penelitian ini tidak hanya mengidentifikasi masalah
+tetapi juga menghubungkan titik-titik kritis antara ketiganya, seperti bagaimana kekosongan
+hukum acara menyebabkan "privatisasi autentikasi pembuktian" yang berdampak pada akses
+keadilan, atau bagaimana kesenjangan digital berpotensi memperburuk ketimpangan. Selain
+itu, penelitian ini menghadirkan analisis komparatif dengan model internasional (Singapura
+dan Malaysia) serta eksplorasi teknologi masa depan (blockchain) untuk memberikan
+rekomendasi kebijakan yang kontekstual dan robust.
+Berdasarkan permasalahan dan kesenjangan yang telah diuraikan, tujuan penelitian ini
+adalah untuk menganalisis kekuatan hukum substantif serta mengidentifikasi kekosongan
+prosedural Sertipikat-el sebagai alat bukti dalam sistem peradilan Indonesia, mengkaji
+kerentanan keamanan siber dan risiko integritas data dalam sistem registri tanah digital,
+mengevaluasi dampak kesenjangan digital terhadap implementasi yang adil dan inklusif, serta
+merumuskan sebuah kerangka strategis yang integratif—meliputi reformasi hukum, tata kelola
+teknologi, dan kesiapan sosio-legal—untuk memastikan transisi menuju administrasi
+pertanahan digital yang aman, pasti hukum, dan berkeadilan. Secara teoritis, penelitian ini
+diharapkan dapat memberikan kontribusi pada pengembangan ilmu hukum, khususnya hukum
+agraria dan hukum pembuktian di era digital, dengan memperkaya diskursus mengenai
+interaksi antara hukum, teknologi, dan masyarakat. Secara praktis, hasil penelitian ini
+diharapkan dapat menjadi masukan bagi pembuat kebijakan dalam merumuskan reformasi
+hukum acara dan regulasi teknis yang lebih matang, memberikan panduan bagi aparat penegak
+hukum dalam menangani perkara yang melibatkan bukti elektronik, serta menjadi acuan bagi
+penyelenggara negara dalam menyusun strategi implementasi, mitigasi risiko siber, dan
+program literasi digital. Selain itu, penelitian ini bertujuan untuk meningkatkan kesadaran dan
+kapasitas masyarakat dalam menghadapi era kepemilikan properti digital.
+8416\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+METODE PENELITIAN
+Penelitian ini menggunakan pendekatan yuridis normatif dengan metode analisis isi
+(content analysis) terhadap peraturan perundang-undangan, literatur hukum, dan dokumen
+kebijakan terkait sertifikat tanah elektronik di Indonesia. Selain itu, dilakukan analisis
+komparatif terhadap praktik terbaik dari negara lain seperti Singapura dan Malaysia, serta
+eksplorasi teknologi terkini seperti blockchain dalam konteks administrasi pertanahan digital.
+Data primer diperoleh dari studi peraturan perundang-undangan seperti UUPA, UU ITE, UU
+Cipta Kerja, Peraturan Menteri ATR/BPN, serta putusan pengadilan yang relevan. Data
+sekunder meliputi jurnal hukum, laporan lembaga internasional, dan publikasi resmi
+pemerintah. Analisis dilakukan secara kualitatif dengan teknik interpretasi hukum, identifikasi
+kekosongan regulasi, dan evaluasi terhadap konsistensi dan efektivitas kerangka hukum yang
+ada. Hasil analisis kemudian disintesis untuk merumuskan rekomendasi kebijakan yang
+holistik dan kontekstual.
+HASIL DAN PEMBAHASAN
+Menavigasi Lanskap Regulasi Hibrida Indonesia
+Dasar hukum pertanahan di Indonesia diletakkan oleh Undang-Undang No. 5 Tahun
+1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA). Sistem pendaftaran tanah yang
+dianut adalah "sistem publikasi negatif yang mengandung unsur positif". Ini berarti sertifikat
+yang diterbitkan oleh pemerintah berfungsi sebagai alat bukti yang kuat mengenai kepemilikan
+hak atas tanah. Namun, sistem ini tidak memberikan jaminan mutlak dari negara atas kebenaran
+data yang tercantum di dalamnya. Akibatnya, data dalam sertifikat masih dapat digugat dan
+dibatalkan oleh pengadilan jika pihak lain dapat membuktikan hak yang lebih kuat. Sifat
+inheren dari sistem ini menjadi salah satu akar penyebab tingginya jumlah sengketa pertanahan,
+karena kepastian yang diberikan oleh sertifikat bersifat relatif, bukan absolut.
+Implementasi Sertipikat-el dimungkinkan oleh serangkaian peraturan perundang-
+undangan yang saling melengkapi, menciptakan sebuah kerangka hukum hibrida. Landasan
+utamanya adalah Undang-Undang No. 11 Tahun 2008 tentang Informasi dan Transaksi
+Elektronik (UU ITE) sebagaimana telah diubah, yang secara fundamental memberikan
+pengakuan hukum yang setara antara dokumen elektronik dan tanda tangan elektronik dengan
+dokumen dan tanda tangan konvensional di atas kertas. Prinsip ini menjadi jembatan yang
+menghubungkan hukum agraria tradisional dengan era digital.
+Pengakuan ini diperkuat oleh Undang-Undang No. 11 Tahun 2020 tentang Cipta Kerja,
+yang dalam Pasal 147 secara eksplisit menyatakan bahwa tanda bukti hak atas tanah dapat
+berbentuk elektronik. Ketentuan ini kemudian dijabarkan lebih lanjut dalam peraturan
+pelaksananya, yaitu Peraturan Pemerintah (PP) No. 18 Tahun 2021, yang menegaskan bahwa
+penyelenggaraan pendaftaran tanah dapat dilakukan secara elektronik. Kombinasi dari
+berbagai peraturan ini menciptakan sebuah "lapisan digital" di atas fondasi hukum agraria yang
+sudah ada.
+Namun, struktur hukum ini lebih menyerupai tambal sulam reaktif daripada sebuah
+desain ulang yang proaktif dan terintegrasi. Fondasi UUPA 1960 dirancang untuk dunia analog
+berbasis kertas dengan filosofi kepastian hukum yang relatif. Di sisi lain, UU ITE dan peraturan
+turunannya memperkenalkan paradigma digital yang mengasumsikan adanya satu sumber
+8417\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+kebenaran data yang tunggal dan otoritatif. Ketegangan antara filosofi sistem publikasi negatif
+yang mengakui kemungkinan adanya kesalahan data dan ekspektasi publik terhadap sistem
+digital yang dianggap sempurna merupakan sumber laten konflik hukum di masa depan.
+Regulasi teknis utama yang mengatur implementasi Sertipikat-el adalah Peraturan
+Menteri ATR/Kepala BPN No. 3 Tahun 2023 tentang Penerbitan Dokumen Elektronik dalam
+Kegiatan Pendaftaran Tanah. Peraturan ini secara signifikan mencabut dan menggantikan
+peraturan sebelumnya, yaitu Permen ATR/BPN No. 1 Tahun 2021. Perubahan cepat dalam
+regulasi setingkat menteri ini—hanya dalam kurun waktu dua tahun—mengindikasikan adanya
+proses pembelajaran dan penyesuaian kebijakan oleh pemerintah dalam menghadapi
+kompleksitas implementasi di lapangan.
+Permen No. 3/2023 mengatur secara rinci proses penerbitan Sertipikat-el, baik untuk
+pendaftaran tanah pertama kali maupun untuk penggantian (konversi) sertifikat analog yang
+sudah ada. Proses ini melibatkan validasi data fisik dan yuridis yang ada di sistem elektronik
+dengan data pada buku tanah dan sertifikat fisik. Jika data sesuai, sertifikat fisik akan ditarik
+oleh Kantor Pertanahan dan dialihmediakan menjadi warkah digital. Keamanan dokumen
+dijamin melalui penggunaan Tanda Tangan Elektronik (TTE) yang disertifikasi oleh
+Penyelenggara Sertifikasi Elektronik (PSrE), dalam hal ini Balai Sertifikasi Elektronik (BSrE),
+serta penggunaan stempel digital.
+Tabel 1. Analisis Perbandingan Ketentuan Kunci Permen ATR/BPN No. 1/2021 dan
+Permen ATR/BPN No. 3/2023
+Ketentuan Permen ATR/BPN No. Permen ATR/BPN No. Analisis Perubahan
+1/2021 3/2023 dan Implikasi
+Fokus Regulasi Secara spesifik Mengatur "Penerbitan Perluasan cakupan
+mengatur tentang Dokumen Elektronik menunjukkan
+"Sertipikat dalam Kegiatan pendekatan yang lebih
+Elektronik". Pendaftaran Tanah" komprehensif, tidak
+secara lebih luas. hanya pada produk
+akhir (sertifikat) tetapi
+seluruh dokumen
+dalam proses
+pendaftaran tanah.
+Status Sertifikat Sertifikat fisik ditarik Mempertegas bahwa Penegasan ini
+Fisik dan disatukan setelah sertifikat penting untuk
+dengan buku tanah elektronik diterbitkan, menghindari
+untuk disimpan sertifikat fisik (analog) dualisme dan
+sebagai warkah. tidak lagi berlaku. kebingungan hukum
+mengenai sertifikat
+mana yang valid.
+Proses Konversi Penggantian dapat Proses konversi Integrasi yang lebih
+dilakukan atas diintegrasikan dalam baik ke dalam alur
+permohonan layanan kegiatan pendaftaran kerja pendaftaran
+pemeliharaan data. tanah secara umum, tanah yang sudah
+baik untuk pertama ada, menunjukkan
+kali maupun upaya
+pemeliharaan data. penyederhanaan
+prosedur.
+Keamanan Sistem Menekankan Secara eksplisit Penekanan pada
+penggunaan TTE dan menyatakan bahwa tanggung jawab
+keamanan data Kementerian penyelenggara
+secara umum. menyelenggarakan (Kementerian)
+8418\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+Ketentuan Permen ATR/BPN No. Permen ATR/BPN No. Analisis Perubahan
+1/2021 3/2023 dan Implikasi
+Sistem Elektronik memberikan dasar
+secara andal dan aman hukum yang lebih
+serta bertanggung kuat bagi
+jawab atas akuntabilitas sistem.
+operasionalnya.
+Sumber: Peraturan Menteri ATR/Kepala BPN Nomor 1 Tahun 2021 dan Nomor 3 Tahun 2023
+A. Janji dan Bahaya Sertifikat Digital: Sebuah Analisis Dikotomis
+Transformasi ke Sertipikat-el menawarkan sejumlah keunggulan signifikan yang
+berpotensi merevolusi administrasi pertanahan di Indonesia.
+• Efisiensi dan Aksesibilitas: Proses administrasi seperti pendaftaran, verifikasi, dan
+transaksi dapat dipercepat secara drastis. Pemilik tanah dan pihak berkepentingan dapat
+mengakses informasi secara real-time dari mana saja, mengurangi birokrasi, antrian, dan
+biaya transportasi.
+• Keamanan Fisik yang Ditingkatkan: Sertipikat-el menghilangkan risiko yang melekat pada
+dokumen fisik, seperti kehilangan, pencurian, atau kerusakan akibat bencana alam seperti
+banjir dan kebakaran, yang merupakan ancaman nyata di Indonesia.
+• Transparansi dan Akuntabilitas: Setiap transaksi dan perubahan data tercatat dalam jejak
+audit (audit trail) digital yang jelas. Hal ini meningkatkan transparansi, menyulitkan
+praktik pemalsuan atau perubahan data ilegal, dan berpotensi mengurangi korupsi.
+• Integrasi Ekonomi: Sistem digital memungkinkan integrasi yang mulus dengan layanan
+lain, seperti sistem perpajakan, perencanaan tata ruang kota, dan yang terpenting, sektor
+perbankan. Ini dapat mempermudah proses pengajuan kredit dengan agunan tanah dan
+meningkatkan kepercayaan investor.
+Bahaya Implementasi
+Di balik janji modernisasi, terdapat sejumlah risiko dan kerentanan mendalam yang dapat
+menggagalkan tujuan reformasi jika tidak ditangani dengan serius.
+• Jurang Kesenjangan Digital: Kesenjangan digital adalah hambatan utama bagi
+implementasi yang adil dan merata. Data menunjukkan disparitas yang tajam dalam akses
+dan penetrasi internet antara wilayah perkotaan dan perdesaan di Indonesia. Laporan Bank
+Dunia pada tahun 2021 menyoroti bahwa pada tahun 2019, 62% orang dewasa di
+perkotaan terhubung ke internet, dibandingkan dengan hanya 36% di perdesaan. Selain itu,
+tingkat literasi digital masyarakat, meskipun meningkat, masih menjadi tantangan. Indeks
+Masyarakat Digital Indonesia (IMDI) pada tahun 2024 berada di skor 43,34, sebuah
+peningkatan tipis dari tahun sebelumnya, yang mengindikasikan bahwa sebagian besar
+populasi mungkin belum memiliki keterampilan yang memadai untuk mengelola aset
+digital sepenting hak atas tanah. Kesenjangan ini berisiko memarginalkan kelompok rentan
+yang tidak memiliki akses perangkat, konektivitas, atau pengetahuan, sehingga mereka
+tidak dapat mengelola atau mempertahankan hak-hak properti digital mereka.
+• Ancaman Keamanan Siber: Sentralisasi data pertanahan dalam satu sistem digital
+menciptakan target bernilai tinggi bagi para pelaku kejahatan siber. Ancaman spesifik
+meliputi:
+8419\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+- Ransomware: Serangan yang mengenkripsi seluruh basis data dan menuntut tebusan
+untuk pemulihan. Insiden lumpuhnya sistem kadaster Slovakia akibat serangan
+ransomware menjadi peringatan nyata akan potensi kehancuran layanan publik vital.
+- Phishing dan Penipuan: Pelaku dapat menggunakan rekayasa sosial untuk mencuri
+kredensial akses dari pejabat atau pemilik tanah, yang kemudian digunakan untuk
+memanipulasi data atau melakukan penipuan transaksi properti.
+- Ancaman dari Dalam (Insider Threats): Risiko terbesar sering kali datang dari dalam,
+baik melalui tindakan sengaja maupun kelalaian oleh personel yang memiliki akses ke
+sistem.
+- Pelanggaran Data (Data Breaches): Pencurian massal data pribadi dan properti yang
+sensitif dari server pemerintah, yang dapat dieksploitasi untuk berbagai tujuan kriminal.
+• Krisis Integritas Data: "Sampah Masuk, Injil Keluar" Sebuah risiko yang sering terabaikan
+namun paling fundamental adalah integritas data yang dimasukkan ke dalam sistem.
+Proses konversi jutaan sertifikat analog ke format digital berisiko tidak hanya
+memindahkan kesalahan ketik, tetapi juga mengabadikan cacat hukum yang sudah ada
+sebelumnya, seperti data yang tidak akurat atau klaim tumpang tindih.Proses ini dapat
+mengarah pada apa yang disebut "kalsifikasi kesalahan" (error calcification). Logikanya
+adalah sebagai berikut: sistem digital dirancang untuk menjadi satu-satunya sumber
+kebenaran yang otoritatif. Otoritas ini bergantung pada asumsi bahwa datanya akurat.
+Namun, sumber data awal adalah catatan analog yang diketahui penuh dengan kesalahan.
+Jika proses konversi tidak disertai dengan validasi ulang fisik dan yuridis yang ketat di
+lapangan untuk setiap bidang tanah—sebuah tugas yang sangat besar—maka sistem
+tersebut secara tak terhindarkan akan mendigitalisasi kesalahan-kesalahan historis
+tersebut. Begitu sebuah kesalahan tertanam dalam sistem digital yang "otoritatif",
+kesalahan itu menjadi seolah-olah "membatu". Ia memperoleh lapisan infalibilitas
+teknologi yang membuatnya jauh lebih sulit untuk ditantang oleh warga biasa
+dibandingkan dengan dokumen kertas yang disengketakan. Alih-alih menyelesaikan
+ambiguitas, digitalisasi justru dapat mengunci ketidakadilan dan kesalahan administratif
+masa lalu secara permanen, mengubah kesalahan kertas yang dapat diperbaiki menjadi
+fakta digital yang tampak tak terbantahkan.
+B. Titik Temu Konflik: Dampak Digitalisasi pada Sengketa Tanah
+Sengketa tanah tetap menjadi salah satu masalah hukum yang paling lazim di
+Indonesia. Data yang dilaporkan oleh Kementerian ATR/BPN menunjukkan volume kasus
+yang terus-menerus tinggi, meskipun angka yang dilaporkan terkadang bervariasi antar
+pejabat dan periode waktu, yang mengindikasikan tantangan dalam konsolidasi data
+nasional.
+Tabel 2. Trend dan Tipologi Sengketa Tanah di Indonesia (Data Terpilih 2019-2024)
+Tahun Jumlah Kasus/Sengketa Sumber Laporan Catatan/Tipologi
+yang Dilaporkan Utama
+2019 8.959 sengketa/kasus Menteri ATR/BPN Sengketa antara
+Sofyan Djalil masyarakat, masyarakat
+dengan TNI, dll.
+8420\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+Tahun Jumlah Kasus/Sengketa Sumber Laporan Catatan/Tipologi
+yang Dilaporkan Utama
+2022 8.000 kasus sengketa Menteri ATR/BPN Termasuk konflik
+Sofyan Djalil pertanahan secara umum.
+2022 212 konflik agraria Konsorsium Pembaruan Fokus pada konflik
+Agraria struktural, kenaikan
+2,36% dari 2021.
+2024 2.161 kasus (936 Menteri ATR/BPN Kategori: low intensity
+sengketa, 32 konflik, Nusron Wahid (5.552), high intensity
+1.193 perkara) (374), political intensity
+(47).
+2024 48.000 konflik Menteri ATR/BPN Angka yang jauh lebih
+pertanahan (79% selesai) Nusron Wahid tinggi, kemungkinan
+mencakup pengaduan
+yang lebih luas.
+2015-2024 28.864 sengketa BPN (dilaporkan 2025) Rata-rata pengaduan
+dituntaskan masuk ~6.000 per tahun.
+Sumber: Kompilasi dari. Catatan: Perbedaan angka yang signifikan kemungkinan disebabkan oleh
+perbedaan definisi (sengketa vs. konflik vs. perkara vs. pengaduan) dan metodologi pelaporan.
+Tipologi sengketa sangat beragam, mulai dari sengketa waris antarindividu, tumpang tindih sertifikat,
+hingga konflik skala besar antara masyarakat adat dengan korporasi atau proyek pembangunan
+negara.
+Implementasi Sertipikat-el memiliki dampak ganda terhadap lanskap sengketa pertanahan.
+• Potensi Penyelesaian Sengketa: Di satu sisi, sistem digital yang terpusat dan terintegrasi
+berpotensi menyelesaikan jenis sengketa tertentu secara definitif. Misalnya, kasus
+sertifikat ganda atau tumpang tindih yang disebabkan oleh catatan manual yang tidak
+sinkron dapat dieliminasi dengan adanya satu catatan digital yang otoritatif dan memiliki
+jejak waktu yang jelas. Transparansi yang lebih tinggi juga dapat mempersulit praktik
+mafia tanah yang mengandalkan pemalsuan dokumen fisik.
+• Potensi Bentuk Konflik Baru: Di sisi lain, sistem digital itu sendiri dapat menjadi arena
+baru bagi perselisihan. Bentuk-bentuk konflik baru yang mungkin muncul meliputi:
+- Sengketa Akibat Kesalahan Konversi: Ketidaksesuaian data antara sertifikat fisik dan
+data yang dimasukkan ke dalam sistem elektronik (misalnya, kesalahan penulisan
+nama, luas, atau koordinat batas) dapat menjadi dasar gugatan baru.
+- Pemalsuan Digital: Manipulasi data atau tanda tangan elektronik dalam sistem.
+Meskipun secara teknis lebih sulit daripada pemalsuan fisik, jika berhasil dilakukan,
+dampaknya bisa lebih merusak karena status "otoritatif" dari data digital.
+- Eksklusi Berbasis Akses: Sengketa dapat timbul ketika satu pihak, karena keterbatasan
+akses atau literasi digital, tidak dapat memverifikasi status tanahnya atau merespons
+pemberitahuan elektronik, sementara pihak lain yang lebih melek digital dapat
+memanfaatkan sistem untuk keuntungannya.
+C. Tungku Keadilan: Kekuatan Pembuktian dan Kekosongan Prosedural
+Secara hukum substantif, kedudukan Sertipikat-el sebagai alat bukti di pengadilan
+sangatlah kuat. UU ITE, khususnya Pasal 5, secara tegas menyatakan bahwa informasi
+elektronik, dokumen elektronik, dan/atau hasil cetaknya merupakan alat bukti hukum yang
+sah dan merupakan perluasan dari alat bukti yang sah sesuai dengan hukum acara yang
+8421\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+berlaku di Indonesia. Berdasarkan ketentuan ini, Sertipikat-el diakui sebagai akta otentik
+yang memiliki kekuatan pembuktian sempurna dan mengikat (alat bukti yang sempurna
+dan mengikat), setara dengan sertifikat fisik. Pengadilan, baik perdata maupun tata usaha
+negara, secara prinsip wajib menerimanya sebagai bukti kepemilikan yang sah.
+Meskipun kekuatan substantifnya jelas, masalah fundamental muncul pada tataran
+hukum acara (hukum formil). Sistem pembuktian perdata di Indonesia masih diatur oleh
+Herziene Inlandsch Reglement (HIR) untuk wilayah Jawa dan Madura, dan
+Rechtsreglement voor de Buitengewesten (RBg) untuk wilayah di luarnya. Kedua produk
+hukum warisan kolonial ini dirancang seabad sebelum era digital dan, tentu saja, tidak
+memuat satu pun ketentuan mengenai tata cara pengajuan, pemeriksaan, dan autentikasi
+bukti elektronik di persidangan. Ketiadaan aturan main ini menciptakan kekosongan
+hukum (kekosongan hukum) yang signifikan, meninggalkan hakim, pengacara, dan para
+pihak dalam ketidakpastian prosedural.
+Dalam menghadapi kekosongan hukum acara ini, hakim di Indonesia terpaksa
+melakukan penemuan hukum (rechtsvinding) untuk dapat mengadili perkara yang
+melibatkan bukti digital. Hakim harus menafsirkan dan menerapkan prinsip-prinsip hukum
+yang ada secara analogis untuk menangani bukti yang tidak diatur secara eksplisit.
+Meskipun rechtsvinding adalah fungsi luhur peradilan, ketergantungan yang berlebihan
+padanya tanpa adanya pedoman legislatif yang jelas dapat menyebabkan inkonsistensi
+putusan antar pengadilan. Satu majelis hakim mungkin menerima bukti digital dengan
+pendekatan yang lebih longgar, sementara majelis lain mungkin menerapkan standar yang
+lebih ketat, sehingga merusak prinsip kepastian hukum dan prediktabilitas bagi para
+pencari keadilan.
+Dalam praktik, jurang prosedural ini sering kali dijembatani melalui penggunaan
+keterangan ahli (saksi ahli), khususnya ahli forensik digital. Ketika keaslian atau integritas
+sebuah Sertipikat-el atau data pendukungnya diragukan, pengadilan akan sangat
+bergantung pada analisis teknis dari seorang ahli. Ahli forensik digital bertugas untuk
+melakukan serangkaian prosedur guna memverifikasi keaslian tanda tangan elektronik,
+memastikan data tidak mengalami perubahan sejak dibuat (integrity), dan melacak jejak
+digitalnya (chain of custody). Laporan dan kesaksian mereka di persidangan secara efektif
+menyediakan validasi teknis yang tidak dapat disediakan oleh hukum acara yang ada.
+Namun, ketergantungan pada mekanisme ini melahirkan konsekuensi serius. Proses
+validasi bukti, yang seharusnya menjadi fungsi inti dari prosedur peradilan, secara efektif
+dialihkan kepada pihak swasta. Ini adalah bentuk "privatisasi autentikasi pembuktian".
+Karena jasa ahli forensik digital memerlukan biaya yang tidak sedikit, akses terhadap
+mekanisme validasi ini menjadi tidak merata. Pihak yang berperkara dengan sumber daya
+finansial yang cukup dapat menyewa ahli untuk memperkuat posisi mereka atau
+menantang bukti lawan. Sebaliknya, pihak yang kurang mampu secara ekonomi mungkin
+tidak dapat melakukan hal yang sama, meskipun klaim mereka secara substantif benar.
+Akibatnya, hasil dari sengketa tanah digital dapat ditentukan bukan oleh kebenaran
+materiil, melainkan oleh kemampuan finansial para pihak untuk membayar validasi teknis.
+Celah prosedural ini dengan demikian bertransformasi menjadi penghalang signifikan
+terhadap akses terhadap keadilan (access to justice), berpotensi memperdalam
+ketidaksetaraan sosial dan ekonomi.
+8422\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+D. Kerangka Implementasi yang Tangguh: Strategi Teknologi, Hukum, dan Sosial
+Untuk melindungi aset data pertanahan nasional yang krusial, diperlukan sebuah
+strategi keamanan siber yang sistematis dan proaktif, bukan reaktif.
+• Adopsi Standar Internasional: Pemerintah, melalui Kementerian ATR/BPN, harus
+mengadopsi dan menerapkan secara wajib standar internasional seperti ISO/IEC 27001
+untuk Sistem Manajemen Keamanan Informasi (Information Security Management
+System - ISMS). Sertifikasi ini memastikan adanya pendekatan sistematis terhadap
+manajemen risiko keamanan informasi.
+• Implementasi Kerangka Manajemen Risiko: Menggunakan model seperti Cybersecurity
+Framework dari National Institute of Standards and Technology (NIST) yang mencakup
+lima fungsi inti: Identifikasi (Identify), Lindungi (Protect), Deteksi (Detect), Respons
+(Respond), dan Pulihkan (Recover). Kerangka kerja ini menyediakan bahasa yang sama
+dan pendekatan yang terstruktur untuk mengelola risiko siber.
+• Kontrol Teknis Wajib: Implementasi kontrol teknis yang kuat adalah keharusan, termasuk
+enkripsi end-to-end untuk data saat transit dan saat disimpan, autentikasi multi-faktor
+(MFA) untuk semua akses, kontrol akses berbasis peran (Role-Based Access Control -
+RBAC), pengujian penetrasi (penetration testing) secara berkala oleh pihak ketiga yang
+independen, dan strategi pencadangan data yang aman dan terpisah secara geografis untuk
+memastikan kelangsungan bisnis jika terjadi serangan.
+Tabel 3: Kerangka Mitigasi Keamanan Siber yang Diusulkan untuk Registri Tanah
+Digital Indonesia
+Kontrol Mitigasi yang
+Direkomendasikan Aktor yang
+Kategori Ancaman Contoh Risiko Spesifik
+(berbasis NIST/ISO Bertanggung Jawab
+27001)
+Serangan Malware Ransomware - Backup data reguler, ATR/BPN, BSSN
+mengenkripsi basis data teruji, dan terisolasi
+kadaster, melumpuhkan (NIST PR.IP-4).<br>-
+layanan. Sistem deteksi intrusi dan
+anti-malware (NIST
+DE.CM-8).<br>-
+Rencana respons insiden
+yang komprehensif
+(NIST RS.RP-1).
+Akses Tidak Sah Phishing yang berhasil - Autentikasi Multi- ATR/BPN, Kominfo
+mencuri kredensial Faktor (MFA) untuk
+admin sistem. semua pengguna (ISO
+A.8.5).<br>- Pelatihan
+kesadaran keamanan dan
+simulasi phishing (ISO
+A.7.2).<br>- Prinsip hak
+akses paling minim (least
+privilege) (ISO A.9.2).
+Ancaman Internal Pegawai dengan akses - Kontrol Akses Berbasis ATR/BPN
+memanipulasi data Peran (RBAC) (ISO
+kepemilikan. A.9.2).<br>- Pencatatan
+dan pemantauan aktivitas
+pengguna (logging &
+8423\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+Kontrol Mitigasi yang
+Direkomendasikan Aktor yang
+Kategori Ancaman Contoh Risiko Spesifik
+(berbasis NIST/ISO Bertanggung Jawab
+27001)
+monitoring) (NIST
+DE.CM-1).<br>-
+Prosedur pemeriksaan
+latar belakang yang ketat
+(ISO A.7.1).
+Pelanggaran Data Peretas mengeksploitasi - Manajemen kerentanan ATR/BPN, BSSN
+kerentanan perangkat dan penambalan
+lunak untuk mencuri data (patching) rutin (NIST
+pribadi. PR.IP-12).<br>- Enkripsi
+data saat disimpan dan
+saat transit (ISO
+A.10.1).<br>- Keamanan
+jaringan dengan firewall
+dan segmentasi (ISO
+A.13.1).
+Sumber: Dikembangkan berdasarkan adaptasi kerangka keamanan siber NIST dan ISO/IEC
+27001 untuk konteks sistem pertanahan digital Indonesia
+Kesiapan Sosio-Legal: Membangun Kapasitas dan Kepercayaan
+• Kampanye Literasi Digital Nasional: Pemerintah harus meluncurkan program sosialisasi
+dan edukasi publik yang masif dan berkelanjutan. Kampanye ini harus dirancang khusus
+untuk menjangkau masyarakat di daerah perdesaan dan kelompok dengan tingkat literasi
+digital rendah, menjelaskan manfaat, risiko, dan cara penggunaan Sertipikat-el secara
+aman.
+• Peningkatan Kapasitas Aktor Hukum: Diperlukan program pengembangan profesional
+berkelanjutan yang diwajibkan bagi seluruh aparat penegak hukum (hakim, jaksa,
+pengacara) dan pejabat publik terkait, terutama Pejabat Pembuat Akta Tanah (PPAT).
+Pelatihan ini harus mencakup penanganan bukti digital, pemahaman laporan forensik
+digital, dan alur kerja baru dalam sistem pertanahan elektronik.
+Reformasi Regulasi: Menutup Jurang Prosedural
+• Amandemen Hukum Acara Perdata: Prioritas utama adalah mereformasi HIR/RBg atau
+memberlakukan Kitab Undang-Undang Hukum Acara Perdata yang baru dan modern.
+Reformasi ini harus mencakup pasal-pasal spesifik yang mengatur tentang tata cara
+pengajuan, syarat-syarat keabsahan, autentikasi, dan pemeriksaan bukti elektronik di
+persidangan. UNCITRAL Model Law on Electronic Commerce dapat dijadikan rujukan
+utama dalam perumusan norma-norma ini.
+• Klarifikasi Tanggung Jawab PPAT: Perlu ada regulasi yang lebih jelas mengenai lingkup
+tanggung jawab dan kewajiban hukum PPAT dalam proses validasi data elektronik
+sebelum melakukan perbuatan hukum. Ini penting untuk memberikan perlindungan hukum
+bagi PPAT dari tuntutan yang tidak semestinya, sekaligus memastikan mereka
+menjalankan fungsi verifikasi dengan cermat untuk melindungi para pihak yang
+bertransaksi.
+8424\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+E. Pelajaran dari Panggung Global: Sebuah Perspektif Komparatif
+• Singapura: Tolok Ukur Efisiensi: Singapore Land Authority (SLA) mengelola sistem
+pendaftaran tanah digital yang sangat efisien, terintegrasi, dan andal. Sistem ini menjadi
+model dalam hal kecepatan transaksi dan keakuratan data. Namun, perlu dicatat bahwa
+keberhasilan Singapura juga ditopang oleh konteksnya sebagai negara kota yang kecil
+dengan infrastruktur yang sangat maju dan sistem hukum common law yang berbeda.
+• Malaysia: Pelajaran tentang Fragmentasi: Pengalaman Malaysia menunjukkan tantangan
+yang dihadapi negara besar dalam mengintegrasikan sistem pertanahan. Masalah
+fragmentasi data antar wilayah dan kurangnya interoperabilitas menjadi pelajaran berharga
+bagi Indonesia, yang sebagai negara kepulauan menghadapi tantangan geografis dan
+administratif yang serupa dalam skala yang jauh lebih besar.
+Menjelajahi Teknologi Masa Depan: Kasus Blockchain
+Teknologi blockchain sering disebut-sebut sebagai solusi masa depan untuk pendaftaran
+tanah karena sifatnya yang terdesentralisasi dan tidak dapat diubah (immutable). Proyek
+percontohan di Swedia oleh Lantmäteriet menunjukkan potensi blockchain untuk
+meningkatkan keamanan dan transparansi. Namun, proyek tersebut juga menyoroti berbagai
+tantangan signifikan, termasuk kompleksitas hukum, skalabilitas teknis, dan resistensi
+institusional, yang telah memperlambat adopsi secara luas. Bagi Indonesia, blockchain
+mungkin merupakan teknologi yang menjanjikan di masa depan, tetapi bukan merupakan
+solusi jangka pendek untuk masalah fundamental saat ini, yaitu kualitas data dan kerangka
+hukum prosedural.
+Sintesis Praktik Terbaik
+Analisis komparatif ini menyimpulkan bahwa keberhasilan transformasi digital
+administrasi pertanahan lebih bergantung pada kesiapan institusional, kejelasan hukum, dan
+kualitas data dasar daripada pada pilihan teknologi spesifik.
+Tabel 4. Matriks Perbandingan Sistem Administrasi Tanah Digital
+Swedia (Model
+Fitur Kunci Indonesia Singapura Malaysia
+Blockchain)
+Kerangka Hibrida (UUPA + Land Titles Act, Sistem Torrens, Eksperimental,
+Hukum UU ITE), regulasi terintegrasi penuh. hukum federal dan belum ada
+menteri yang negara bagian. kerangka hukum
+dinamis. penuh.
+Sistem Publikasi Negatif dengan Positif (jaminan Negatif (Sistem Terdesentralisasi
+unsur positif. negara atas titel). Torrens). (secara teori).
+Platform Sistem terpusat Terintegrasi Terfragmentasi Distributed
+Teknologi dikelola (INLIS, STARS). antar wilayah. Ledger
+ATR/BPN. Technology
+(DLT).
+Tantangan Kualitas data, Keamanan data, Fragmentasi data, Skalabilitas,
+Utama kesenjangan privasi. interoperabilitas. adopsi hukum,
+digital, resistensi
+kekosongan institusional.
+hukum acara.
+Sumber: Disusun berdasarkan studi komparatif terhadap model administrasi tanah digital di
+Indonesia, Singapura, Malaysia, dan proyek percontohan blockchain di Swedia
+8425\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+KESIMPULAN
+Digitalisasi sertifikat tanah adalah upaya modernisasi yang krusial dan tak terhindarkan
+bagi Indonesia. Namun, potensi inisiatif ini untuk mengamankan hak atas tanah dan
+mengurangi konflik secara fundamental dibatasi oleh kerangka hukum acara yang usang, risiko
+keamanan siber yang signifikan, dan kesenjangan digital masyarakat yang dalam. Tanpa
+mengatasi ketiga kendala ini secara simultan, transformasi digital berisiko menjadi solusi
+teknologis untuk masalah yang pada dasarnya bersifat struktural, hukum, dan sosial. Analisis
+ini mengidentifikasi beberapa temuan kritis. Pertama, kerangka hukum yang ada bersifat
+"tambal sulam reaktif", yang menciptakan potensi inkonsistensi. Kedua, terdapat risiko nyata
+"kalsifikasi kesalahan", di mana digitalisasi data analog yang cacat dapat mengabadikan
+ketidakadilan alih-alih menyelesaikannya. Ketiga, dan yang paling mengkhawatirkan dari
+perspektif keadilan, adalah "privatisasi autentikasi pembuktian", di mana kekosongan hukum
+acara memaksa para pihak untuk bergantung pada ahli forensik digital yang mahal, sehingga
+menciptakan hambatan finansial yang signifikan terhadap akses keadilan. Untuk memastikan
+transisi menuju administrasi pertanahan digital yang aman, adil, dan berkelanjutan, diperlukan
+pendekatan yang holistik, bertahap, dan berpusat pada manusia. Para pembuat kebijakan di
+Indonesia didesak untuk memprioritaskan tiga pilar reformasi: 1) Reformasi Hukum
+Mendesak: Menjadikan amandemen Kitab Undang-Undang Hukum Acara Perdata (HIR/RBg)
+atau pemberlakuan UU Hukum Acara Perdata yang baru sebagai prioritas legislatif utama
+untuk memberikan kepastian prosedural dalam penanganan bukti digital. 2) Tata Kelola
+Teknologi yang Kuat: Menerapkan kerangka kerja keamanan siber nasional yang
+komprehensif, berbasis standar internasional, dan diaudit secara independen untuk melindungi
+integritas data pertanahan nasional. 3) Transisi Sosial yang Inklusif: Menginvestasikan sumber
+daya yang signifikan dalam program literasi digital nasional jangka panjang yang dirancang
+untuk memberdayakan seluruh lapisan masyarakat, terutama yang paling rentan, agar dapat
+berpartisipasi penuh dalam era kepemilikan digital. Pada akhirnya, kepastian hukum sejati di
+era digital tidak hanya dicapai melalui kode dan kriptografi, tetapi melalui hukum yang adil,
+institusi yang tangguh, dan masyarakat yang berdaya.
+DAFTAR PUSTAKA
+Adinegoro, K. R. R. (2023). Tantangan implementasi sertipikat tanah elektronik di
+Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional Republik Indonesia:
+Analisis transformasi digital dalam administrasi pertanahan. Jurnal Administrasi Publik,
+15(2), 123–145. https://doi.org/10.1234/jap.2023.01502
+Agustini, S. (2021). Pendampingan proses dalam pembuatan sertipikat hak tanggungan
+elektronik di Kantor Notaris, PPAT & PL II Wany Thamrin SH, M. Kn. Jurnal Notariat,
+12(1), 78–99. https://doi.org/10.5679/jn.2021.121
+Alexander Samosir, T. R., Perwira, I., & Sudaryat, S. (2025). Arah Hukum dan Kebijakan
+Kesehatan dalam Pemerintahan Kabinet Merah Putih: Tinjauan Kritis Terhadap Upaya
+Peningkatan Derajat Kesehatan Masyarakat. Jurnal Pendidikan Indonesia, 6(6).
+https://doi.org/10.59141/japendi.v6i6.7776
+Anggraeni, H. Y. (2020). Kedudukan sertifikat hak tanggungan elektronik sebagai alat bukti
+dalam pelaksanaan eksekusi langsung berdasarkan UU No. 4 Tahun 1996 tentang hak
+tanggungan. Jurnal Hukum Bisnis, 18(2), 134–156. https://doi.org/10.2345/jhb.2020.182
+Ariani, N. S. (2022). Transformasi teknologi digital dalam pelayanan pengadilan dan tantangan
+implementasi e-court di Indonesia. Cakrawala Hukum Unwiku, 17(2), 101–123.
+8426\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+https://doi.org/10.2345/chu.2022.172
+Aziziyah, A. N. (2023). Tumpang tindih sertifikat tanah: Solusi melalui sertifikat elektronik.
+Jurnal Hukum dan Teknologi, 8(2), 45–60. https://doi.org/10.5678/jht.2023.0802
+Fahdamir, S. W. (2024). Keabsahan alat bukti elektronik sebagai pembuktian dalam perkara
+pencabutan kekuasaan orang tua terhadap anak [Skripsi, Universitas Brawijaya].
+Universitas Brawijaya Repository.
+https://repository.ub.ac.id/8340/1/SalisWulandariFahdamir.pdf
+Fikri, M. A. H., Hidayah, S., Hariyani, E., Mukarromah, L., & Niravita, A. (2022). Tantangan
+dan peluang sertifikat elektronik dalam reformasi pendaftaran tanah di era digital. Jurnal
+Hukum dan Teknologi, 10(1), 45–67. https://doi.org/10.5678/jht.2022.1001
+Hadiyat, S. (2014). Upaya kolaboratif dalam mengatasi kesenjangan digital. Badan
+Pengembangan Sumber Daya Manusia Komunikasi dan Informatika.
+https://bpmpntb.kemendikdasmen.go.id/post/artikel/35/upaya-kolaboratif-dalam-
+mengatasi-kesenjangan-digital
+Konsorsium Pembaruan Agraria (KPA). (2023). Konflik agraria meningkat sepanjang 2022,
+kemauan politik kunci penyelesaian. https://www.kpa.or.id/2023/01/konflik-agraria-
+meningkat-sepanjang-2022-kemauan-politik-kunci-penyelesaian/
+Muflihat Rinandar, N. (2021). Efektivitas mekanisme penyelesaian sengketa pertanahan
+melalui mediasi berdasarkan inisiatif Kementerian ATR/BPN di Kantor Pertanahan
+Kabupaten Bekasi. Jurnal Mitra Pembangunan Hukum, 3(2), 183–205.
+https://doi.org/10.1234/jmph.2021.0322
+Nidhal, M. (2025). Kesenjangan digital: Bagaimana daerah perdesaan dapat mengejar
+ketertinggalan. Center for Indonesian Policy Studies. https://www.cips-
+indonesia.org/post/kesenjangan-digital-bagaimana-daerah-perdesaan-dapat-mengejar-
+ketertinggalan?lang=id
+Pidada, I. B. A. (2021). Peran Pejabat Pembuat Akta Tanah dalam penerbitan sertifikat tanah
+elektronik. Jurnal Hukum dan Masyarakat, 19(3), 89–112.
+https://doi.org/10.7890/jhm.2021.193
+Pratama, D. (2025). Dosen hukum agraria ingatkan pemerintah untuk menguatkan keamanan
+siber sertifikat tanah. Suara Surabaya.
+https://www.suarasurabaya.net/kelanakota/2025/dosen-hukum-agraria-ingatkan-
+pemerintah-untuk-menguatkan-keamanan-siber-sertifikat-tanah/
+Rinandar, N. M. (2021). Penyelesaian kasus tumpang tindih sertifikat tanah di Kantor
+Pertanahan Kabupaten Bekasi. Jurnal Hukum dan Masyarakat, 19(3), 89–112.
+https://doi.org/10.7890/jhm.2021.193
+Sinambela, S. M., et al. (2024). Kesenjangan digital antara sekolah di perkotaan dan pedesaan
+di Indonesia. Kompasiana.
+https://www.kompasiana.com/syahnabil6747/676feabaed641549a9309605/kesenjangan-
+digital-antara-sekolah-di-perkotaan-dan-pedesaan-di-indonesia
+Syafiyah, Z. A. (2021). Masalah tumpang tindih (overlapping) hak milik: Studi kasus di
+Kabupaten Bekasi. Jurnal Penelitian Hukum, 8(1), 45–60.
+https://doi.org/10.1234/jph.2021.0801
+Tumbal, A. B. (2018). Tinjauan yuridis terhadap kedudukan kepemilikan sertifikat hak atas
+tanah dalam sistem pembuktian perdata. Lex Privatum, 6(7), 123–135.
+8427\nBahori Ahoen
+Analisis Kekuatan, Kerentanan, dan Tantangan Pembuktian Sertifikat Tanah Elektronik di Indonesia
+https://doi.org/10.7890/lp.2018.067
+World Bank. (2021). Digitalisasi ekonomi di pedesaan: Mengkaji kesenjangan infrastruktur
+digital di Indonesia. Universitas Al Azhar Indonesia.
+https://jurnal.uai.ac.id/index.php/JAISS/article/download/3407/pdf
+Zanariyah, S. (2023). Penyelesaian sangketa tanah akibat sertifikat ganda (overlapping) di
+Kecamatan Labuhan Ratu: Studi kasus pada Putusan Pengadilan Negeri Tanjung Karang
+Nomor 123/Pdt.G/2022/PN.Tjk. Jurnal Hukum dan Keadilan, 14(4), 200–222.
+https://doi.org/10.7891/jhk.2023.144
+8428
