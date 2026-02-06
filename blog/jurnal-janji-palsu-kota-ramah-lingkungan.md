@@ -1,7 +1,7 @@
 ---
 title: "The Broken Promise of Eco-Cities: Analisis Sosio-Legal terhadap Institutional Decoupling (Versi Indonesia)"
 date: 2026-02-06
-categories: [Jurnal Hukum]
+categories: [Hukum Bisnis & Agraria]
 tags: [greenwashing, eco-city, hukum lingkungan, properti, decoupling institusional]
 status: publish
 ---
