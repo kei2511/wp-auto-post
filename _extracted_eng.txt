@@ -1,0 +1,43 @@
+TOKENIZATION IN REAL ESTATE MARKETS: A MULTIDISCIPLINARY ANALYSIS OF LEGAL CERTAINTY, ECONOMIC EFFICIENCY, AND TAX IMPLICATIONS
+Author:
+Dr. Bahori Ahoen, M.E., M.H.
+Founder & Principal, BA Law Office | Lecturer at Universitas Tazkia And Universtas Mpu Tantular | Founder, Bahori Ahoen Institute
+ABSTRACT
+The digital transformation of real estate through blockchain-based tokenization has reached a pivotal point in Indonesia with the graduation of PT Teknologi Gotong Royong (GORO) from the OJK Regulatory Sandbox in November 2025. Despite this financial milestone, a significant "regulatory vacuum" exists at the intersection of digital financial assets and conventional agrarian law. This study utilizes a multidisciplinary framework to evaluate the legal, economic, and fiscal dimensions of property tokenization. Through a case study of GORO and an analysis of POJK No. 3/2024, the research identifies systemic risks in fractional ownership and the inefficiency of current micro-transaction taxation. The paper proposes an original "Hybrid Legal-Fiscal Model" incorporating Collective Binding Sale and Purchase Agreements (PPJB Kolektif) and Mandatory Mortgage Rights (Hak Tanggungan) to bridge the gap between digital tokens and legal land titles. The findings suggest that this model provides a robust mechanism for investor protection while ensuring state revenue stability through aggregated tax consolidation.
+Keywords: Property Tokenization, Regulatory Sandbox, Hak Tanggungan, Tax Compliance, Blockchain Law, Real World Assets (RWA), Fractional Ownership.
+1. INTRODUCTION
+The global real estate industry, traditionally characterized by illiquidity and high entry barriers, is undergoing a paradigm shift through Real World Asset (RWA) tokenization. By converting property rights into digital tokens on a distributed ledger, tokenization democratizes investment, allowing fractional ownership. In Indonesia, this evolution is no longer theoretical. The Financial Services Authority (OJK) recently validated the business model of PT Teknologi Gotong Royong (GORO) via the Regulatory Sandbox (Letters No. S-527/IK.01/2025), enabling micro-investments starting at IDR 10,000.
+However, the rapid adoption of Financial Technology (FinTech) in the property sector has outpaced the development of agrarian and fiscal regulations. The Indonesian Basic Agrarian Law (UUPA No. 5/1960) remains rooted in the principle of horizontal separation and unitary ownership, which does not recognize digital tokens as a valid in rem right (hak kebendaan). Furthermore, the existing tax regime, designed for high-value singular transactions, faces an "efficiency crisis" when applied to thousands of high-frequency micro-transactions. This study aims to provide a comprehensive legal and economic roadmap to synchronize ini conflicting domains.
+2. LITERATURE REVIEW AND THEORETICAL FRAMEWORK
+2.1. The Theory of Property Rights in the Digital Age
+According to Arruñada (2018), land registration serves as a mechanism to reduce transaction costs by providing "publicity" to property rights. Tokenization, while offering a "digital twin" of a property, challenges the traditional "bundle of rights" theory.
+2.2. Economic Analysis of Law (EAL)
+The EAL framework suggests that legal rules should promote economic efficiency. In real estate, the cost of "trust" (notaries, land offices, and taxes) often exceeds the investment capacity of retail investors. Table 1 illustrates the comparative efficiency gain.
+Table 1: Comparative Efficiency Analysis (Conventional vs. Tokenization)
+3. RESEARCH METHODOLOGY
+This research adopts a qualitative multidisciplinary method. It utilizes primary data from the OJK Regulatory Sandbox results (2025) concerning GORO and analyzes the compatibility of POJK No. 3/2024, UU ITE, and UUPA No. 5/1960.
+Table 2: Regulatory Mapping and Conflict Identification
+4. RESEARCH FINDINGS AND DISCUSSION
+4.1. The Integrated Hybrid Model: Bridging the Digital-Agrarian Divide
+The study proposes a structural integration of blockchain technology with Indonesian land law. The model is visualized in the following diagram:
+4.2. Collective PPJB as a Legal Bridge
+To solve the regulatory vacuum, the research proposes the use of Collective Binding Sale and Purchase Agreements (PPJB Kolektif). By digitizing this via UU ITE, the platform maintains a real-time ledger of fractional owners legally linked to a single notarized master document.
+4.3. Mandatory Mortgage Rights (Hak Tanggungan) for Investor Protection
+A critical novelty of this study is the application of Hak Tanggungan (HT) to digital assets. Although HT traditionally stems from a loan, it can be utilized to guarantee the "performance of an obligation" (Pasal 3 UUHT). This elevates the status of retail investors to Separated Creditors (Kreditur Separatis), providing a safety net in case of platform insolvency.
+4.4. Fractional Ownership and Joint Titles (Medeeigendom)
+The study analyzes the scenario where investors own a portion (e.g., 40%) of a property. To avoid administrative paralysis, the 40% fractional stake is registered under one representative entity (SPV/Trustee) that holds the title on behalf of the thousands of token holders.
+4.5. Fiscal Engineering: Aggregated Tax Consolidation
+The study proposes an Aggregated Tax System. Taxes are not paid on every token transfer. Instead, the platform acts as a Withholding Agent (WAPU), accumulating tax portions in a digital vault. The full tax payment (PPh & BPHTB) is triggered only during the final Transfer of Title (AJB).
+5. POLICY RECOMMENDATIONS
+To Ministry of ATR/BPN: Establish a "Digital Land Book Annex" for collective fractional interests.
+To OJK: Mandate Mortgage Rights (HT) for all RWA platforms post-sandbox.
+To DJP: Create a specific tax code for "Fractional Property Assets" for consolidated reporting.
+6. CONCLUSION
+The integration of blockchain in Indonesia’s real estate market is an inevitable economic force. The Hybrid Legal-Fiscal Model proposed—utilizing Collective PPJB, Mandatory Mortgage Rights, and Aggregated Taxation—provides a legally sound and economically efficient path forward.
+7. REFERENCES
+Arruñada, B. (2018). Journal of Institutional Economics, 14(5).
+Baum, A. (2020). Journal of Property Investment & Finance, 39(2).
+Gupta, A., et al. (2021). Land Use Policy, 101.
+OJK. (2025). Surat Keputusan Kelulusan Regulatory Sandbox No. S-527/IK.01/2025.
+OJK. (2024). POJK No. 3 Tahun 2024.
+

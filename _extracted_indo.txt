@@ -1,0 +1,69 @@
+
+TOKENISASI DI PASAR REAL ESTAT: ANALISIS MULTIDISIPLIN TERHADAP KEPASTIAN HUKUM, EFISIENSI EKONOMI, DAN IMPLIKASI PAJAK
+
+Penulis: Dr. Bahori Ahoen, M.E., M.H.  Pendiri & Pimpinan, BA Law Office | Dosen di Universitas Tazkia dan Universitas Mpu Tantular | Pendiri, Bahori Ahoen Institute
+
+
+ABSTRAK
+Transformasi digital real estat melalui tokenisasi berbasis blockchain telah mencapai titik krusial di Indonesia dengan kelulusan PT Teknologi Gotong Royong (GORO) dari Regulatory Sandbox OJK pada November 2025. Terlepas dari pencapaian finansial ini, terdapat "kekosongan regulasi" yang signifikan pada persinggungan antara aset keuangan digital dan hukum agraria konvensional. Studi ini menggunakan kerangka kerja multidisiplin untuk mengevaluasi dimensi hukum, ekonomi, dan fiskal dari tokenisasi properti. Melalui studi kasus GORO dan analisis POJK No. 3/2024, penelitian ini mengidentifikasi risiko sistemik dalam kepemilikan fraksional dan inefisiensi perpajakan transaksi mikro saat ini. Makalah ini mengusulkan sebuah "Model Hukum-Fiskal Hibrida" orisinal yang menggabungkan Perjanjian Pengikatan Jual Beli Kolektif (PPJB Kolektif) dan Hak Tanggungan Wajib untuk menjembatani kesenjangan antara token digital dan sertifikat tanah legal. Temuan menunjukkan bahwa model ini memberikan mekanisme yang kuat untuk perlindungan investor sekaligus memastikan stabilitas pendapatan negara melalui konsolidasi pajak agregat.
+
+Kata Kunci: Tokenisasi Properti, Regulatory Sandbox, Hak Tanggungan, Kepatuhan Pajak, Hukum Blockchain, Real World Assets (RWA), Kepemilikan Fraksional.
+
+1. PENDAHULUAN
+Industri real estat global, yang secara tradisional ditandai oleh ilikuiditas dan hambatan masuk yang tinggi, sedang mengalami pergeseran paradigma melalui tokenisasi Real World Asset (RWA). Dengan mengubah hak properti menjadi token digital pada buku besar terdistribusi (distributed ledger), tokenisasi mendemokratisasi investasi, memungkinkan adanya kepemilikan fraksional. Di Indonesia, evolusi ini bukan lagi sekadar teoritis. Otoritas Jasa Keuangan (OJK) baru-baru ini memvalidasi model bisnis PT Teknologi Gotong Royong (GORO) melalui Regulatory Sandbox (Surat No. S-527/IK.01/2025), yang memungkinkan investasi mikro mulai dari Rp10.000.
+
+Namun, adopsi teknologi finansial (FinTech) yang cepat di sektor properti telah melampaui perkembangan regulasi agraria dan fiskal. Undang-Undang Pokok Agraria (UUPA No. 5/1960) tetap berakar pada prinsip pemisahan horizontal dan kepemilikan tunggal, yang tidak mengakui token digital sebagai hak kebendaan (hak kebendaan) yang sah. Selain itu, rezim pajak yang ada, yang dirancang untuk transaksi tunggal bernilai tinggi, menghadapi "krisis efisiensi" ketika diterapkan pada ribuan transaksi mikro berfrekuensi tinggi. Studi ini bertujuan untuk memberikan peta jalan hukum dan ekonomi yang komprehensif untuk menyelaraskan domain-domain yang saling bertentangan ini.
+
+2. TINJAUAN PUSTAKA DAN KERANGKA TEORITIS
+2.1. Teori Hak Properti di Era Digital
+Menurut Arruñada (2018), pendaftaran tanah berfungsi sebagai mekanisme untuk mengurangi biaya transaksi dengan memberikan "publisitas" pada hak properti. Tokenisasi, meskipun menawarkan "kembaran digital" dari suatu properti, menantang teori tradisional "bundel hak" (bundle of rights).
+
+2.2. Analisis Ekonomi atas Hukum (Economic Analysis of Law - EAL)
+Kerangka kerja EAL menyarankan bahwa aturan hukum harus mendorong efisiensi ekonomi. Dalam real estat, biaya "kepercayaan" (notaris, kantor pertanahan, dan pajak) seringkali melebihi kapasitas investasi investor ritel. Tabel 1 mengilustrasikan perbandingan perolehan efisiensi.
+
+
+Tabel 1: Analisis Efisiensi Komparatif (Konvensional vs. Tokenisasi)
+
+3. METODOLOGI PENELITIAN
+Penelitian ini mengadopsi metode kualitatif multidisiplin. Penelitian ini menggunakan data primer dari hasil Regulatory Sandbox OJK (2025) mengenai GORO serta menganalisis kompatibilitas POJK No. 3/2024, UU ITE, dan UUPA No. 5/1960.
+
+
+Tabel 2: Pemetaan Regulasi dan Identifikasi Konflik
+
+4. TEMUAN PENELITIAN DAN DISKUSI
+4.1. Model Hibrida Terintegrasi: Menjembatani Kesenjangan Digital-Agraria
+Studi ini mengusulkan integrasi struktural teknologi blockchain dengan hukum pertanahan Indonesia. Model ini divisualisasikan dalam diagram berikut.
+
+4.2. PPJB Kolektif sebagai Jembatan Hukum
+Untuk mengatasi kekosongan regulasi, penelitian ini mengusulkan penggunaan Perjanjian Pengikatan Jual Beli Kolektif (PPJB Kolektif). Dengan mendigitalisasikannya melalui UU ITE, platform mempertahankan buku besar waktu nyata (real-time ledger) dari pemilik fraksional yang secara hukum terhubung ke satu dokumen induk yang dinotariskan.
+4.3. Hak Tanggungan Wajib untuk Perlindungan Investor
+Kebaruan kritis dari studi ini adalah penerapan Hak Tanggungan (HT) pada aset digital. Meskipun HT secara tradisional berasal dari pinjaman, HT dapat digunakan untuk menjamin "pemenuhan suatu prestasi" (Pasal 3 UUHT). Hal ini menaikkan status investor ritel menjadi Kreditur Separatis (Kreditur Separatis), yang menyediakan jaring pengaman jika terjadi insolvensi platform.
+
+4.4. Kepemilikan Fraksional dan Hak Bersama (Medeeigendom)
+Studi ini menganalisis skenario di mana investor memiliki sebagian (misal: 40%) dari suatu properti. Untuk menghindari kelumpuhan administrasi, kepemilikan fraksional 40% tersebut didaftarkan di bawah satu entitas perwakilan (SPV/Wali Amanat) yang memegang hak atas nama ribuan pemegang token.
+
+4.5. Rekayasa Fiskal: Konsolidasi Pajak Agregat
+Studi ini mengusulkan Sistem Pajak Agregat. Pajak tidak dibayarkan pada setiap transfer token. Sebaliknya, platform bertindak sebagai Agen Pemotong/Pemungut (WAPU), yang mengumpulkan bagian pajak dalam brankas digital. Pembayaran pajak penuh (PPh & BPHTB) dipicu hanya pada saat Akta Jual Beli (AJB) final.
+
+5. REKOMENDASI KEBIJAKAN
+Kepada Kementerian ATR/BPN: Membentuk "Lampiran Buku Tanah Digital" untuk kepentingan fraksional kolektif.
+
+Kepada OJK: Mewajibkan Hak Tanggungan (HT) bagi semua platform RWA pasca-sandbox.
+
+Kepada DJP: Membuat kode pajak khusus untuk "Aset Properti Fraksional" untuk pelaporan terkonsolidasi.
+
+6. KESIMPULAN
+Integrasi blockchain dalam pasar real estat Indonesia adalah kekuatan ekonomi yang tidak terelakkan. Model Hukum-Fiskal Hibrida yang diusulkan—menggunakan PPJB Kolektif, Hak Tanggungan Wajib, dan Perpajakan Agregat—memberikan jalan ke depan yang secara hukum sehat dan efisien secara ekonomi.
+
+7.
+REFERENSI
+Arruñada, B. (2018). Journal of Institutional Economics, 14(5).
+
+Baum, A. (2020). Journal of Property Investment & Finance, 39(2).
+
+Gupta, A., dkk. (2021). Land Use Policy, 101.
+
+OJK. (2025). Surat Keputusan Kelulusan Regulatory Sandbox No. S-527/IK.01/2025.
+
+OJK. (2024). POJK No. 3 Tahun 2024.
+
