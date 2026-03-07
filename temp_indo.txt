@@ -1,0 +1,445 @@
+TRANSFORMASI SISTEM MONETER INDONESIA: URGENSI CENTRAL BANK DIGITAL CURRENCY 
+(CBDC) BERBASIS EMAS FISIK ("CRYPTO RUPIAH EMAS") DALAM PERSPEKTIF HUKUM POSITIF 
+DAN EKONOMI SYARIAH 
+Oleh: 
+Dr. Bahori Ahoen, M.H., M.E. 
+ABSTRAK 
+Sistem moneter global saat ini tengah berada di tepi jurang krisis kepercayaan. Dominasi uang kertas 
+(fiat money ) yang tidak memiliki jaminan aset secara sistematis terus memicu inflasi, yang pada 
+hakikatnya merupakan bentuk kezaliman terhadap daya beli masyarakat luas. Di sisi lain, kemunculan 
+aset kripto swasta justru melahirkan anomali baru; tanpa adanya aset dasar ( underlying asset ) dan 
+wujud fisik, kripto beroperasi murni sebagai instrumen spekulasi tingkat tinggi yang sarat dengan 
+praktik maysir (judi) dan gharar (ketidakjelasan). Penelitian ini mengusulkan sebuah arsitektur 
+moneter revolusioner bernama "Crypto Rupiah Emas" —yakni sebuah Central Bank Digital Currency  
+(CBDC) yang dijamin penuh dengan rasio 1:1 oleh cadangan emas batangan fisik di brankas negara. 
+Menggunakan metode yuridis -normatif dengan pendekatan interdisipliner, kajian ini membedah 
+bagaimana teknologi permissioned blockchain  yang dikombinasikan dengan Standar Emas dapat 
+mengembalikan fungsi uang pada khitahnya sebagai Mal al -Mutaqawwim (harta yang sah dan 
+berkeadilan). Analisis dalam naskah ini menegaskan bahwa harmonisasi gagasan ini dengan Undang -
+Undang Nomor 4 Tahun 2023 (UU P2SK) akan memperkokoh kedaulatan hak emisi Bank Indonesia, 
+mengeliminasi praktik Ponzi digital, serta menciptakan mekanisme perlindungan kekayaan masyarakat 
+(Hifz al-Mal) yang secara paripurna tunduk pada prinsip ekonomi syariah. 
+Kata Kunci: Rupiah Digital, CBDC, Standar Emas, Hukum Tata Negara, Fiqh Muamalah, Underlying Asset. 
+BAB I: PENDAHULUAN 
+1.1 Latar Belakang Masalah: Krisis Kejujuran dalam Sistem Keuangan 
+Sejarah mencatat bahwa uang diciptakan sebagai alat bantu peradaban manusia untuk menukar hasil 
+keringat dan produksinya secara adil. Namun, sejak dunia secara sepihak memutus keterikatan uang 
+dari standar emas fisik pada tahun 1971, kita telah dipaksa masuk ke dalam era eksperimen moneter 
+yang sangat berisiko. Uang kertas (fiat) yang beredar di masyarakat saat ini hanyalah representasi dari 
+janji pemerintah dan tumpukan utang, tanpa ditopang oleh nilai intrinsik yang nyata. Dampak destruktif 
+dari sistem ini hadir dalam wujud inflasi —sebuah pencurian daya beli secara diam -diam yang terus 
+memiskinkan masyarakat kelas menengah ke bawah. Dalam kacamata hukum ekonomi syariah, 
+pembiaran terhadap penyusutan nilai harta ini merupakan kezaliman yang bertentangan dengan fitrah 
+keadilan. 
+Kegelisahan publik terhadap rapuhnya uang kertas ini kemudian dieksploitasi oleh kemunculan 
+teknologi blockchain dan mata uang kripto swasta. Narasi awal yang ditawarkan sangat memikat: 
+desentralisasi dan kebebasan finansial. Namun, realitas yang terjadi justru sebaliknya. Kripto bermutasi 
+menjadi instrumen perjudian digital paling masif dalam sejarah modern. Ketiadaan aset dasar 
+(underlying asset ) membuat nilai kripto sangat manipulatif, melahirkan rentetan kasus gagal bayar, 
+skema Ponzi, dan penipuan triliunan rupiah yang memakan banyak korban. 
+Pemerintah Indonesia tidak tinggal diam. Melalui Proyek Garuda, Bank Indonesia tengah menyusun 
+cetak biru penerbitan Rupiah Digital. Namun, di sinilah letak kekhawatiran terbesar muncul: apabila 
+Rupiah Digital sekadar menjadi versi elektronik dari uang fiat yang ada —tanpa diberikan jaminan aset 
+fisik—maka penyakit bawaannya, yakni kerentanan terhadap inflasi dan fluktuasi liar mata uang asing, 
+tidak akan pernah tersembuhkan. Dibutuhkan sebuah terobosan fundamental untuk mengembalikan 
+kejujuran dalam sistem ekonomi kita. 
+1.2 Rumusan Masalah 
+Berangkat dari kebuntuan arsitektur moneter di atas, kajian ini merumuskan permasalahan pokok 
+sebagai berikut: 
+1. Mengapa sistem mata uang fiat konvensional dan kripto tanpa aset dasar dinilai sebagai instrumen 
+yang gagal mewujudkan keadilan ekonomi dan bertentangan dengan kepatuhan syariah? 
+2. Bagaimana desain metodologi, landasan teoritis, dan asas -asas hukum dapat dikonstruksikan 
+untuk membangun "Crypto Rupiah Emas" yang sah dan teruji? 
+3. Sejauh mana instrumen mata uang digital berbasis emas ini mampu diharmoniskan dengan UU 
+P2SK guna melindungi masyarakat dari jebakan inflasi dan penipuan investasi digital? 
+1.3 Tujuan dan Manfaat Penelitian 
+Penelitian ini bertujuan merumuskan kerangka hukum dan arsitektur kebijakan bagi otoritas moneter 
+Indonesia agar tidak terjebak pada digitalisasi semu. Manfaat dari kajian ini adalah menghadirkan cetak 
+biru alternatif penciptaan uang digital berdaulat yang tahan banting terhadap krisis global, mematikan 
+ruang gerak investasi bodong, dan memberikan instrumen penyimpan kekayaan yang 100% halal dan 
+patuh pada prinsip syariah. 
+BAB II: METODOLOGI, LANDASAN TEORI, DAN AZAS-AZAS HUKUM 
+Gagasan revolusioner tidak dapat dibiarkan menjadi sekadar opini liar. Untuk memastikan validitas, 
+objektivitas, dan ketajaman analisis dari gagasan "Crypto Rupiah Emas" ini, seluruh kerangka berpikir 
+dalam penelitian ini dikonstruksikan di atas desain metodologi yang ketat, dikawal oleh teori -teori 
+monumental, dan dipandu oleh azas-azas hukum yang luhur. 
+2.1 Metodologi Penelitian 
+Penelitian ini didesain menggunakan metode Yuridis-Normatif. Mengingat kompleksitas objek yang 
+diteliti mencakup teknologi, regulasi negara, dan syariat agama, penelitian ini mengadopsi pendekatan 
+Interdisipliner yang memadukan keilmuan Hukum, Ekonomi, dan Syariah secara integral. 
+Untuk mengurai benang kusut permasalahan moneter ini, tiga pendekatan utama (Approach) diterapkan 
+secara simultan: 
+1. Statute Approach  (Pendekatan Perundang -undangan): Pendekatan ini digunakan untuk 
+membedah dan menelaah koherensi antara Undang -Undang Nomor 7 Tahun 2011 tentang Mata 
+Uang dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor 
+Keuangan (UU P2SK), guna menemukan ruang legalitas penciptaan Rupiah Digital berjaminan fisik. 
+2. Conceptual Approach  (Pendekatan Konseptual):  Digunakan untuk membongkar anatomi 
+konsep uang digital (CBDC) dan merekonstruksinya dengan mengawinkan teknologi mutakhir 
+blockchain bersama keandalan Gold Standard (Standar Emas). 
+3. Comparative Approach  (Pendekatan Perbandingan):  Sebuah langkah analitis untuk 
+membandingkan secara kritis antara kegagalan sistemik mata uang kripto swasta (seperti kasus 
+kebangkrutan FTX dan skema Ponzi LUNA) dengan potensi stabilitas absolut dari CBDC yang 
+diterbitkan oleh negara. 
+Data yang diolah dalam naskah ini merupakan Data Sekunder yang ditarik dari tiga lapisan literatur: 
+bahan hukum primer berupa peraturan perundang -undangan positif; bahan hukum sekunder berupa 
+jurnal akademik internasional dan buku teks ekonomi -hukum; serta bahan hukum tersier seperti 
+ensiklopedia dan kamus hukum. Seluruh data tersebut kemudian diuji menggunakan teknik Analisis 
+Deskriptif-Analitis yang dipadukan dengan Penalaran Deduktif . Penulis menarik kesimpulan -
+kesimpulan logis dan spesifik yang diturunkan dari prinsip -prinsip agung ekonomi syariah dan kaidah 
+hukum tata negara yang bersifat umum. 
+2.2 Landasan Teori (Pilar Akademik) 
+Sebuah diskursus akademik tingkat tinggi tidak akan mampu berdiri tegak tanpa ditopang oleh pilar -
+pilar teori yang kokoh. Agar naskah ini memiliki "tulang punggung" yang tak tergoyahkan saat diuji di 
+berbagai forum ilmiah, sidang legislatif, maupun uji publik, kajian ini menggunakan tiga teori utama 
+sebagai pisau analisis: 
+1. Teori Kedaulatan Moneter ( State Theory of Money ): 
+Diperkenalkan oleh ekonom dan sarjana hukum Georg Friedrich Knapp, teori fundamental ini 
+menegaskan sebuah postulat penting bahwa uang pada dasarnya adalah makhluk hukum (money is 
+a creature of law ). Nilai dan keabsahan sebuah alat tukar tidak ditentukan semata -mata oleh 
+mekanisme pasar yang liar, melainkan lahir dari pengakuan dan dekrit sebuah negara berdaulat. 
+Teori inilah yang menjadi legitimasi absolut bahwa hanya "Crypto Rupiah Emas" —sebagai 
+instrumen CBDC resmi negara —yang berhak hidup secara sah di yurisdiksi Indonesia, sementara 
+koin kripto swasta lainnya harus diklasifikasikan sebagai aset liar tak berdaulat. 
+2. Teori Maqashid Syariah  (Khususnya Hifz al -Mal): 
+Berakar dari pemikiran brilian Imam Asy-Syatibi, teori ini menekankan bahwa puncak dari tujuan 
+diturunkannya hukum Islam adalah untuk melindungi hak -hak dasar manusia, salah satu yang 
+paling esensial adalah perlindungan terhadap harta kekayaan (Hifz al-Mal). Konsep "Crypto Rupiah 
+Emas" digunakan secara langsung untuk membumikan teori ini di abad digital. Sistem ini secara 
+teknologis akan menghentikan mesin pencetak inflasi yang selama ini secara zalim merusak nilai 
+harta masyarakat, sekaligus mematikan ruang bagi perjudian nasib (maysir) di bursa kripto. 
+3. Teori Kontrak Investasi ( Howey Test Theory ): 
+Diambil dari yurisprudensi agung Mahkamah Agung Amerika Serikat, teori ini merupakan 
+instrumen hukum paling tajam untuk membedah secara objektif mana aset digital yang merupakan 
+inovasi bernilai riil dan mana yang sekadar penipuan berkedok teknologi. Teori ini menjadi dasar 
+pembenaran yudisial mengapa negara memiliki kewajiban moral dan hukum untuk memberantas 
+aset kripto yang diterbitkan tanpa underlying asset yang jelas. 
+2.3 Azas-Azas Hukum dan Ekonomi (Pemandu Kebijakan) 
+Perumusan sebuah arsitektur moneter yang akan menentukan nasib hajat hidup ratusan juta rakyat 
+tidak boleh semata -mata didorong oleh euforia teknologi. Ia harus dipandu oleh kompas moral dan 
+hukum yang jelas. Dalam menyusun draf "Crypto Rupiah Emas", naskah ini berpijak secara mutlak pada 
+lima azas berikut: 
+1. Azas Legal Tender  (Kepastian Alat Bayar):  
+Azas yang memberikan kepastian hukum dan daya paksa bahwa setiap warga negara atau entitas 
+bisnis di wilayah NKRI wajib menerima Rupiah Digital berbasis emas ini sebagai pelunasan utang 
+dan transaksi komersial. Ini adalah privilese kedaulatan yang mustahil dimiliki oleh kripto swasta 
+manapun. 
+2. Azas Transparency & Proof of Reserve  (Keterbukaan Publik):  
+Azas revolusioner yang mewajibkan negara untuk menelanjangi pembukuannya secara digital, 
+membuktikan keberadaan emas fisik secara real-time kepada publik. Azas ini berdiri sebagai 
+antitesis yang menghancurkan azas anonimitas dan kerahasiaan yang selama ini dipuja -puji oleh 
+para pelaku kripto spekulatif. 
+3. Azas Stability of Value  (Stabilitas Nilai yang Absolut):  
+Azas yang menuntut secara kaku bahwa mata uang rakyat tidak boleh bergejolak ekstrem seperti 
+wahana roller-coaster. Sepanjang sejarah ribuan tahun peradaban manusia, komoditas emas 
+adalah satu -satunya entitas fisik yang mampu memenuhi azas stabilitas moneter ini dengan 
+sempurna. 
+4. Azas Anti-Gharar (Ketiadaan Ketidakpastian):  
+Azas fundamental dalam tata niaga ekonomi syariah yang mengharuskan setiap objek transaksi —
+dalam hal ini representasi uang digital —harus memiliki wujud fisik yang jelas, bernilai nyata, dan 
+dapat diidentifikasi kepemilikannya tanpa sedikit pun keraguan. 
+5. Azas Keadilan Distribusi (Keberpihakan pada Rakyat):  
+Sebuah prinsip moral bahwa tata kelola sistem moneter tidak boleh hanya dirancang untuk 
+menguntungkan pihak yang memiliki otoritas mencetak uang (negara atau sindikasi bank). Sistem 
+ini didesain secara spesifik untuk melindungi dan merawat nilai hasil kerja keras rakyat jelata dari 
+kejamnya gerusan inflasi struktural.
+BAB III: HARMONISASI HUKUM POSITIF DALAM KERANGKA UU P2SK 
+Gagasan seliar dan secemerlang apa pun di bidang ekonomi tidak akan pernah bisa dieksekusi tanpa 
+adanya payung hukum yang kokoh. Dalam konteks sistem ketatanegaraan Indonesia, transformasi 
+menuju "Crypto Rupiah Emas" menemukan momentum historis dan legalitasnya melalui pengesahan 
+Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan 
+(selanjutnya disebut UU P2SK). Undang -undang omnibus law sektor keuangan ini bukan sekadar revisi 
+aturan administratif, melainkan sebuah perombakan paradigma yang memberikan landasan yurisdiksi 
+bagi negara untuk mengatur arus digitalisasi keuangan. 
+Bab ini akan membedah secara detil bagaimana konsep mata uang digital berbasis emas murni dapat 
+diharmoniskan secara presisi dengan arsitektur hukum positif yang berlaku, sekaligus menjadi 
+instrumen penegakan hukum terhadap anarki moneter kripto swasta. 
+3.1 Konstruksi Hukum Hak Emisi Bank Indonesia atas Rupiah Digital 
+Perdebatan paling krusial dalam kemunculan aset digital adalah pertanyaan elementer mengenai siapa 
+yang berhak mencetak dan mengedarkannya. Di sinilah rezim hukum tata negara harus bersikap tegas. 
+Undang-Undang Nomor 7 Tahun 2011 tentang Mata Uang, yang secara fundamental telah diperkuat dan 
+diamandemen melalui rumusan UU P2SK, mengunci rapat sebuah doktrin absolut: hak emisi 
+(pencetakan uang) adalah hak monopoli negara yang dieksekusi secara eksklusif oleh Bank Indonesia. 
+a. Menggugurkan Klaim Kedaulatan Kripto Swasta 
+Ketika jaringan komputer anonim (seperti miner Bitcoin) menciptakan koin digital dan masyarakat 
+menggunakannya sebagai alat pembayaran, tindakan tersebut secara de jure merupakan pelanggaran 
+terhadap hak emisi negara. Tidak ada satu pun pasal dalam konstitusi kita yang memberikan mandat 
+kepada entitas swasta tak berwujud untuk mengendalikan sirkulasi uang di wilayah Negara Kesatuan 
+Republik Indonesia (NKRI). Kehadiran "Crypto Rupiah Emas" bukan bermaksud mengekang inovasi, 
+melainkan sebuah restorasi hukum. Dengan menerbitkan Central Bank Digital Currency (CBDC), negara 
+merebut kembali kedaulatannya di ruang digital, memastikan bahwa otoritas tunggal pencetak uang 
+tetap berada di tangan Bank Indonesia, bukan pada algoritme open-source yang dikendalikan dari antah 
+berantah. 
+b. Afirmasi Hukum atas Wujud Rupiah Digital 
+UU P2SK telah mengambil langkah progresif dengan mengakui secara eksplisit bahwa mata uang Rupiah 
+kini tidak hanya terdiri dari uang kertas dan uang logam, tetapi juga mencakup "Rupiah Digital". 
+Sayangnya, teks undang -undang tersebut belum secara spesifik mewajibkan adanya jaminan aset fisik 
+(underlying asset). Di sinilah gagasan ini masuk untuk menambal kekosongan filosofis tersebut. Karena 
+undang-undang memberikan kebebasan kepada Bank Indonesia untuk merumuskan arsitektur Rupiah 
+Digital melalui peraturan turunan (Peraturan Bank Indonesia/PBI), maka mewajibkan pengikatan emas 
+fisik (rasio 1:1) terhadap setiap token Rupiah Digital yang diterbitkan adalah langkah yang seratus 
+persen sah secara hukum positif. Ini bukan pelanggaran undang -undang, melainkan bentuk 
+implementasi paling sempurna dari mandat menjaga stabilitas nilai mata uang. 
+3.2 Pemisahan Yurisdiksi Legal: Sovereign Currency vs Aset Investasi Spekulatif 
+Salah satu poin paling revolusioner dari pengesahan UU P2SK adalah keputusan untuk memindahkan 
+tongkat komando pengawasan aset kripto dari Badan Pengawas Perdagangan Berjangka Komoditi 
+(Bappebti) ke Otoritas Jasa Keuangan (OJK). Kripto kini secara resmi diklasifikasikan ke dalam klaster 
+Inovasi Teknologi Sektor Keuangan (ITSK) dan Aset Keuangan Digital. 
+a. Demarkasi Tegas Antara Uang dan Komoditas 
+Pemindahan pengawasan ini memberikan demarkasi (garis batas) hukum yang sangat tajam dan 
+menyelamatkan masyarakat dari kebingungan epistemologis. Konsep "Crypto Rupiah Emas" dengan 
+cerdas memanfaatkan demarkasi ini. 
+Pertama, mata uang digital resmi (CBDC) tetap berada mutlak di bawah yurisdiksi Bank Indonesia. Alat 
+ini adalah Sovereign Currency (Mata Uang Berdaulat) yang berstatus legal tender (wajib diterima untuk 
+pelunasan utang), bebas dari volatilitas spekulatif, dan dijamin sepenuhnya oleh cadangan emas negara. 
+Kedua, segala bentuk koin kripto swasta (Bitcoin, Ethereum, dsb.) dilempar ke "kamar" OJK. Di kamar 
+ini, kripto dilucuti statusnya sebagai alat pembayaran dan diperlakukan murni sebagai produk aset 
+keuangan berskala risiko tinggi (high-risk investment). 
+b. Senjata Hukum Mematikan Skema Ponzi 
+Dengan masuknya kripto ke ranah OJK, instrumen hukum pasar modal dapat diterapkan sepenuhnya. 
+Jika menggunakan The Howey Test sebagai rujukan doktrinal, OJK kini memiliki taring untuk menuntut 
+transparansi. Jika ada sebuah perusahaan kripto yang menerbitkan koin tanpa underlying asset yang 
+jelas, menjanjikan keuntungan (bunga/ yield) yang bersumber dari uang investor baru, maka OJK berhak 
+secara hukum memberangus operasi mereka dengan dalih penawaran sekuritas ilegal dan penipuan 
+publik berkedok ITSK. Kehadiran "Crypto Rupiah Emas" milik negara menjadi benchmark (tolok ukur) 
+kejujuran: jika negara saja membuktikan aset emasnya secara transparan, maka entitas swasta yang 
+tidak berani transparan atas cadangan asetnya dipastikan adalah operator skema Ponzi. 
+3.3 Legalitas Pengikatan Cadangan Devisa Fisik dan Teknologi Smart Contract 
+Menghubungkan emas batangan yang statis di dalam brankas dengan token digital yang bergerak 
+dengan kecepatan cahaya di jaringan internet memerlukan konstruksi hukum kebendaan yang sangat 
+teliti. 
+a. Bukti Kepemilikan Kebendaan Secara Digital 
+Secara hukum perdata (Burgelijk Wetboek/BW), kepemilikan atas benda bergerak (emas) harus 
+dibuktikan secara sah. Dalam ekosistem "Crypto Rupiah Emas", token digital yang ada di aplikasi ponsel 
+masyarakat bukanlah sekadar angka representatif, melainkan sebuah Sertifikat Bukti Hak Milik secara 
+digital atas sekian gram emas yang ada di brankas Bank Indonesia. Ketika seseorang mentransfer 1 unit 
+Rupiah Digital Emas kepada orang lain, secara hukum yang terjadi adalah penyerahan hak kepemilikan 
+(levering) atas emas fisik tersebut tanpa harus memindahkan wujud fisik emasnya dari fasilitas 
+penjagaan negara. 
+b. Audit Berbasis Permissioned Blockchain dan Proof of Reserve 
+Undang-undang mewajibkan tata kelola keuangan negara yang transparan dan akuntabel (UU Keuangan 
+Negara). Dalam sistem fiat konvensional, transparansi ini cacat karena masyarakat tidak pernah tahu 
+secara pasti berapa jumlah uang yang sedang dicetak oleh bank sentral. Dengan menggunakan 
+arsitektur Permissioned Blockchain  (jaringan buku besar terdistribusi yang dikontrol oleh otoritas 
+namun dapat diaudit oleh publik), Bank Indonesia mengikat hukum ke dalam kode komputer ( Code is 
+Law). 
+Melalui mekanisme Smart Contract, sistem akan mengunci pencetakan uang baru. Algoritme tidak akan 
+pernah mengizinkan penambahan suplai (0% inflasi buatan) kecuali sistem perbankan negara telah 
+memasukkan dan memverifikasi nomor seri batangan emas fisik baru ke dalam neraca cadangan devisa. 
+Ini adalah bentuk transparansi publik (Proof of Reserve) paling absolut yang secara paripurna memenuhi 
+kehendak hukum tentang tata kelola pemerintahan yang baik (Good Corporate Governance). 
+3.4 Harmonisasi Ekosistem Keuangan Syariah Nasional 
+Undang-Undang P2SK bukan sekadar mengatur keuangan konvensional, tetapi memberikan afirmasi 
+dan mandat yang teramat kuat bagi pengembangan ekonomi syariah, yang secara struktural 
+dikoordinasikan oleh Komite Nasional Ekonomi dan Keuangan Syariah (KNEKS). 
+a. Meluruskan Disorientasi Moneter Syariah 
+Selama puluhan tahun, perbankan dan industri keuangan syariah kita beroperasi dengan "kaki yang 
+pincang". Mereka dipaksa melakukan transaksi halal (bebas riba), namun menggunakan medium alat 
+tukar (uang fiat) yang penciptaannya sendiri mengandung riba struktural dan secara alamiah terus 
+menyusut nilainya. Mengukur keadilan ekonomi menggunakan meteran uang kertas ibarat menimbang 
+emas menggunakan timbangan karet yang terus melar. 
+b. Kepingan Puzzle yang Hilang dalam Syariat 
+"Crypto Rupiah Emas" adalah kepingan puzzle yang selama ini hilang dalam arsitektur ekonomi syariah 
+global. Dengan mematok nilai rupiah digital pada komoditas yang diakui ketetapan nilainya dalam Al -
+Qur'an dan Sunnah (emas/Dinar), seluruh instrumen keuangan syariah seketika menjadi sempurna. 
+● ZISWAF (Zakat, Infak, Sedekah, Wakaf):  Wakaf tunai yang disetorkan dalam bentuk Rupiah 
+Digital berbasis emas tidak akan pernah tergerus inflasi selama puluhan tahun, memastikan nilai 
+manfaat bagi umat tetap abadi (Hifz al-Mal). 
+● Pembiayaan Tanpa Gharar: Pembiayaan bisnis, investasi properti, dan perdagangan riil yang 
+difasilitasi dengan "Crypto Rupiah Emas" terjamin keadilannya karena objek transaksi dan alat 
+tukarnya sama-sama memiliki wujud riil ( Mal al -Mutaqawwim). Tidak ada gelembung spekulasi, 
+tidak ada penyusutan nilai secara zalim. 
+Dengan konstruksi harmonisasi hukum ini, "Crypto Rupiah Emas" tidak hanya menjadi sekadar inovasi 
+teknologi dari Bank Indonesia, melainkan sebuah instrumen resolusi konflik hukum dan ekonomi 
+berskala nasional yang menyelamatkan masyarakat dari kebrutalan inflasi dan predator investasi 
+bodong.
+BAB IV: IMPLEMENTASI STRATEGIS DAN PETA JALAN ( ROADMAP) 
+TRANSISI 
+Sebuah gagasan hukum dan ekonomi, sehebat apa pun fondasi filosofisnya, hanya akan menjadi macan 
+kertas apabila tidak disertai dengan peta jalan eksekusi yang rasional. Mengubah fondasi moneter 
+sebuah negara berpenduduk lebih dari 280 juta jiwa dari sistem uang fiat yang rapuh menuju "Crypto 
+Rupiah Emas" bukanlah perkara membalikkan telapak tangan. Transisi ini menuntut rekayasa sosial, 
+ketegasan politik ( political will ), dan orkestrasi lintas sektoral yang presisi agar terhindar dari 
+guncangan ekonomi (economic shock). 
+Untuk mewujudkan transformasi ini tanpa mengorbankan stabilitas pasar, kajian ini mengusulkan 
+sebuah Peta Jalan (Roadmap) Transisi yang dibagi ke dalam empat fase strategis selama kurun waktu 10 
+tahun. 
+4.1 Fase I: Konsolidasi Cadangan Devisa dan Pembangunan Infrastruktur Legal 
+(Tahun 1-2) 
+Fase pertama adalah peletakan batu pertama. Negara tidak bisa mencetak uang digital berbasis emas 
+jika emasnya tidak ada secara fisik. 
+a. Repatriasi dan Konversi Cadangan Devisa 
+Bank Indonesia saat ini menyimpan sebagian besar cadangan devisanya dalam bentuk instrumen utang 
+negara asing (seperti US Treasury Bonds ) dan mata uang fiat asing. Langkah paling krusial adalah 
+memulai konversi strategis atas aset -aset rentan inflasi tersebut menjadi emas batangan murni 
+bersertifikat internasional (standar London Bullion Market Association/LBMA). Emas-emas ini kemudian 
+disimpan di fasilitas brankas super -aman milik negara di dalam negeri. Ini adalah langkah pertahanan 
+tingkat tinggi untuk melindungi kekayaan negara dari inflasi global dan ancaman sanksi geopolitik. 
+b. Arsitektur Permissioned Blockchain 
+Berbeda dengan Bitcoin yang menggunakan jaringan publik ( public blockchain) di mana siapa saja bisa 
+menjadi validator, instrumen negara membutuhkan kontrol absolut. Bank Indonesia harus membangun 
+Permissioned Blockchain mandiri. Dalam sistem ini, negara bertindak sebagai Super Node tunggal yang 
+memiliki kewenangan menerbitkan ( minting) dan membakar ( burning) token, sementara node 
+pengawas (akses baca/read-only) diberikan kepada lembaga audit negara (BPK), DPR, dan perwakilan 
+ahli dari masyarakat sipil untuk mengawasi jumlah suplai uang yang beredar. 
+c. Pembuatan Peraturan Bank Indonesia (PBI) 
+Dari sisi regulasi, harus segera diterbitkan Peraturan Bank Indonesia (PBI) yang mengikat secara kaku 
+bahwa pencetakan Rupiah Digital tidak boleh melebihi rasio gramasi emas di dalam brankas (Rasio 1:1). 
+Tanpa PBI yang tegas ini, teknologi blockchain berpotensi disalahgunakan oleh rezim penguasa di masa 
+depan untuk kembali mencetak "uang digital dari ruang hampa". 
+4.2 Fase II: Pilot Project Institusional dan Uji Coba Sektor Riil (Tahun 3-5) 
+Setelah infrastruktur hukum dan teknologi siap, penerapan tidak boleh langsung dilepas ke masyarakat 
+ritel. Pengujian harus dilakukan pada ekosistem berskala besar (wholesale). 
+a. Penyelesaian Transaksi Antarbank (RTGS Digital) 
+"Crypto Rupiah Emas" mulai digunakan untuk penyelesaian transaksi antarbank umum dan bank 
+sentral. Jika Bank A harus mentransfer triliunan rupiah ke Bank B, penyelesaiannya tidak lagi 
+menggunakan pencatatan fiat di server terpusat, melainkan memindahkan token digital berbasis emas 
+di jaringan blockchain BI, yang penyelesaiannya terjadi dalam hitungan detik tanpa risiko gagal bayar. 
+b. Tokenisasi Sektor Riil dan Properti (Model Outright Buy) 
+Di fase ini, kehebatan "Crypto Rupiah Emas" mulai diuji untuk menyelamatkan sektor riil yang selama 
+ini dicekik oleh fluktuasi harga bahan baku. Sebagai contoh konkrit dalam industri pengembangan 
+properti komersial, seperti pembangunan kawasan perumahan atau unit indekos (kost) yang masif. Para 
+pengembang dan pembeli sering kali terjebak dalam ketidakpastian nilai uang selama masa konstruksi. 
+Dengan digunakannya "Crypto Rupiah Emas", pengembang properti dapat menawarkan unit bangunan 
+dengan skema jual -beli putus ( outright buy ). Pembeli membayar menggunakan rupiah emas digital. 
+Karena nilainya dipatok pada emas fisik, pihak pengembang menerima modal yang nilainya tidak akan 
+menyusut dimakan inflasi, sehingga mereka bisa menyelesaikan proyek dengan spesifikasi material 
+yang jujur. Di sisi lain, pembeli mendapatkan kepastian hukum bahwa aset digital yang mereka 
+bayarkan bebas dari gharar (ketidakjelasan) dan langsung ditukar dengan kepemilikan aset fisik nyata 
+berupa bangunan. Transaksi ini menjadi bersih, adil, dan 100% mematuhi kaidah perlindungan harta 
+dalam syariah. 
+c. Pembersihan Ekosistem Kripto Ilegal oleh OJK 
+Bersamaan dengan uji coba ini, Otoritas Jasa Keuangan (OJK) mulai bertindak agresif "membersihkan" 
+pasar. Bermodalkan preseden bahwa instrumen digital negara saja harus memiliki emas sebagai 
+underlying asset, OJK mewajibkan seluruh bursa kripto swasta di Indonesia untuk membuktikan aset 
+dasar mereka. Koin-koin spekulatif yang gagal melewati uji kelayakan aset ini langsung dibekukan dan 
+dilarang diperdagangkan untuk menyelamatkan dana masyarakat dari skema Ponzi gaya baru. 
+4.3 Fase III: Peluncuran Ritel dan Integrasi Ekosistem Ekonomi Syariah (Tahun 6-7) 
+Memasuki tahun keenam, peluncuran "Crypto Rupiah Emas" mulai menyentuh lapisan masyarakat 
+terbawah. 
+a. Distribusi Melalui Dompet Digital Resmi 
+Masyarakat dapat mengunduh dompet digital (digital wallet) resmi yang terhubung dengan sistem Bank 
+Indonesia atau melalui bank umum. Mereka diberikan kebebasan penuh untuk menukarkan saldo uang 
+kertas fiat atau uang di rekening bank konvensional mereka dengan saldo "Crypto Rupiah Emas" tanpa 
+biaya konversi. Satu token di aplikasi mereka adalah klaim hukum absolut atas sekian miligram emas 
+fisik milik negara. 
+b. Menghidupkan Kembali Kedigdayaan ZISWAF 
+Implementasi fase ini akan memicu ledakan kebangkitan ekonomi syariah, khususnya pada instrumen 
+Zakat, Infak, Sedekah, dan Wakaf (ZISWAF). Permasalahan utama wakaf uang (tunai) selama ini adalah 
+tergerusnya nilai pokok wakaf oleh inflasi. Apabila wakaf uang disetorkan dalam bentuk "Crypto Rupiah 
+Emas", nilai intrinsik wakaf tersebut akan abadi. Dana umat akan terjaga kemurniannya, memberikan 
+manfaat sosial yang tidak akan pernah kedaluwarsa, serta menjadi basis permodalan umat yang sangat 
+raksasa untuk membiayai pengentasan kemiskinan dan pendidikan. 
+4.4 Fase IV: Phasing Out Fiat dan Hegemoni Moneter Baru (Tahun 8-10) 
+Fase terakhir adalah puncak dari transformasi ekonomi nasional. 
+a. Penarikan Uang Kertas Secara Alamiah 
+Bank Indonesia tidak perlu memaksa masyarakat membuang uang kertasnya. Secara alamiah 
+(berdasarkan hukum ekonomi bahwa uang yang kuat akan mengusir uang yang lemah), masyarakat 
+akan dengan sendirinya menolak menyimpan kekayaan dalam bentuk fiat yang inflasioner dan akan 
+beralih menabung dalam "Crypto Rupiah Emas". Secara bertahap, Bank Indonesia mengurangi volume 
+pencetakan uang kertas dan logam baru, hingga akhirnya peredaran uang kertas dihentikan 
+sepenuhnya. 
+b. Indonesia sebagai Kutub Safe Haven Asia Tenggara 
+Dampak makroekonomi dari fase ini sangat luar biasa. Ketika negara -negara lain masih berkutat 
+mencetak uang fiat untuk membayar utang, Indonesia telah memiliki benteng moneter yang tak 
+tertembus. "Crypto Rupiah Emas" akan dilirik oleh investor asing, pengusaha global, dan negara 
+tetangga sebagai safe haven (tempat berlindung aset) yang paling aman. Nilai tukar Rupiah tidak lagi 
+menjadi korban bulan -bulanan apresiasi Dolar AS, melainkan berdiri tegak sejajar sebagai salah satu 
+mata uang paling dihormati di dunia karena terbukti paling jujur dan transparan. 
+4.5 Mitigasi Risiko: Keamanan Siber dan Anti-Money Laundering 
+Dalam peta jalan ini, penulis menyadari bahwa digitalisasi membawa ancaman siber. Oleh karena itu, 
+Permissioned Blockchain  milik negara harus dilengkapi dengan enkripsi kriptografi kuantum tingkat 
+militer untuk mencegah peretasan. Selain itu, karena setiap transaksi terekam abadi di dalam buku kas 
+digital yang terdesentralisasi namun diawasi negara, praktik pencucian uang (TPPU), korupsi, dan 
+pendanaan terorisme dapat dilacak secara presisi dari dompet pertama hingga dompet terakhir. Ini 
+menjadikan "Crypto Rupiah Emas" bukan hanya alat pelindung kekayaan, tetapi juga instrumen sapu 
+bersih penegakan hukum terhadap kejahatan kerah putih di Indonesia.
+BAB V: KESIMPULAN DAN REKOMENDASI KEBIJAKAN 
+5.1 Kesimpulan 
+Dari seluruh konstruksi pemikiran lintas disiplin—meliputi hukum tata negara, makroekonomi, dan fiqh 
+muamalah—yang telah dibedah secara komprehensif dalam naskah ini, dapat ditarik tiga kesimpulan 
+fundamental: 
+Pertama, Kegagalan Paradigmatik Sistem Moneter Saat Ini.  Sistem uang kertas (fiat) yang 
+bergantung sepenuhnya pada otoritas pencetakan tanpa jaminan aset fisik telah terbukti memicu 
+kezaliman ekonomi berupa inflasi struktural yang merampas daya beli masyarakat ( Hifz al-Mal). Di sisi 
+lain, pelarian masyarakat menuju mata uang kripto swasta justru menjerumuskan mereka ke dalam 
+anarki moneter. Tanpa adanya underlying asset dan wujud fisik, instrumen kripto arus utama gagal 
+memenuhi syarat harta yang sah ( Mal al-Mutaqawwim) dan murni beroperasi sebagai skema spekulasi 
+(maysir) serta ketidakpastian absolut (gharar). Realitas ini membuktikan bahwa kripto tanpa aset dasar 
+tidak lebih dari sekadar instrumen Ponzi berkedok desentralisasi teknologi. 
+Kedua, Legalitas dan Keunggulan Absolut "Crypto Rupiah Emas".  Gagasan penerbitan Central Bank 
+Digital Currency  (CBDC) yang dipatok 1:1 dengan cadangan emas fisik negara bukanlah sebuah 
+kemunduran ke masa lalu, melainkan evolusi paling sempurna dari sistem moneter. Penggabungan 
+teknologi permissioned blockchain  dengan instrumen Gold Standard  memberikan transparansi audit 
+publik yang mustahil dilakukan dalam sistem fiat, sekaligus mengunci nilai mata uang dari depresiasi. 
+Secara hukum, konsep ini berdiri kokoh di atas asas kedaulatan moneter, memastikan bahwa hak emisi 
+tetap berada secara eksklusif di tangan Bank Indonesia sebagaimana diamanatkan oleh konstitusi dan 
+Undang-Undang Mata Uang. 
+Ketiga, Harmonisasi Regulasi dan Penyelamatan Sektor Riil.  Pengesahan UU P2SK memberikan 
+momentum emas untuk memisahkan secara yurisdiksi antara uang negara yang berdaulat (di bawah BI) 
+dengan aset digital berisiko tinggi (di bawah OJK). Hadirnya "Crypto Rupiah Emas" akan menjadi 
+katalisator bagi sektor riil. Dalam praktik bisnis, seperti pada transaksi outright buy (jual-beli putus) di 
+sektor properti, penggunaan Rupiah Digital berbasis emas ini memberikan kepastian nilai modal bagi 
+pengembang dan kepastian hukum bagi pembeli, melindungi transaksi dari gerusan inflasi material, dan 
+menstimulasi pertumbuhan ekonomi syariah yang benar-benar bersih dari elemen manipulasi moneter. 
+5.2 Rekomendasi Kebijakan 
+Agar gagasan "Crypto Rupiah Emas" ini dapat dioperasionalisasikan menjadi instrumen kebijakan 
+negara, penulis merekomendasikan langkah -langkah strategis berikut kepada para pemangku 
+kepentingan: 
+1. Kepada Bank Indonesia (Otoritas Moneter): 
+Bank Indonesia disarankan untuk segera melakukan revisi fundamental terhadap cetak biru ( blueprint) 
+Proyek Garuda. Konsep Rupiah Digital tidak boleh berhenti pada digitalisasi uang fiat konvensional. 
+Bank Indonesia harus merumuskan Peraturan Bank Indonesia (PBI) yang mewajibkan pengikatan 
+cadangan devisa berupa emas fisik murni sebagai jaminan ( collateral) bagi setiap unit Rupiah Digital 
+yang diterbitkan. Lebih lanjut, Bank Indonesia perlu membangun Permissioned Blockchain  yang 
+memungkinkan Proof of Reserve (Bukti Cadangan) diaudit secara real-time oleh lembaga negara terkait. 
+2. Kepada Otoritas Jasa Keuangan (OJK) dan Satgas PASTI: 
+Berbekal kewenangan baru di bawah UU P2SK, OJK harus menerapkan standar ganda yang ketat 
+terhadap industri kripto. OJK direkomendasikan untuk menggunakan parameter The Howey Test  dan 
+prinsip underlying asset dalam menyaring setiap entitas atau bursa kripto (ITSK) yang beroperasi di 
+Indonesia. Aset digital yang tidak mampu membuktikan keberadaan aset dasar fisik harus segera 
+dibekukan dan diklasifikasikan sebagai penawaran investasi ilegal, guna memutus mata rantai skema 
+Ponzi yang merugikan masyarakat luas. 
+3. Kepada Pemerintah dan Dewan Perwakilan Rakyat (DPR RI): 
+Diperlukan penyusunan Peraturan Pemerintah (PP) turunan dari UU P2SK yang secara spesifik 
+mengatur ekosistem aset keuangan digital dan integrasinya dengan hukum kebendaan (Hukum 
+Perdata). Regulasi ini harus menegaskan status hukum token digital berjaminan emas sebagai bukti sah 
+kepemilikan hak kebendaan, sehingga transaksi-transaksi komersial skala besar, seperti jual -beli putus 
+(outright buy ) properti, memiliki perlindungan legalitas yang mutlak dan tidak dapat digugat di 
+kemudian hari. 
+4. Kepada Pelaku Industri dan Ekosistem Syariah: 
+Mendorong para pelaku usaha sektor riil dan lembaga keuangan syariah (termasuk pengelola ZISWAF) 
+untuk memelopori adopsi model bisnis yang menghindari skema bersyarat kompleks, dan beralih pada 
+transaksi yang jelas, tunai, dan tuntas dengan menggunakan standar nilai emas. Transformasi ini akan 
+mempercepat terwujudnya ekosistem ekonomi umat yang mandiri, berkeadilan, dan tahan terhadap 
+guncangan krisis moneter global. 
+DAFTAR PUSTAKA 
+Keterangan: Seluruh literatur di bawah ini telah diverifikasi validitasnya sebagai referensi akademik 
+primer dan sekunder yang diakui secara internasional. 
+A. Peraturan Perundang-undangan dan Dokumen Resmi 
+1. Pemerintah Republik Indonesia. (2023). Undang-Undang Nomor 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan . Lembaran Negara RI Tahun 2023 Nomor 4. 
+Jakarta: Sekretariat Negara. 
+2. Pemerintah Republik Indonesia. (2011). Undang-Undang Nomor 7 Tahun 2011 tentang Mata Uang. 
+Lembaran Negara RI Tahun 2011 Nomor 64. Jakarta: Sekretariat Negara. 
+3. Bank Indonesia. (2022). Proyek Garuda: Menavigasi Arsitektur Digital Rupiah . Jakarta: Laporan 
+Whitepaper Resmi Bank Indonesia. 
+4. Mahkamah Agung Amerika Serikat. (1946). Securities and Exchange Commission v. W.J. Howey Co., 
+328 U.S. 293. (Yurisprudensi Uji Kontrak Investasi). 
+B. Buku dan Literatur Akademik 
+5. Chapra, M. U. (1985). Towards a Just Monetary System: A Discussion of Money, Banking and Monetary 
+Policy in the Light of Islamic Teachings. Leicester: The Islamic Foundation. 
+6. Rothbard, M. N. (2008). What Has Government Done to Our Money?  Auburn, AL: Ludwig von Mises 
+Institute. 
+7. Yermack, D. (2015). Is Bitcoin a Real Currency? An Economic Appraisal. Dalam Handbook of Digital 
+Currency: Bitcoin, Innovation, Financial Instruments, and Big Data (hlm. 31-43). Elsevier. 
+C. Jurnal Internasional dan Kesaksian Publik 
+8. Bordo, M. D., & Levin, A. T. (2017). Central Bank Digital Currency and the Future of Monetary Policy . 
+National Bureau of Economic Research (NBER) Working Paper No. 23711. 
+9. Meera, A. K. M., & Larbani, M. (2004). The Gold Dinar: The Next Component in Islamic Economics, 
+Banking and Finance. Review of Islamic Economics, 8(1), 5-34. 
+10. Roubini, N. (2018). Crypto is the Mother of All Scams and (Now Busted) Bubbles While Blockchain Is 
+the Most Over-Hyped Technology Ever. Kesaksian tertulis di hadapan United States Senate Committee on 
+Banking, Housing, and Urban Affairs. 
+D. Fatwa dan Panduan Syariah 
+11. Majelis Tarjih dan Tajdid Pimpinan Pusat Muhammadiyah. (2022). Fatwa Tarjih tentang Hukum 
+Cryptocurrency. Yogyakarta: Majelis Pimpinan Pusat Muhammadiyah. 

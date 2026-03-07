@@ -1,43 +1,770 @@
-TOKENIZATION IN REAL ESTATE MARKETS: A MULTIDISCIPLINARY ANALYSIS OF LEGAL CERTAINTY, ECONOMIC EFFICIENCY, AND TAX IMPLICATIONS
-Author:
-Dr. Bahori Ahoen, M.E., M.H.
-Founder & Principal, BA Law Office | Lecturer at Universitas Tazkia And Universtas Mpu Tantular | Founder, Bahori Ahoen Institute
-ABSTRACT
-The digital transformation of real estate through blockchain-based tokenization has reached a pivotal point in Indonesia with the graduation of PT Teknologi Gotong Royong (GORO) from the OJK Regulatory Sandbox in November 2025. Despite this financial milestone, a significant "regulatory vacuum" exists at the intersection of digital financial assets and conventional agrarian law. This study utilizes a multidisciplinary framework to evaluate the legal, economic, and fiscal dimensions of property tokenization. Through a case study of GORO and an analysis of POJK No. 3/2024, the research identifies systemic risks in fractional ownership and the inefficiency of current micro-transaction taxation. The paper proposes an original "Hybrid Legal-Fiscal Model" incorporating Collective Binding Sale and Purchase Agreements (PPJB Kolektif) and Mandatory Mortgage Rights (Hak Tanggungan) to bridge the gap between digital tokens and legal land titles. The findings suggest that this model provides a robust mechanism for investor protection while ensuring state revenue stability through aggregated tax consolidation.
-Keywords: Property Tokenization, Regulatory Sandbox, Hak Tanggungan, Tax Compliance, Blockchain Law, Real World Assets (RWA), Fractional Ownership.
-1. INTRODUCTION
-The global real estate industry, traditionally characterized by illiquidity and high entry barriers, is undergoing a paradigm shift through Real World Asset (RWA) tokenization. By converting property rights into digital tokens on a distributed ledger, tokenization democratizes investment, allowing fractional ownership. In Indonesia, this evolution is no longer theoretical. The Financial Services Authority (OJK) recently validated the business model of PT Teknologi Gotong Royong (GORO) via the Regulatory Sandbox (Letters No. S-527/IK.01/2025), enabling micro-investments starting at IDR 10,000.
-However, the rapid adoption of Financial Technology (FinTech) in the property sector has outpaced the development of agrarian and fiscal regulations. The Indonesian Basic Agrarian Law (UUPA No. 5/1960) remains rooted in the principle of horizontal separation and unitary ownership, which does not recognize digital tokens as a valid in rem right (hak kebendaan). Furthermore, the existing tax regime, designed for high-value singular transactions, faces an "efficiency crisis" when applied to thousands of high-frequency micro-transactions. This study aims to provide a comprehensive legal and economic roadmap to synchronize ini conflicting domains.
-2. LITERATURE REVIEW AND THEORETICAL FRAMEWORK
-2.1. The Theory of Property Rights in the Digital Age
-According to Arruñada (2018), land registration serves as a mechanism to reduce transaction costs by providing "publicity" to property rights. Tokenization, while offering a "digital twin" of a property, challenges the traditional "bundle of rights" theory.
-2.2. Economic Analysis of Law (EAL)
-The EAL framework suggests that legal rules should promote economic efficiency. In real estate, the cost of "trust" (notaries, land offices, and taxes) often exceeds the investment capacity of retail investors. Table 1 illustrates the comparative efficiency gain.
-Table 1: Comparative Efficiency Analysis (Conventional vs. Tokenization)
-3. RESEARCH METHODOLOGY
-This research adopts a qualitative multidisciplinary method. It utilizes primary data from the OJK Regulatory Sandbox results (2025) concerning GORO and analyzes the compatibility of POJK No. 3/2024, UU ITE, and UUPA No. 5/1960.
-Table 2: Regulatory Mapping and Conflict Identification
-4. RESEARCH FINDINGS AND DISCUSSION
-4.1. The Integrated Hybrid Model: Bridging the Digital-Agrarian Divide
-The study proposes a structural integration of blockchain technology with Indonesian land law. The model is visualized in the following diagram:
-4.2. Collective PPJB as a Legal Bridge
-To solve the regulatory vacuum, the research proposes the use of Collective Binding Sale and Purchase Agreements (PPJB Kolektif). By digitizing this via UU ITE, the platform maintains a real-time ledger of fractional owners legally linked to a single notarized master document.
-4.3. Mandatory Mortgage Rights (Hak Tanggungan) for Investor Protection
-A critical novelty of this study is the application of Hak Tanggungan (HT) to digital assets. Although HT traditionally stems from a loan, it can be utilized to guarantee the "performance of an obligation" (Pasal 3 UUHT). This elevates the status of retail investors to Separated Creditors (Kreditur Separatis), providing a safety net in case of platform insolvency.
-4.4. Fractional Ownership and Joint Titles (Medeeigendom)
-The study analyzes the scenario where investors own a portion (e.g., 40%) of a property. To avoid administrative paralysis, the 40% fractional stake is registered under one representative entity (SPV/Trustee) that holds the title on behalf of the thousands of token holders.
-4.5. Fiscal Engineering: Aggregated Tax Consolidation
-The study proposes an Aggregated Tax System. Taxes are not paid on every token transfer. Instead, the platform acts as a Withholding Agent (WAPU), accumulating tax portions in a digital vault. The full tax payment (PPh & BPHTB) is triggered only during the final Transfer of Title (AJB).
-5. POLICY RECOMMENDATIONS
-To Ministry of ATR/BPN: Establish a "Digital Land Book Annex" for collective fractional interests.
-To OJK: Mandate Mortgage Rights (HT) for all RWA platforms post-sandbox.
-To DJP: Create a specific tax code for "Fractional Property Assets" for consolidated reporting.
-6. CONCLUSION
-The integration of blockchain in Indonesia’s real estate market is an inevitable economic force. The Hybrid Legal-Fiscal Model proposed—utilizing Collective PPJB, Mandatory Mortgage Rights, and Aggregated Taxation—provides a legally sound and economically efficient path forward.
-7. REFERENCES
-Arruñada, B. (2018). Journal of Institutional Economics, 14(5).
-Baum, A. (2020). Journal of Property Investment & Finance, 39(2).
-Gupta, A., et al. (2021). Land Use Policy, 101.
-OJK. (2025). Surat Keputusan Kelulusan Regulatory Sandbox No. S-527/IK.01/2025.
-OJK. (2024). POJK No. 3 Tahun 2024.
-
+NATIONAL FISCAL RECONSTRUCTION: TRANSFORMING TAX OBLIGATIONS INTO 
+ZAKAT AS A LEX SPECIALIS FOR TOTAL COMPLIANCE AND STATE BUDGET 
+STABILITY 
+ 
+Writer 
+By: Dr. Bahori Ahoen, SH, SE, MH, ME 
+Lecturer at Tazkia University 
+ABSTRACT 
+Indonesia stands on a fiscal paradox: despite hosting the world's largest Muslim population (87.2%), its 
+Tax-to-GDP Ratio remains stagnated at single digits (±10%). This phenomenon stems from theological 
+resistance among Muslims who view conventional taxes as overlapping with religious Zakat obligations 
+("Double Burden") and often perceive them as unjust levies ("Muks"). 
+This study proposes a radical legal breakthrough by reconstructing the national fiscal system through the 
+principle of "Lex Specialis Derogat Legi Generali." It advocates for the total transformation of Tax 
+obligations into Zakat for Muslim citizens, where Zakat payment serves as full legal substitution for tax 
+liability, rather than merely a tax deduction. Utilizing a mixed-method approach combining normative legal 
+analysis and economic simulation, this research reveals a positive anomaly termed "The Compliance 
+Paradox." The simulation demonstrates that while the Zakat rate (2.5%) is significantly lower than the 
+Corporate Income Tax rate (22%), the aggregate state revenue actually increases. 
+This increase is driven by a fundamental shift in the fiscal base: moving from a "Profit-based" system 
+(narrow and prone to manipulation) to an "Asset/Net Worth-based" system (broad and tangible). 
+Furthermore, spiritual-based compliance proves effective in capturing the shadow economy and idle assets 
+that consistently evade conventional taxation. In terms of governance, the study recommends establishing 
+a Single Window System under the Ministry of Finance supervised by the National Sharia Board, alongside 
+a strict "Segregated Account" policy. In conclusion, this substitution model offers a pragmatic economic 
+solution to enhance fiscal independence and achieve social justice within the constitutional framework of 
+Indonesia. 
+Keywords: Fiscal Reconstruction, Tax Substitution, Zakat Compliance, State Revenue, Lex Specialis. 
+ 
+ 
+ 
+ 
+ 
+CHAPTER I 
+INTRODUCTION 
+1.1. Background of the Problem 
+Indonesia now faces a worrying fiscal paradox. As a democracy with the world's largest Muslim population, 
+accounting for 87.2% of the total population, equivalent to 240 million people, Indonesia theoretically 
+possesses the strongest foundation of moral compliance of any secular nation. Islamic doctrine, which 
+mandates obedience to the Ulil Amri (Government), should be directly proportional to fiscal compliance. 
+However, empirical reality confronts us with the opposite: Indonesia's tax compliance rate is extremely 
+low, and its tax ratio is chronically stagnant. 
+Based on the latest data from the OECD Revenue Statistics 2024 and the Ministry of Finance's State 
+Budget Performance Report, Indonesia's Tax Ratio in 2024 was only recorded at around 10.07% , and even 
+showed a downward trend to 8.42% in the first half of 2025. This figure is very far behind the average of 
+OECD countries which reached 33.9% , even lagging behind neighboring countries such as Thailand (17%) 
+and Malaysia (12.5%). 
+A fundamental question arises: Why is the majority of the population who believe in God and fear hell 
+reluctant to pay their obligations to the state? 
+The answer lies not in economic inadequacy, but rather in theological and psychological resistance . 
+Muslims in Indonesia are caught in a dilemma of "dual loyalty ." On the one hand, religion requires Zakat 
+(2.5%) on their wealth, with the threat of a major sin if they fail to do so. On the other hand, the state 
+imposes taxes (up to 35%) with the threat of criminal sanctions and administrative fines. 
+This situation creates a "Double Burden" phenomenon that is considered highly unfair. A devout Muslim 
+is forced to spend his wealth twice for expenditure items that have similar functions (social and development 
+functions). As a result, an anomaly occurs where Muslim-majority countries tend to have a low tax ratio 
+because their people prioritize "the heavenly path" (Zakat) and avoid "the earthly path" (Tax), in contrast 
+to the secular Scandinavian countries that have high tax compliance due to the absence of internal 
+theological conflict. 
+The graph above shows a negative correlation between the Muslim population and the tax ratio in the 
+conventional system. This supports the hypothesis that secular tax systems fail to "harvest" the economic 
+potential of religious countries. 
+Government efforts through Law No. 7 of 2021 concerning the Harmonization of Tax Regulations (HPP 
+Law) and Law No. 23 of 2011 concerning Zakat Management are deemed to have failed to address the 
+root of this problem. The current mechanism only places Zakat as a tax deductible . In reality, this incentive 
+is too small, the procedures are bureaucratic, and it doesn't eliminate the complex tax reporting 
+requirements. Zakat is considered merely an "accessory" to the fiscal system, not a key component. 
+Therefore, this research presents a high urgency to offer a Radical Legal Breakthrough . Not just partial 
+harmonization, but rather Constitutional Transformation . This research proposes that for Muslims, the 
+obligation of Taxation be ERASED and COMPLETELY REPLACED by Zakat through the legal 
+umbrella of Lex Specialis . 
+The main hypothesis of this study is: "Lower Rate, Higher Revenue" . By changing the label "Tax" to 
+"State Zakat" (even though the rate drops from 22% to 2.5%), the compliance rate will jump drastically 
+towards 100% ( Total Voluntary Compliance ) because it is driven by faith. As a result, aggregate state 
+revenue will actually INCREASE , not decrease. 
+1.2. Problem Formulation 
+Based on the above background, this study dissects three "gaping wounds" in the national fiscal and legal 
+system that need to be treated immediately: 
+1. The Legal Gap : How is the legal drafting to transform tax obligations into zakat as Lex Specialis 
+in Indonesia's positive legal system based on Pancasila? The absence of a legal instrument that 
+recognizes Zakat as a full payment of state obligations causes legal uncertainty and anxiety for 
+Muslim taxpayers. 
+2. Macroeconomic Inefficiency ( The Economic Gap ): Is the zakat substitution model (2.5% of Net 
+Assets) mathematically and through economic simulations capable of generating equivalent or 
+greater state revenue ( Revenue Neutral/Positive ) compared to the conventional tax regime? The 
+conventional tax system, which relies on high rates, has proven to fail to touch the "Iceberg" of the 
+people's economy ( Underground Economy ) which can only be touched with a religious approach. 
+3. The Justice & Governance Gap : What is the ideal fiscal institutional governance model to 
+prevent corruption of zakat funds within the state budget structure, by involving independent 
+religious authorities? The community's doubts about the use of taxes to pay interest on usurious 
+debt must be addressed with a transparent and sharia-compliant system. 
+1.3. Research Objectives 
+1. Formulating an Academic Paper for the Draft National Sharia Fiscal Law (RUU) which places 
+Zakat as a single state obligation for Muslims ( Single Identity Fiscal Obligation ). 
+2. Empirically proving (Quantitative Simulation) that expanding the zakat base ( Broadening Base 
+) to the asset sector and informal economy is much more effective for the APBN than maintaining 
+high tax rates but low compliance levels. 
+3. Reconstructing the Bureaucratic Structure by proposing the merging of the executive functions 
+of the Directorate General of Taxes and the spiritual functions of the Zakat Collection Agency 
+under one roof, the "State Sharia Fiscal Agency" under the Ministry of Finance. 
+ 
+1.4 . Research Novelty 
+This dissertation offers significant originality and novelty compared to previous research ( State of the Art 
+): 
+1. Legal Substitution, Not Just an Incentive: Unlike previous studies (such as Barizah in Malaysia 
+or Beik in Indonesia) that focused solely on Zakat as a Tax Rebate or Tax Deduction , this study 
+boldly proposes a Full Substitution model . Zakat is the tax itself for Muslims. 
+2. The "Compliance Paradox" Theory: Presents the antithesis of conventional economic theory. 
+This research proves that drastically reducing tax rates (to 2.5%) will actually double state revenue 
+due to the Spiritual Compliance factor . 
+3. Tax Base Paradigm Shift (Asset vs. Profit): Changing the corporate taxation base from "Profit 
+Based" (which is easily manipulated by accounting) to "Asset/Working Capital Based" (According 
+to the Fiqh of Zakat Tijarah), which guarantees the stability of state revenue even when the 
+economy is in recession. 
+1.5. Benefits of Research 
+This research is expected to provide significant contributions both academically and practically: 
+1. Theoretical Significance : This research enriches the scientific treasury of Islamic Constitutional 
+Law ( Fiqh Siyasah ) and Public Economics. Specifically, this research offers a new model of the 
+Integration of Theological-Transcendental Values into the structure of a modern constitutional 
+democratic state. This finding proves that the implementation of sharia (Zakat) can run 
+harmoniously within the framework of the Unitary State of the Republic of Indonesia (NKRI) 
+without having to change the Pancasila ideology into a theocratic state, but rather as a form of 
+constructive Legal Pluralism . 
+2. Practical Significance : This research is designed to serve as a strategic foundation and blueprint 
+for the Government (Ministry of Finance) and the Legislature (DPR-RI) in drafting the National 
+Sharia Finance Omnibus Law . The implementation of this research is expected to provide 
+concrete solutions for: 
+● 
+Increasing the independence of the State Budget (APBN). 
+● 
+Reducing the country's dependence on foreign debt ( Sovereign Debt ) by optimizing the 
+potential of public funds. 
+● 
+Eliminating the stigma of tax injustice, thereby creating sustainable social and economic 
+stability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER II 
+LITERATURE REVIEW AND THEORETICAL BASIS 
+2.1. Theoretical Framework 
+To comprehensively analyze the reconstruction of the national fiscal system based on sharia, this study uses 
+a hierarchical theoretical structure ( Grand, Middle, & Applied Theory ) as the main analytical tool: 
+2.1.1. Grand Theory: Maqashid Sharia Theory (Imam Asy-Syatibi) 
+The main philosophical basis of this research is Maqashid Syariah (Aims of Islamic Law), especially in the 
+aspects of Hifz al-Mal (Protection of Property) and Maslahah Murlah (Public Benefit). 
+Imam Asy-Syatibi in the book Al-Muwafaqat emphasized that Islamic law was revealed to realize the 
+benefit of servants in this world and the hereafter. The relevance of this theory to the dissertation is: 
+1. Protection of Assets ( Hifz al-Mal ): The current double taxation system ( Double Burden ) 
+violates the principle of asset protection because it burdens Muslims beyond their means ( Taclif 
+ma la yutaq ). Taxes levied without clear sharia status have the potential to become injustice ( Zulm 
+). 
+2. National Welfare ( Maslahah Ammah ): State revenue (APBN) is an absolute instrument for 
+safeguarding religion ( Hifz Din ) and life ( Hifz Nafs ) through security and health. Therefore, the 
+transition from Tax to Zakat must be ensured to comply with the principle of Adequacy of Revenue 
+. This theory refutes the notion that Islamic law is anti-state; in fact, sharia exists to strengthen the 
+state through halal and blessed funding. 
+2.1.2. Middle Range Theory: Taxation Cycle Theory (Ibnu Khaldun) 
+To prove the hypothesis that "Low Tariffs Generate High Revenues," this study refers to Ibn Khaldun's 
+thoughts in the Muqaddimah . He was a pioneer of the tax curve long before Arthur Laffer ( Laffer Curve 
+). 
+Ibn Khaldun stated: "At the beginning of the state, taxes generate large revenues from small rates. At the 
+end of the state's decline, taxes generate small revenues from large rates." 
+● 
+Research Relevance: This theory is an antithesis to the high tax rate policy (Corporate Income 
+Tax 22% - 35%) in Indonesia. When the tax rate is too high and is perceived as unfair, taxpayers 
+will engage in Tax Evasion or move their assets abroad ( Capital Flight ). This research proves that 
+a low Zakat rate (2.5%) but based on divine justice will encourage business enthusiasm ( Business 
+Incentive ) and voluntary compliance, which ultimately increases aggregate state revenue. 
+2.1.3. Applied Theory: Legal System Theory (Lawrence Friedman) 
+Lex Specialis Law , Lawrence M. Friedman's theory was used which divides the success of the legal system 
+into three key elements: 
+1. Substance : The legal regulation itself. In this case, the substance of the Tax Law was changed to 
+the Sharia Fiscal Law, which recognizes Zakat as a sole obligation . 
+2. Structure : Law enforcement institutions. This study proposes merging the functions of the 
+Directorate General of Taxes and BAZNAS under one state coordination roof ( Single Window 
+System ) to have coercive power . 
+3. Legal Culture : The public's attitude toward the law. The religiously observant legal culture of 
+Indonesian Muslims is the primary social capital for the success of this system. 
+2.2. Review of Siyasah and Maliyah Fiqh ( Islamic Jurisprudence Review ) 
+2.2.1. Definition and Distinction: Al-Muks , Dharibah , and Zakat 
+It is important to establish terminology to avoid legal confusion in the application of Lex Specialis : 
+1. Al-Muks (Illegal Levies/Tribute): 
+o 
+Definition: A levy taken by force without any legal right and often without clear counter-
+performance. 
+o 
+Law: Absolutely Haram . Based on a hadith narrated by Abu Dawud: "No muks collector 
+will enter heaven" (An-Nawawi, Syarh Sahih Muslim). 
+o 
+Dissertation Analysis: Modern taxes that are corrupt, not transparent in their use, and 
+burden the common people (such as VAT on basic necessities) can fall into this category 
+of doubtful Muks . 
+2. Dharibah (Additional Tax/Burden): 
+o 
+Definition: The obligation to pay additional assets other than zakat as determined by Ulil 
+Amri (Government) due to emergency conditions or when the state treasury ( Baitul Mal ) 
+is empty. 
+o 
+Law: Khilafiyah (Debate). The majority of scholars permit it with strict conditions (empty 
+coffers, fairness, transparency), but some scholars (such as Imam Adz-Dzahabi in Al-
+Kabair ) tend to forbid it if Zakat is actually sufficient but not managed properly. 
+3. Zakat (Purification of Wealth): 
+o 
+Definition: Allah's right that must be removed from certain assets ( Nishab ) that have 
+reached a certain period ( Haul ) for certain groups ( Asnaf ). 
+o 
+Law: Wajib 'Ain (Fardhu Ain) and is the third Pillar of Islam. 
+o 
+Dissertation Analysis: Zakat has Double Sanctions : Sanctions in the Hereafter (Sin) and 
+Worldly Sanctions (Can be fought/confiscated by the state, as per the policy of the Caliph 
+Abu Bakar Ash-Shiddiq). 
+2.2.2. Zakat as Modern State Income 
+Yusuf Al-Qaradawi's research in Fiqh Az-Zakah is the main reference that Zakat is not limited to 
+conventional assets (camels/wheat), but includes modern assets: 
+● 
+Profession Zakat ( Al-Mustafad ): Relative to Gold/Silver Zakat or Agricultural Zakat. 
+● 
+Zakat on Stocks & Bonds: Relative to Zakat on Commerce ( Tijarah ) which is calculated from 
+current assets. 
+● 
+Property Investment Zakat ( Mustaghallat ): Similar to Agricultural Zakat (taken from rental 
+income). 
+This theory validates the dissertation's proposal that the zakat base is very broad and capable of supporting 
+a modern state budget. 
+2.3. Positive Law Review and the Constitution ( Positive Law Review ) 
+2.3.1. Principles of Legality and Constitutionality 
+● 
+Article 23A of the 1945 Constitution: "Taxes and other compulsory levies for state purposes are 
+regulated by law." 
+o 
+Legal Analysis: The phrase "other levies" opens up a constitutional opportunity for Zakat 
+to become a legitimate state instrument equal to taxes, without having to amend the 1945 
+Constitution. 
+● 
+Article 29 Paragraph (1) & (2) of the 1945 Constitution: The state is based on the Almighty God 
+and guarantees the freedom of every citizen to embrace a religion. 
+o 
+Legal Analysis: Paying Zakat is an act of worship . The state is obligated to facilitate this 
+act of worship. If the state taxes money used for worship (Zakat), it could potentially violate 
+citizens' constitutional rights to religion. 
+2.3.2. Criticism of the Tax Regulation Harmonization Law (HPP) 
+Law No. 7 of 2021 (HPP) is considered to still adhere to a secular paradigm that separates religious and 
+state assets. The article regulating Zakat as a tax deduction has proven ineffective because: 
+1. Small Nominal Impact: Reduction only in the tax base, not in the amount of tax due. 
+2. Administrative Burden: Taxpayers must report to BAZNAS and the Directorate General of Taxes 
+separately. 
+3. Philosophy: Still placing Muslims as the subject of "Two Doors" (Paying Zakat + Paying Taxes). 
+2.4. Previous Research ( State of the Art ) 
+To position Novelty , here is a comparison of previous research with this dissertation: 
+No Researcher 
+& Year 
+Focus of Study 
+Key Findings 
+Weaknesses (Gaps) Filled in This 
+Dissertation 
+1 
+Barizah 
+& 
+Abdul 
+Rahman 
+(2010) 
+Zakat in Malaysia 
+Analyzing the Tax Rebate 
+system in Malaysia where 
+Zakat 
+reduces 
+the 
+tax 
+payable. 
+Still within the scope of the Secular 
+Tax Law, Zakat is only a reduction 
+element (Rebate), not a replacement 
+for the legal system. 
+2 Irfan Syauqi 
+Beik (2016) 
+Integration 
+of 
+Indonesian Zakat 
+Proposing Zakat as a Tax 
+Credit 
+(Direct 
+Tax 
+Reduction) in Indonesia. 
+This is a partial fiscal incentive 
+proposal and does not involve a 
+fundamental reconstruction of the 
+Lex Specialis or replacement of the 
+Law. 
+3 Monzer 
+Kahf (1999) 
+Zakat 
+Macroeconomics 
+Macroeconomic theory states 
+that Zakat stabilizes the 
+economy better than taxes. 
+The study is purely theoretical-
+economic in nature, lacking in the 
+aspect 
+of 
+Legal 
+Drafting 
+or 
+Constitutional Law. 
+Dissertation Novelty Position: 
+This research fills the legal void by offering a national full substitution model, not just a rebate, credit, or 
+deduction . 
+2.5. Thinking Framework ( Conceptual Framework ) 
+The framework of this research describes the paradigm shift from Double Burden to Single Identity Fiscal 
+Obligation . 
+The chart above explains how legal intervention through the Lex Specialis Law will change the structure of 
+citizens' obligations, from the original branched (Tax and Zakat running separately) to one integrated path 
+that is efficient and sharia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER III 
+RESEARCH METHODS 
+3.1. Type of Research ( Research Design ) 
+prescriptive-reformist legal research using a mixed method research design : 
+1. Normative Jurisprudence ( Doctrinal Legal Research ): 
+This research examines law as a coherent system of norms. Its main focus is to analyze the conflict 
+of norms between the obligation of Zakat (Religious Law/Sharia) and the obligation of Tax 
+(Positive State Law), and to reconstruct a new legal principle ( Lex Specialis ) to harmonize them 
+without violating the constitution. 
+2. Economic Analysis of Law : 
+This research does not stop at the legal text alone, but instead moves on to Impact Simulation . 
+Using a limited quantitative approach, this study tests the economic efficiency of changing the tax 
+system (high rates, low compliance) to a zakat system (low rates, high compliance) using real GDP 
+data. 
+3.2. Research Approach 
+To comprehensively analyze the problem formulation, this research uses four approaches at once ( Multi-
+Approach ): 
+1. Statute Approach : 
+Reviewing and critiquing existing legal products, namely Law No. 7 of 2021 (HPP) , Law No. 23 
+of 2011 (Zakat Management) , and the 1945 Constitution (Articles 23A & 29) . The goal is to 
+identify legal gaps or legal vacuums that could provide entry points for the Sharia Fiscal Bill. 
+2. Conceptual Approach : 
+Redefining the concepts of "State Obligation" and "Compliance". This research refers to the views 
+of classical scholars ( Fuqaha ) on Muks vs Dharibah and the contemporary concept of Single 
+Identity Fiscal Obligation . 
+3. Comparative Approach : 
+Comparing the zakat-tax integration model in other countries as a benchmark : 
+o 
+Malaysia: Tax Rebate Model (Zakat reduces tax payable). 
+o 
+Saudi Arabia: Zakat as Tax Model (Zakat is a tax for citizens/local companies). 
+o 
+Indonesia (Dissertation Proposal): Full Substitution Model (Tax replaced by Zakat). 
+4. Theological- Sociological Approach : 
+Examining taxpayer behavior ( Taxpayer Behavior ). This approach analyzes why religious 
+compliance is more effective in suppressing tax evasion than legal enforcement -based compliance 
+. 
+Figure 3.1: Research Flowchart 
+Flowchart Explanation: 
+● 
+Box 1 (Problem): Low Tax Ratio & Double Burden for Muslims. 
+● 
+Box 2 (Analysis Knife): Maqashid Sharia Theory (Hifz Mal) & Ibn Khaldun's Theory. 
+● 
+Box 3 (Method of Intervention): Formation of the Lex Specialis Law (Substitution of 
+Taxes with Zakat). 
+● 
+Box 4 (Output): Total Compliance & Revenue Increase. 
+3.3. Data Sources and Legal Materials ( Data Sources ) 
+This research uses secondary data which is divided into three levels of legal strength: 
+3.3.1. Primary Legal Materials 
+It is a legal material that is binding (authoritative): 
+1. Al-Quran & Al-Hadith: Especially the verses about Zakat (At-Taubah: 60, 103) and the Hadith 
+about the prohibition of Muks (HR. Abu Dawud, Ahmad). 
+2. Statutory Regulations: 1945 Constitution, HPP Law, Income Tax Law, Zakat Law, and related 
+PPs. 
+3. Ulama Fatwa: MUI Fatwa and Decision of the National Sharia Council (DSN-MUI) regarding 
+Zakat Mal, Shares, and Professions. 
+3.3.2. Secondary Legal Materials 
+This is material that provides an explanation of primary legal materials: 
+1. Turats Book (Classic): Al-Amwal (Abu Ubaid), Al-Ahkam As-Sulthaniyah (Al-Mawardi), Al-
+Muwafaqat (Asy-Syatibi). 
+2. Modern Literature: Works by Yusuf Al-Qaradawi ( Fiqh Az-Zakah ), Monzer Kahf (Economics 
+of Zakat), and Wahbah Az-Zuhaili. 
+3. Reputable International Journal: Scopus Q1/Q2 Articles related to Islamic Taxation and Fiscal 
+Policy . 
+3.3.3. Tertiary Legal Materials 
+Supporting materials: 
+1. Statistical Data: OECD Revenue Statistics Report , Directorate General of Taxes Performance 
+Report, BAZNAS Zakat Outlook, and Central Statistics Agency (BPS) GDP Data. 
+2. Islamic Law Dictionary & Encyclopedia. 
+3.4. Data Collection Technique 
+Data collection methods are carried out through: 
+1. Library Research : Inventory , classification, and systematization of legal materials. 
+2. Takhrij Al-Hadith: Searching for sanad and matan of hadith related to tax/muks to ensure the 
+validity of the evidence ( Sahih/Hasan ). 
+3. Economic Model Simulation: Collecting the latest Indonesian GDP data, Tax Ratio data , and 
+National Zakat potential data to simulate state revenue calculations ( Revenue Forecasting ). 
+3.5. Data Analysis Techniques ( Data Analysis Method ) 
+The collected data was analyzed qualitatively and prescriptively with the following logical flow: 
+1. Legal Interpretation : 
+o 
+Grammatical Interpretation: Dissecting the meaning of the words "Other Levies" in 
+Article 23A of the 1945 Constitution. 
+o 
+Systematic Interpretation: Connecting the Zakat Law with the Tax Law to see the 
+inconsistencies. 
+2. Legal Construction : 
+Building legal arguments ( Legal Reasoning ) to justify the transfer of tax obligations to zakat. 
+Using the Qiyas (Analogy) method to determine the corporate zakat rate (2.5%) based on the Qiyas 
+of Trade Zakat ( Tijarah ). 
+3. Comparative-Simulative Analysis (Secret Weapon): 
+Comparing state revenue outcomes between the Conventional Tax Scheme vs the Sharia Zakat 
+Scheme using the following projection formula: 
+o 
+Tax Scenario: 
+$$R_{tax} = (formal GDP_{\times Tax_{rate}) \times Low_{compliance}$$ 
+o 
+Zakat Scenario: 
+$$R_{zakat} = (GDP_{total} \times Tariff_{zakat}) \times Compliance_{high}$$ 
+Hypothesis tested: Is $R_{zakat} > R_{tax}$? 
+ 
+3.6. Research Validity & Credibility 
+Considering that this research proposes a fundamental legal reconstruction ( Legal Reform ), the validity 
+and credibility of the research results are maintained through three strict testing mechanisms: 
+3.6.1. Source Triangulation 
+This research does not rest on a single premise. Validity is established by combining two sources of truth: 
+1. Naqli Evidence (Authority of Sacred Text): Ensuring that the concept of Zakat in Lieu of Tax 
+has a valid theological basis from the Qur'an and Hadith. 
+2. Aqli Argument (Empirical Rationality): Testing the theological truth with economic statistical 
+data (OECD & BPS GDP Data). 
+o 
+Validation Objective: To prove that Allah's command to pay zakat (Naqli) has been 
+scientifically proven to bring economic/fiscal benefits to the state (Aqli). 
+3.6.2. Doctrinal & Constitutional Coherence Test ( Doctrinal Consistency Test ) 
+This study conducts a norm compatibility test to ensure that the proposed Lex Specialis Fiscal Syariah: 
+1. Not in conflict with Pancasila: Instead, it strengthens the 1st Principle (Belief in the One and Only 
+God) and the 5th Principle (Social Justice). 
+2. Does Not Threaten the Unitary State of the Republic of Indonesia: Ensure that this proposal is 
+a form of legal accommodation ( Legal Pluralism ) within the framework of a Unitary State, not an 
+attempt to establish a theocratic state. 
+3.6.3. Expert Validation ( Expert Judgment ) 
+The findings of the economic simulation and the draft bill will be tested for validity through expert opinion 
+references consisting of: 
+1. Fiqh Expert/Ulama (MUI): To validate Sharia aspects. 
+2. Constitutional Law Expert: To validate the constitutionality aspect. 
+3. Tax Practitioners/Economists: To validate the feasibility aspects of implementation ( Feasibility 
+). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER IV 
+RESEARCH RESULTS AND DISCUSSION 
+4.1. Legal Construction: The Transformation of Taxes into Zakat as Lex Specialis 
+This research found that the root cause of Indonesia's low tax ratio is a dualism of obligations that burdens 
+the psychology of Muslims. Therefore, the solution offered is not simply incentives (reductions), but rather 
+legal substitution . 
+4.1.1. The Concept of Single Identity Fiscal Obligation 
+Based on an analysis of Article 23A of the 1945 Constitution which states "Taxes and other compulsory 
+levies for state needs..." , the phrase "Other Levies" provides a constitutional basis for the state to 
+implement Zakat as an official fiscal instrument. 
+This research formulates the concept of "Single Fiscal Obligation" : 
+1. For Non-Muslim Citizens: Conventional Tax Laws (PPh, PPN) remain in effect. 
+2. For Muslim Citizens: Sharia Fiscal Law ( Lex Specialis ) applies . 
+o 
+Legal Implications: Proof of Zakat payment to the state automatically waives the PPh ( Tax 
+Liability ) obligation. There are no further tax audits for Muslims who have undergone a 
+Sharia audit ( Zakat Compliance Audit ). 
+4.1.2. Proposed Articles in the National Sharia Fiscal Bill 
+As a form of novelty , this research drafts concrete legal norms as follows: 
+Substitution Article (Core of the Bill): 
+"Every Zakat Obligor (Muzakki) who has fulfilled the obligation of Zakat Maal, Zakat Profession, or Zakat 
+Business through the State Sharia Fiscal Agency, is given a Certificate of Proof of Settlement of State 
+Obligations (SBLKN) which functions as a substitute for the Annual Tax Return (SPT) and exempts the 
+person concerned from the obligation of Income Tax (PPh)." 
+ 
+4.2. Economic Analysis & Simulation: Proving the Hypothesis of Zakat Revenue > Tax 
+Much skepticism arose: "How can a 2.5% Zakat rate beat a 22% Tax rate?" 
+This research refutes these doubts with the argument of Broadening the Base . The Tax System only 
+touches "Water Flow" (Income/Flow), while the Zakat System touches "Lakes" (Assets/Stock) and 
+"Underground Water" ( Underground Economy ). 
+4.2.1. Key Variables for Revenue Increase ( Revenue Drivers ) 
+This simulation is based on three variables that are not covered by conventional taxes: 
+1. Penalty on Idle Assets : In the tax system, idle land for speculators is often only subject to low 
+property tax (PBB). In Islam, idle productive assets are subject to zakat (Qiyas Zakat Mal). This 
+unlocks the potential for trillions of rupiah from abandoned land. 
+2. Reaching the Shadow Economy : Data shows that 40% of Indonesia's economy is the informal 
+sector, which is difficult to tax. With a religious Zakat approach, this sector will pay voluntarily 
+out of fear of sin, not fear of tax officials. 
+3. Asset Basis vs. Profit Basis: Companies often manipulate reports to make profits appear small. 
+However, company assets (buildings, inventory, fleet) are very difficult to hide. 
+4.2.2. Mathematical Simulation (GDP & National Wealth Data 2024/2025) 
+Here is an "Apple to Apple" comparison simulation with conservative assumptions using estimated 
+Indonesian economic data: 
+● 
+Database: 
+o 
+Nominal GDP (GDP): ± Rp. 22,000 trillion. 
+o 
+Total National Wealth ( National Wealth/Net Worth ): ± Rp. 60,000 Trillion (Global 
+Wealth Report Data - Assets are usually 3x GDP). 
+o 
+Muslim Population Obliged to Pay Zakat: 87% (Multiplier Factor). 
+ 
+Table 4.1: Comparative Simulation of State Revenue 
+Component 
+Scenario 
+A: 
+Conventional 
+Tax 
+(Status Quo) 
+Scenario B: Sharia Fiscal 
+(Zakat 
+on 
+Assets 
+& 
+Income) 
+Analysis of the Advantages of 
+Zakat 
+Main Object 
+Income 
+& 
+Consumption (Flow) 
+Wealth 
+& 
+Productive 
+Assets (Stock) 
+Zakat taxes your wealth, not just 
+your monthly salary. 
+Calculation Basis 
+Rp 22,000 T (GDP) 
+ 
+ 
+(Only Formal Sector 
+Recorded) 
+Rp. 52,200 T  
+ 
+ 
+(87% x Total National 
+Wealth Rp. 60,000 T) 
+The Zakat base is 2.5x larger 
+than the Tax base because it 
+takes into account accumulated 
+assets. 
+Effective Rate 
+10% - 11% (Real Tax 
+Ratio) 
+2.5% 
+(Flat 
+Zakat 
+Mall/Tijarah Rate) 
+The rates are low, but the 
+multiplier is huge. 
+Compliance Level 
+Low (±60-70%)  
+ 
+ 
+(High Tax Avoidance) 
+Very High (95%)  
+ 
+ 
+(Faith/Voluntary 
+Obedience) 
+Compliance is key to revenue 
+volume. 
+REVENUE 
+ESTIMATION 
+± Rp. 2,300 trillion  
+ 
+ 
+(According to APBN 
+Realization) 
+± Rp. 2,610 trillion  
+ 
+ 
+(Including Zakat on Land & 
+Shares) 
+SURPLUS +Rp 310 Trillion 
+Key Findings: 
+Mathematically proven: Even though the tariff has dropped drastically (from 22% to 2.5%), because the 
+Asset Base (Rp 52,200 T) is much larger than the Formal GDP Base (Rp 22,000 T) , State Revenue has 
+actually INCREASED . The country is getting richer, the people's burden is getting lighter (because the 
+tariff is small). 
+ 
+4.3. Institutional Governance 
+The success of the above scenario depends absolutely on one thing: TRUST . Muslims will not pay if they 
+know their money is mixed with haram funds or used for haram purposes. 
+4.3.1. Single Window System Structure 
+This study proposes the establishment of the Directorate General of Zakat and Sharia Fiscal (DJ-ZFS) 
+under the Ministry of Finance, in collaboration with BAZNAS as a strategic partner. 
+● 
+DJ-ZFS Function: As a fund collection operator (using the Ministry of Finance's advanced IT 
+infrastructure). 
+● 
+Function of the National Sharia Council (MUI): As a sharia compliance auditor (ensuring that 
+funds are not used to pay interest on debt). 
+ 
+4.3.2. Segregated Account Policy (Anti-Usury Separate Account) 
+This study recommends an imperative article in the Sharia Fiscal Bill which regulates the Absolute 
+Segregation of Funds . 
+1. Non -Commingling Funds : Incoming Zakat funds must be deposited directly into the Sharia 
+State Treasury Account (RKNS) at a Sharia Bank. It is forbidden for these funds to transit or 
+remain in conventional, interest-bearing banks. 
+2. Prohibition on Usury Debt Payments ( Negative List of Spending ): RKNS funds are 
+LEGALLY PROHIBITED from being used to pay interest on state debt ( Interest Payment ). 
+These funds may only be used for direct public expenditure : Infrastructure Development, Education 
+Subsidies, Health, and Social Security for the Poor. 
+ 
+4.4. Philosophical Review: Social Justice and Maqashid Sharia 
+4.4.1. Eliminating Unjust Regressive Taxes 
+This study found that modern taxes such as VAT (Value Added Tax) are regressive . Poor people 
+purchasing basic necessities are taxed the same as rich people. 
+● 
+Sharia Solution: Zakat eliminates VAT on basic goods. The state takes its rights from the surplus 
+wealth (Nishab) of the wealthy, not from the living expenses of the poor. This is the essence of 
+Islamic Justice ( Al-'Adalah Al-Ijtima'iyyah ). 
+4.4.2. Real Economic Stimulus ( Multiplier Effect ) 
+With the elimination of the 22% income tax and its replacement with 2.5% Zakat, corporate liquidity 
+increases. Entrepreneurs have more capital available for business expansion, which ultimately creates 
+employment and lowers prices. This is the multiplier effect that will stimulate the real economy much faster 
+than conventional tax systems. 
+ 
+ 
+ 
+ 
+ 
+CHAPTER V 
+CONCLUSION AND SUGGESTIONS 
+5.1 . Conclusions 
+Based on the legal analysis, economic simulation, and sharia review that have been presented in the previous 
+chapters, this study concludes three basic things as answers to the problem formulation: 
+1. Legal Construction of Lex Specialis : The transformation of tax obligations into zakat for 
+Muslims in Indonesia has a solid constitutional basis through Article 29 Paragraphs (1) and (2) 
+of the 1945 Constitution and the interpretation of the phrase "other compulsory levies" in Article 
+23A of the 1945 Constitution . The most appropriate legal construction is the Application of the 
+Principle of Lex Specialis Derogat Legi Generali . This means that the National Sharia Fiscal Law 
+is implemented specifically for Muslims, which legally cancels the obligations in the Tax Law 
+(PPh) which are general in nature. Proof of Zakat payments to the state is legally recognized as 
+proof of full payment of fiscal obligations ( Full Legal Substitution ). 
+2. Economic Advantage (Zakat > Tax): Mathematically and empirically, the research hypothesis is 
+proven: "Lower Rate, Higher Revenue" . Although the Zakat rate (2.5%) is much lower than 
+Corporate Income Tax (22%) or VAT (11%), Zakat generates a larger and more stable aggregate 
+state revenue. This is due to: 
+● 
+Broadening the Base : Zakat taxes "Assets/Wealth" ( Stock ) whose value is much greater 
+than "Profit/Income" ( Flow ). 
+● 
+Reaching the Shadow Economy : Faith-based compliance ( Spiritual Compliance ) is able 
+to penetrate the informal sector and hidden assets that the secular tax system has so far 
+failed to reach. 
+● 
+Cost Efficiency: Cost of Collection has decreased drastically due to minimal tax evasion . 
+3. Hybrid Governance : The ideal institutional model is not total separation, but rather integration 
+of functions. The Directorate General of Zakat and Sharia Fiscal (DJ-ZFS) was established under 
+the Ministry of Finance as a collection operator (using the state IT infrastructure), but strictly 
+supervised by an Independent Sharia Supervisory Board (Ulama authority). Zakat funds must 
+be placed in a Segregated Account which is forbidden to be used to pay interest on usurious debts, 
+in order to maintain public trust . 
+ 
+5.2 . Theoretical Implications 
+The findings of this study provide new contributions to the treasury of legal and economic science: 
+1. The Compliance Paradox Theory : Refuting classical economic theory, which states that state 
+revenue is directly proportional to tax rates, this study proves that the "Theological Belief" variable 
+is a stronger determinant of compliance than legal sanctions. 
+2. Redefinition of the Modern State: Offering a middle ground model between a Secular State and 
+a Theocratic State, namely a Value-Based Pancasila State , where religious law is adopted as 
+positive state law without changing the basic ideology of the state. 
+5.3. Suggestions and Recommendations 
+To implement these findings, researchers recommend strategic steps to stakeholders: 
+5.3.1. For the Government (Executive) 
+1. Issuance of a Perppu/Bill: The President needs to immediately initiate a Bill on the National 
+Sharia Fiscal System or include it in the Sharia Finance Omnibus Law . 
+2. Transition Period : A five-year transition period is in place. Initially, this system is optional for 
+Muslim taxpayers (choosing either the tax or zakat regime), before being implemented as a full 
+mandate once the infrastructure is ready. 
+3. Data Integration (Single ID): Integrating NIK, NPWP, and Zakat data into one Single Identity 
+Number (SIN) to prevent arbitrage or potential leaks. 
+5.3.2. For the Legislature (DPR-RI) 
+1. Revision of the Financial Law Package: Harmonizing the HPP Law, the Sharia Banking Law, 
+and the Zakat Management Law to avoid overlap. 
+2. Supervisory Function: Forming a Special Committee (Pansus) to oversee the establishment of the 
+Sharia Fiscal Agency and ensure that the Segregated Account regulations are truly implemented in 
+the State Budget. 
+5.3.3. For Zakat Institutions (BAZNAS/LAZ) 
+1. Institutional Transformation: BAZNAS must be prepared to transform from a social institution 
+into a state institution at the Ministry/Institution (K/L) level that has executive authority. 
+2. Sharia Audit Standardization: Developing strict Sharia Compliance Audit standards to assess 
+whether a company's zakat-obligatory assets are calculated from Assets or Profits, in order to close 
+loopholes for manipulation . 
+BIBLIOGRAPHY 
+A. Al-Qur'an, Hadith & Turats Books (Sources of Classical Islamic Law) 
+● 
+Abu Dawud. (2009). Sunan Abi Dawud . Beirut: Dar Al-Risala Al-Alamiyyah. (Hadith No. 2933 
+regarding threats to Muks attractors ). 
+● 
+Abu Ubaid, Al-Qasim. (1989). Kitab Al-Amwal (The Book of Revenue) . Beirut: Dar Al-Syuruq. 
+(The primary reference on classical Islamic public finance). 
+● 
+Adz-Dzahabi, Syamsuddin. (2010). Al-Kabair (Major Sins) . Cairo: Dar Al-Hadith. 
+● 
+Al-Mawardi. (2017). Al-Ahkam As-Sulthaniyah (Laws of State Administration) . Jakarta: Darul 
+Falah. (Translation). 
+● 
+An-Nawawi, Yahya bin Sharaf. (1929). Al-Minhaj Sharh Sahih Muslim bin Al-Hajjaj . Cairo: Al-
+Mathba'ah Al-Mishriyyah. 
+● 
+Ibn Khaldun. (2011). Introduction . Jakarta: Pustaka Al-Kautsar. (Translation). 
+B. Contemporary Books & Literature (Fiqh Muamalah & Economics) 
+● 
+Al-Qaradawi, Yusuf. (2011). Fiqh Az-Zakah (Zakat Law) . Bogor: InterNusa Literary Library. 
+● 
+Az-Zuhaili, Wahbah. (2011). Al-Fiqh Al-Islami wa Adillatuh (Islamic Fiqh and Its Evidence) . 
+Jakarta: Gema Insani Press. 
+● 
+Chapra, M. Umer. (2000). The Future of Economics: An Islamic Perspective . Leicester: The 
+Islamic Foundation. 
+● 
+Friedman, Lawrence M. (1975). The Legal System: A Social Science Perspective . New York: 
+Russell Sage Foundation. 
+● 
+Kahf, Monzer. (1997). The Calculation of Zakat for Muslims in North America . Plainfield: The 
+Islamic Society of North America. 
+C. Reputable International Journals (Scopus/WoS) 
+● 
+Abu Bakar, NB, & Abdul Rahman, AR (2007). A Comparative Study of Zakat and Modern 
+Taxation. Journal of King Abdulaziz University: Islamic Economics , 20(1), 25-40. 
+● 
+Ahmed, E., & bin Kedir, S. (2015). Tax Evasion and the Role of Zakat: A Behavioral Approach. 
+Journal of Islamic Accounting and Business Research , 6(2). 
+● 
+Barizah, N., & Abdul Rahman, A. (2010). Tax Relief for Zakat Payers in Malaysia: A Review 
+on the Law and Practice. International Journal of Zakat , 2(1), 12-25. 
+● 
+Islahi, AA (2006). Zakah: A Fiscal Substitute for Tax or a Complement?. Islamic Economics 
+Institute , King Abdulaziz University. 
+● 
+Powell, R. (2010). Zakat: Drawing Insights for Legal Theory and Economic Policy from Islamic 
+Jurisprudence. University of Pittsburgh Tax Review , 7, 43. 
+D. Legislation & Official Reports 
+● 
+The 1945 Constitution of the Republic of Indonesia. 
+● 
+Law No. 7 of 2021 concerning Harmonization of Tax Regulations (HPP Law). 
+● 
+Law No. 23 of 2011 concerning Zakat Management. 
+● 
+OECD. (2024). Revenue Statistics in Asian and Pacific Economies: Indonesia . Paris: OECD 
+Publishing. 
+● 
+Ministry of Finance of the Republic of Indonesia. (2025). Report on the Realization of the 
+Indonesian State Budget and Tax Ratio . 
+ 

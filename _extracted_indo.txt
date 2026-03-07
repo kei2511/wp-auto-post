@@ -1,69 +1,837 @@
-
-TOKENISASI DI PASAR REAL ESTAT: ANALISIS MULTIDISIPLIN TERHADAP KEPASTIAN HUKUM, EFISIENSI EKONOMI, DAN IMPLIKASI PAJAK
-
-Penulis: Dr. Bahori Ahoen, M.E., M.H.  Pendiri & Pimpinan, BA Law Office | Dosen di Universitas Tazkia dan Universitas Mpu Tantular | Pendiri, Bahori Ahoen Institute
-
-
-ABSTRAK
-Transformasi digital real estat melalui tokenisasi berbasis blockchain telah mencapai titik krusial di Indonesia dengan kelulusan PT Teknologi Gotong Royong (GORO) dari Regulatory Sandbox OJK pada November 2025. Terlepas dari pencapaian finansial ini, terdapat "kekosongan regulasi" yang signifikan pada persinggungan antara aset keuangan digital dan hukum agraria konvensional. Studi ini menggunakan kerangka kerja multidisiplin untuk mengevaluasi dimensi hukum, ekonomi, dan fiskal dari tokenisasi properti. Melalui studi kasus GORO dan analisis POJK No. 3/2024, penelitian ini mengidentifikasi risiko sistemik dalam kepemilikan fraksional dan inefisiensi perpajakan transaksi mikro saat ini. Makalah ini mengusulkan sebuah "Model Hukum-Fiskal Hibrida" orisinal yang menggabungkan Perjanjian Pengikatan Jual Beli Kolektif (PPJB Kolektif) dan Hak Tanggungan Wajib untuk menjembatani kesenjangan antara token digital dan sertifikat tanah legal. Temuan menunjukkan bahwa model ini memberikan mekanisme yang kuat untuk perlindungan investor sekaligus memastikan stabilitas pendapatan negara melalui konsolidasi pajak agregat.
-
-Kata Kunci: Tokenisasi Properti, Regulatory Sandbox, Hak Tanggungan, Kepatuhan Pajak, Hukum Blockchain, Real World Assets (RWA), Kepemilikan Fraksional.
-
-1. PENDAHULUAN
-Industri real estat global, yang secara tradisional ditandai oleh ilikuiditas dan hambatan masuk yang tinggi, sedang mengalami pergeseran paradigma melalui tokenisasi Real World Asset (RWA). Dengan mengubah hak properti menjadi token digital pada buku besar terdistribusi (distributed ledger), tokenisasi mendemokratisasi investasi, memungkinkan adanya kepemilikan fraksional. Di Indonesia, evolusi ini bukan lagi sekadar teoritis. Otoritas Jasa Keuangan (OJK) baru-baru ini memvalidasi model bisnis PT Teknologi Gotong Royong (GORO) melalui Regulatory Sandbox (Surat No. S-527/IK.01/2025), yang memungkinkan investasi mikro mulai dari Rp10.000.
-
-Namun, adopsi teknologi finansial (FinTech) yang cepat di sektor properti telah melampaui perkembangan regulasi agraria dan fiskal. Undang-Undang Pokok Agraria (UUPA No. 5/1960) tetap berakar pada prinsip pemisahan horizontal dan kepemilikan tunggal, yang tidak mengakui token digital sebagai hak kebendaan (hak kebendaan) yang sah. Selain itu, rezim pajak yang ada, yang dirancang untuk transaksi tunggal bernilai tinggi, menghadapi "krisis efisiensi" ketika diterapkan pada ribuan transaksi mikro berfrekuensi tinggi. Studi ini bertujuan untuk memberikan peta jalan hukum dan ekonomi yang komprehensif untuk menyelaraskan domain-domain yang saling bertentangan ini.
-
-2. TINJAUAN PUSTAKA DAN KERANGKA TEORITIS
-2.1. Teori Hak Properti di Era Digital
-Menurut Arruñada (2018), pendaftaran tanah berfungsi sebagai mekanisme untuk mengurangi biaya transaksi dengan memberikan "publisitas" pada hak properti. Tokenisasi, meskipun menawarkan "kembaran digital" dari suatu properti, menantang teori tradisional "bundel hak" (bundle of rights).
-
-2.2. Analisis Ekonomi atas Hukum (Economic Analysis of Law - EAL)
-Kerangka kerja EAL menyarankan bahwa aturan hukum harus mendorong efisiensi ekonomi. Dalam real estat, biaya "kepercayaan" (notaris, kantor pertanahan, dan pajak) seringkali melebihi kapasitas investasi investor ritel. Tabel 1 mengilustrasikan perbandingan perolehan efisiensi.
-
-
-Tabel 1: Analisis Efisiensi Komparatif (Konvensional vs. Tokenisasi)
-
-3. METODOLOGI PENELITIAN
-Penelitian ini mengadopsi metode kualitatif multidisiplin. Penelitian ini menggunakan data primer dari hasil Regulatory Sandbox OJK (2025) mengenai GORO serta menganalisis kompatibilitas POJK No. 3/2024, UU ITE, dan UUPA No. 5/1960.
-
-
-Tabel 2: Pemetaan Regulasi dan Identifikasi Konflik
-
-4. TEMUAN PENELITIAN DAN DISKUSI
-4.1. Model Hibrida Terintegrasi: Menjembatani Kesenjangan Digital-Agraria
-Studi ini mengusulkan integrasi struktural teknologi blockchain dengan hukum pertanahan Indonesia. Model ini divisualisasikan dalam diagram berikut.
-
-4.2. PPJB Kolektif sebagai Jembatan Hukum
-Untuk mengatasi kekosongan regulasi, penelitian ini mengusulkan penggunaan Perjanjian Pengikatan Jual Beli Kolektif (PPJB Kolektif). Dengan mendigitalisasikannya melalui UU ITE, platform mempertahankan buku besar waktu nyata (real-time ledger) dari pemilik fraksional yang secara hukum terhubung ke satu dokumen induk yang dinotariskan.
-4.3. Hak Tanggungan Wajib untuk Perlindungan Investor
-Kebaruan kritis dari studi ini adalah penerapan Hak Tanggungan (HT) pada aset digital. Meskipun HT secara tradisional berasal dari pinjaman, HT dapat digunakan untuk menjamin "pemenuhan suatu prestasi" (Pasal 3 UUHT). Hal ini menaikkan status investor ritel menjadi Kreditur Separatis (Kreditur Separatis), yang menyediakan jaring pengaman jika terjadi insolvensi platform.
-
-4.4. Kepemilikan Fraksional dan Hak Bersama (Medeeigendom)
-Studi ini menganalisis skenario di mana investor memiliki sebagian (misal: 40%) dari suatu properti. Untuk menghindari kelumpuhan administrasi, kepemilikan fraksional 40% tersebut didaftarkan di bawah satu entitas perwakilan (SPV/Wali Amanat) yang memegang hak atas nama ribuan pemegang token.
-
-4.5. Rekayasa Fiskal: Konsolidasi Pajak Agregat
-Studi ini mengusulkan Sistem Pajak Agregat. Pajak tidak dibayarkan pada setiap transfer token. Sebaliknya, platform bertindak sebagai Agen Pemotong/Pemungut (WAPU), yang mengumpulkan bagian pajak dalam brankas digital. Pembayaran pajak penuh (PPh & BPHTB) dipicu hanya pada saat Akta Jual Beli (AJB) final.
-
-5. REKOMENDASI KEBIJAKAN
-Kepada Kementerian ATR/BPN: Membentuk "Lampiran Buku Tanah Digital" untuk kepentingan fraksional kolektif.
-
-Kepada OJK: Mewajibkan Hak Tanggungan (HT) bagi semua platform RWA pasca-sandbox.
-
-Kepada DJP: Membuat kode pajak khusus untuk "Aset Properti Fraksional" untuk pelaporan terkonsolidasi.
-
-6. KESIMPULAN
-Integrasi blockchain dalam pasar real estat Indonesia adalah kekuatan ekonomi yang tidak terelakkan. Model Hukum-Fiskal Hibrida yang diusulkan—menggunakan PPJB Kolektif, Hak Tanggungan Wajib, dan Perpajakan Agregat—memberikan jalan ke depan yang secara hukum sehat dan efisien secara ekonomi.
-
-7.
-REFERENSI
-Arruñada, B. (2018). Journal of Institutional Economics, 14(5).
-
-Baum, A. (2020). Journal of Property Investment & Finance, 39(2).
-
-Gupta, A., dkk. (2021). Land Use Policy, 101.
-
-OJK. (2025). Surat Keputusan Kelulusan Regulatory Sandbox No. S-527/IK.01/2025.
-
-OJK. (2024). POJK No. 3 Tahun 2024.
-
+REKONSTRUKSI FISKAL NASIONAL: TRANSFORMASI KEWAJIBAN PAJAK MENJADI 
+ZAKAT SEBAGAI LEX SPECIALIS DEMI KEPATUHAN TOTAL DAN STABILITAS APBN 
+(FISCAL RECONSTRUCTION IN MUSLIM-MAJORITY NATIONS: TRANSFORMING TAX 
+OBLIGATIONS INTO ZAKAT AS A 'LEX SPECIALIS' FOR TOTAL COMPLIANCE AND 
+ECONOMIC STABILITY) 
+Penulis 
+Oleh: Dr. Bahori Ahoen, S.H., S.E., M.H., M.E. 
+Dosen Universitas Tazkia 
+ 
+ 
+ABSTRAK 
+Indonesia menghadapi paradoks fiskal yang kronis: sebagai negara dengan populasi Muslim terbesar di 
+dunia (87,2%), rasio pajak (Tax Ratio) terhadap Produk Domestik Bruto (PDB) justru mengalami stagnasi 
+di angka satu digit (±10%). Fenomena ini terjadi akibat resistensi teologis umat Islam terhadap pajak yang 
+dianggap tumpang tindih dengan kewajiban Zakat (Double Burden), serta persepsi sebagian masyarakat 
+yang memandang pajak sebagai pungutan yang tidak syar'i (Muks). 
+Penelitian ini bertujuan untuk menawarkan terobosan hukum radikal berupa rekonstruksi sistem fiskal 
+nasional melalui penerapan asas Lex Specialis Derogat Legi Generali. Tujuannya adalah mentransformasi 
+kewajiban Pajak menjadi Zakat bagi Warga Negara Muslim, di mana bukti setor Zakat kepada negara diakui 
+secara sah sebagai bukti pelunasan kewajiban fiskal (Full Substitution), bukan sekadar pengurang 
+penghasilan kena pajak (Tax Deduction). 
+Penelitian ini menggunakan metode campuran (Mixed Method) antara pendekatan yuridis-normatif dan 
+analisis ekonomi terhadap hukum (Economic Analysis of Law). Hasil penelitian menemukan sebuah 
+anomali positif yang disebut sebagai "The Compliance Paradox". Simulasi ekonomi membuktikan bahwa 
+meskipun tarif Zakat (2,5%) jauh lebih rendah dibandingkan PPh Badan (22%), namun agregat pendapatan 
+negara justru meningkat secara signifikan. Hal ini disebabkan oleh dua faktor kunci: (1) Perluasan basis 
+pemajakan (Broadening Base) dari yang semula berbasis "Laba" (yang sempit dan rawan manipulasi) 
+menjadi berbasis "Aset/Kekayaan Bersih" (yang luas dan riil); dan (2) Kepatuhan berbasis iman (Spiritual 
+Compliance) yang terbukti efektif menjangkau ekonomi bayangan (Shadow Economy) dan aset 
+menganggur (Idle Assets) yang selama ini tidak terjamah pajak konvensional. 
+Secara tata kelola, penelitian ini merekomendasikan pembentukan Single Window System di bawah otoritas 
+Kementerian Keuangan dengan pengawasan ketat Dewan Syariah Nasional, serta penerapan rekening 
+terpisah (Segregated Account) untuk menjamin dana zakat tidak digunakan membayar bunga utang ribawi. 
+Kesimpulannya, model substitusi ini menawarkan solusi pragmatis untuk meningkatkan kemandirian 
+APBN dan mewujudkan keadilan sosial dalam bingkai Negara Kesatuan Republik Indonesia. 
+Kata Kunci: Rekonstruksi Fiskal, Zakat Pengganti Pajak, Lex Specialis, Kepatuhan Pajak, Stabilitas 
+APBN. 
+ 
+ABSTRACT 
+Indonesia stands on a fiscal paradox: despite hosting the world's largest Muslim population (87.2%), its 
+Tax-to-GDP Ratio remains stagnated at single digits (±10%). This phenomenon stems from theological 
+resistance among Muslims who view conventional taxes as overlapping with religious Zakat obligations 
+("Double Burden") and often perceive them as unjust levies ("Muks"). 
+This study proposes a radical legal breakthrough by reconstructing the national fiscal system through the 
+principle of "Lex Specialis Derogat Legi Generali." It advocates for the total transformation of Tax 
+obligations into Zakat for Muslim citizens, where Zakat payment serves as full legal substitution for tax 
+liability, rather than merely a tax deduction. Utilizing a mixed-method approach combining normative legal 
+analysis and economic simulation, this research reveals a positive anomaly termed "The Compliance 
+Paradox." The simulation demonstrates that while the Zakat rate (2.5%) is significantly lower than the 
+Corporate Income Tax rate (22%), the aggregate state revenue actually increases. 
+This increase is driven by a fundamental shift in the fiscal base: moving from a "Profit-based" system 
+(narrow and prone to manipulation) to an "Asset/Net Worth-based" system (broad and tangible). 
+Furthermore, spiritual-based compliance proves effective in capturing the shadow economy and idle assets 
+that consistently evade conventional taxation. In terms of governance, the study recommends establishing 
+a Single Window System under the Ministry of Finance supervised by the National Sharia Board, alongside 
+a strict "Segregated Account" policy. In conclusion, this substitution model offers a pragmatic economic 
+solution to enhance fiscal independence and achieve social justice within the constitutional framework of 
+Indonesia. 
+Keywords: Fiscal Reconstruction, Tax Substitution, Zakat Compliance, State Revenue, Lex Specialis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BAB I 
+PENDAHULUAN 
+1.1. Latar Belakang Masalah 
+Indonesia kini berdiri di atas sebuah paradoks fiskal yang mengkhawatirkan. Sebagai negara demokrasi 
+dengan populasi Muslim terbesar di dunia, mencapai 87,2% dari total populasi atau setara dengan 240 juta 
+jiwa, Indonesia secara teoritis memiliki basis kepatuhan moral yang paling kokoh dibandingkan negara 
+sekuler manapun. Doktrin agama Islam yang mewajibkan kepatuhan kepada Ulil Amri (Pemerintah) 
+seharusnya berbanding lurus dengan kepatuhan fiskal. Namun, realitas empiris justru menampar kita 
+dengan fakta sebaliknya: Tingkat kepatuhan pajak (Tax Compliance) di Indonesia sangat rendah dan rasio 
+pajak (Tax Ratio) mengalami stagnasi kronis. 
+Berdasarkan data terbaru OECD Revenue Statistics 2024 dan Laporan Kinerja APBN Kementerian 
+Keuangan, Tax Ratio Indonesia pada tahun 2024 hanya tercatat di kisaran 10,07%, dan bahkan 
+menunjukkan tren penurunan menjadi 8,42% pada semester awal 2025. Angka ini sangat jauh tertinggal 
+dibandingkan rata-rata negara OECD yang mencapai 33,9%, bahkan tertinggal dari negara tetangga seperti 
+Thailand (17%) dan Malaysia (12,5%). 
+Pertanyaan mendasar muncul: Mengapa mayoritas penduduk yang beriman kepada Tuhan dan takut akan 
+neraka, justru enggan membayar kewajiban kepada negara? 
+Jawabannya tidak terletak pada ketidakmampuan ekonomi, melainkan pada Resistensi Teologis dan 
+Psikologis. Umat Islam di Indonesia terjebak dalam dilema "Dualisme Loyalitas". Di satu sisi, agama 
+mewajibkan Zakat (2,5%) atas harta mereka dengan ancaman dosa besar jika ditinggalkan. Di sisi lain, 
+negara mewajibkan Pajak (PPh hingga 35%) dengan ancaman sanksi pidana dan denda administratif. 
+Kondisi ini menciptakan fenomena "Double Burden" (Beban Ganda) yang dirasakan sangat tidak adil. 
+Seorang Muslim yang taat dipaksa mengeluarkan harta dua kali untuk pos pengeluaran yang memiliki 
+fungsi serupa (fungsi sosial dan pembangunan). Akibatnya, terjadilah anomali di mana negara-negara 
+mayoritas Muslim cenderung memiliki rasio pajak yang rendah (Low Tax Ratio) karena umatnya lebih 
+memprioritaskan "jalur langit" (Zakat) dan melakukan penghindaran pada "jalur bumi" (Pajak), berbeda 
+kontras dengan negara-negara sekuler Skandinavia yang memiliki kepatuhan pajak tinggi karena tidak 
+adanya konflik batin teologis. 
+Grafik di atas menunjukkan korelasi negatif antara populasi Muslim dengan rasio pajak dalam sistem 
+konvensional. Hal ini membuktikan hipotesis bahwa sistem pajak sekuler gagal "memanen" potensi 
+ekonomi di negara religius. 
+Upaya pemerintah melalui Undang-Undang No. 7 Tahun 2021 tentang Harmonisasi Peraturan 
+Perpajakan (UU HPP) dan Undang-Undang No. 23 Tahun 2011 tentang Pengelolaan Zakat dinilai 
+gagal menyelesaikan akar masalah ini. Mekanisme yang ada saat ini hanya menempatkan Zakat sebagai 
+Pengurang Penghasilan Kena Pajak (Tax Deductible). Faktanya, insentif ini terlalu kecil, prosedurnya 
+birokratis, dan tidak menghilangkan kewajiban lapor pajak yang rumit. Zakat dianggap hanya sebagai 
+"aksesoris" dalam sistem fiskal, bukan komponen utama. 
+Oleh karena itu, penelitian ini hadir dengan urgensi tinggi untuk menawarkan Terobosan Hukum Radikal 
+(Radical Legal Breakthrough). Bukan sekadar harmonisasi parsial, melainkan Transformasi 
+Konstitusional. Penelitian ini mengusulkan agar bagi Umat Islam, kewajiban Pajak DIHAPUS dan 
+DIGANTIKAN SEPENUHNYA oleh Zakat melalui payung hukum Lex Specialis. 
+Hipotesis utama penelitian ini adalah: "Lower Rate, Higher Revenue". Dengan mengubah label "Pajak" 
+menjadi "Zakat Negara" (walaupun tarifnya turun dari 22% menjadi 2,5%), tingkat kepatuhan akan 
+melonjak drastis menuju 100% (Total Voluntary Compliance) karena didorong oleh keimanan. Akibatnya, 
+pendapatan negara secara agregat justru akan MENINGKAT, bukan menurun. 
+1.2. Rumusan Masalah 
+Berdasarkan latar belakang di atas, penelitian ini membedah tiga "Luka Menganga" dalam sistem fiskal dan 
+hukum nasional yang perlu segera diobati: 
+1. Kevakuman Payung Hukum (The Legal Gap): Bagaimana konstruksi yuridis (Legal Drafting) 
+untuk mentransformasi kewajiban pajak menjadi zakat sebagai Lex Specialis dalam sistem hukum 
+positif Indonesia yang berdasarkan Pancasila? Ketiadaan instrumen hukum yang mengakui Zakat 
+sebagai pelunasan penuh kewajiban negara menyebabkan ketidakpastian hukum dan perasaan was-
+was bagi Wajib Pajak Muslim. 
+2. Inefisiensi Ekonomi Makro (The Economic Gap): Apakah secara matematis dan simulasi 
+ekonomi, model substitusi zakat (tarif 2,5% dari Aset Bersih) mampu menghasilkan pendapatan 
+negara yang setara atau lebih besar (Revenue Neutral/Positive) dibandingkan rezim pajak 
+konvensional? Sistem pajak konvensional yang mengandalkan tarif tinggi terbukti gagal 
+menyentuh "Gunung Es" ekonomi umat (Underground Economy) yang hanya bisa disentuh dengan 
+pendekatan religius. 
+3. Distorsi Keadilan dan Tata Kelola (The Justice & Governance Gap): Bagaimana model tata 
+kelola (Governance) kelembagaan fiskal yang ideal untuk mencegah korupsi dana zakat dalam 
+struktur APBN, dengan melibatkan otoritas ulama independen? Keraguan umat terhadap 
+penggunaan pajak untuk membayar bunga utang ribawi harus dijawab dengan sistem yang 
+transparan dan syar'i. 
+1.3. Tujuan Penelitian 
+1. Merumuskan Naskah Akademik untuk Rancangan Undang-Undang (RUU) Fiskal Syariah 
+Nasional yang menempatkan Zakat sebagai kewajiban tunggal bernegara bagi umat Islam (Single 
+Identity Fiscal Obligation). 
+2. Membuktikan secara Empiris (Simulasi Kuantitatif) bahwa perluasan basis zakat (Broadening 
+Base) ke sektor aset dan ekonomi informal jauh lebih efektif bagi APBN daripada mempertahankan 
+tarif pajak tinggi namun tingkat kepatuhannya rendah. 
+3. Merekonstruksi Struktur Birokrasi dengan mengusulkan peleburan fungsi eksekutorial 
+Direktorat Jenderal Pajak dan fungsi spiritual Badan Amil Zakat ke dalam satu atap "Badan Fiskal 
+Syariah Negara" di bawah Kementerian Keuangan. 
+ 
+1.4. Kebaruan Penelitian (Novelty) 
+Disertasi ini menawarkan orisinalitas dan kebaruan yang signifikan dibandingkan penelitian terdahulu 
+(State of the Art): 
+1. Substitusi Legal, Bukan Sekadar Insentif: Berbeda dengan penelitian terdahulu (seperti Barizah 
+di Malaysia atau Beik di Indonesia) yang hanya berkutat pada Zakat sebagai Tax Rebate (Potongan 
+Pajak) atau Tax Deduction (Pengurang Penghasilan), penelitian ini berani mengajukan model 
+Substitusi Penuh. Zakat adalah Pajak itu sendiri bagi Muslim. 
+2. Teori "The Compliance Paradox": Menghadirkan antitesis terhadap teori ekonomi 
+konvensional. Penelitian ini membuktikan bahwa menurunkan tarif pungutan secara drastis (ke 
+angka 2,5%) justru akan melipatgandakan pendapatan negara karena faktor Spiritual Compliance. 
+3. Pergeseran Paradigma Basis Pajak (Asset vs. Profit): Mengubah basis pemajakan korporasi dari 
+"Berbasis Laba" (yang mudah dimanipulasi akuntansi) menjadi "Berbasis Aset/Modal Kerja" 
+(Sesuai Fiqh Zakat Tijarah), yang menjamin stabilitas pendapatan negara meskipun ekonomi 
+sedang resesi. 
+1.5. Manfaat Penelitian 
+Penelitian ini diharapkan memberikan kontribusi signifikan baik secara akademis maupun praktis: 
+1. Manfaat Teoretis (Theoretical Significance): Penelitian ini memperkaya khazanah keilmuan 
+Hukum Tata Negara Islam (Fiqh Siyasah) dan Ilmu Ekonomi Publik. Secara spesifik, penelitian ini 
+menawarkan model baru tentang Integrasi Nilai Teologis-Transendental ke dalam struktur 
+negara demokrasi konstitusional modern. Temuan ini membuktikan bahwa penerapan syariat 
+(Zakat) dapat berjalan harmonis dalam bingkai Negara Kesatuan Republik Indonesia (NKRI) tanpa 
+harus mengubah ideologi Pancasila menjadi negara teokrasi, melainkan sebagai wujud Legal 
+Pluralism yang konstruktif. 
+2. Manfaat Praktis (Practical Significance): Penelitian ini dirancang sebagai landasan strategis dan 
+cetak biru (Blueprint) bagi Pemerintah (Kementerian Keuangan) dan Legislatif (DPR-RI) dalam 
+menyusun Omnibus Law Keuangan Syariah Nasional. Implementasi hasil penelitian ini 
+diharapkan menjadi solusi konkret untuk: 
+● 
+Meningkatkan kemandirian Anggaran Pendapatan dan Belanja Negara (APBN). 
+● 
+Mengurangi ketergantungan negara pada utang luar negeri (Sovereign Debt) melalui 
+optimalisasi potensi dana umat. 
+● 
+Menghapus stigma ketidakadilan pajak, sehingga tercipta stabilitas sosial dan ekonomi 
+yang berkelanjutan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BAB II 
+TINJAUAN PUSTAKA DAN LANDASAN TEORI 
+2.1. Landasan Teori (Theoretical Framework) 
+Untuk menganalisis rekonstruksi sistem fiskal nasional berbasis syariah secara komprehensif, penelitian ini 
+menggunakan struktur teori berjenjang (Grand, Middle, & Applied Theory) sebagai pisau analisis utama: 
+2.1.1. Grand Theory: Teori Maqashid Syariah (Imam Asy-Syatibi) 
+Landasan filosofis utama penelitian ini adalah Maqashid Syariah (Tujuan Hukum Islam), khususnya dalam 
+aspek Hifz al-Mal (Perlindungan Harta) dan Maslahah Mursalah (Kemaslahatan Umum). 
+Imam Asy-Syatibi dalam kitab Al-Muwafaqat menegaskan bahwa hukum Islam diturunkan untuk 
+mewujudkan kemaslahatan hamba di dunia dan akhirat. Relevansi teori ini dengan disertasi adalah: 
+1. Perlindungan Harta (Hifz al-Mal): Sistem pajak ganda (Double Burden) saat ini mencederai 
+prinsip perlindungan harta karena membebani umat Islam di luar batas kemampuan (Taklif ma la 
+yutaq). Pajak yang dipungut tanpa kejelasan status syar'i-nya berpotensi menjadi kezaliman (Zulm). 
+2. Kemaslahatan Negara (Maslahah Ammah): Pendapatan negara (APBN) adalah instrumen 
+mutlak untuk menjaga agama (Hifz Din) dan jiwa (Hifz Nafs) melalui keamanan dan kesehatan. 
+Oleh karena itu, peralihan Pajak ke Zakat harus dipastikan tetap memenuhi prinsip kecukupan dana 
+(Adequacy of Revenue). Teori ini membantah anggapan bahwa syariat Islam anti-negara; justru 
+syariat hadir untuk mengokohkan negara melalui pendanaan yang halal dan berkah. 
+2.1.2. Middle Range Theory: Teori Siklus Perpajakan (Ibnu Khaldun) 
+Untuk membuktikan hipotesis bahwa "Tarif Rendah menghasilkan Pendapatan Tinggi", penelitian ini 
+merujuk pada pemikiran Ibnu Khaldun dalam Muqaddimah. Beliau adalah pelopor kurva pajak jauh 
+sebelum Arthur Laffer (Laffer Curve). 
+Ibnu Khaldun menyatakan: "Pada permulaan negara, pajak menghasilkan pendapatan yang besar dari 
+tarif yang kecil. Pada akhir keruntuhan negara, pajak menghasilkan pendapatan yang kecil dari tarif yang 
+besar." 
+● 
+Relevansi Riset: Teori ini menjadi antitesis bagi kebijakan tarif pajak tinggi (PPh Badan 22% - 
+35%) di Indonesia. Ketika tarif pajak terlalu tinggi dan dirasa tidak adil, wajib pajak akan 
+melakukan Tax Evasion (penghindaran) atau memindahkan asetnya ke luar negeri (Capital Flight). 
+Penelitian ini membuktikan bahwa tarif Zakat yang rendah (2,5%) namun berbasis keadilan ilahiah 
+akan mendorong gairah usaha (Business Incentive) dan kepatuhan sukarela, yang pada akhirnya 
+meningkatkan agregat pendapatan negara. 
+2.1.3. Applied Theory: Teori Sistem Hukum (Lawrence Friedman) 
+Untuk merancang Undang-Undang Lex Specialis, digunakan teori Lawrence M. Friedman yang membagi 
+keberhasilan sistem hukum menjadi tiga elemen kunci: 
+1. Substansi (Substance): Peraturan hukum itu sendiri. Dalam hal ini, substansi UU Perpajakan 
+diubah menjadi UU Fiskal Syariah yang mengakui Zakat sebagai kewajiban tunggal. 
+2. Struktur (Structure): Kelembagaan penegak hukum. Penelitian ini mengusulkan peleburan fungsi 
+Ditjen Pajak dan BAZNAS dalam satu atap koordinasi negara (Single Window System) agar 
+memiliki daya paksa (Coercive Power). 
+3. Budaya Hukum (Legal Culture): Sikap masyarakat terhadap hukum. Budaya hukum masyarakat 
+Muslim Indonesia yang taat beragama (Religious Obedience) menjadi modal sosial utama 
+keberhasilan sistem ini. 
+2.2. Tinjauan Fiqh Siyasah dan Maliyah (Islamic Jurisprudence Review) 
+2.2.1. Definisi dan Distingsi: Al-Muks, Dharibah, dan Zakat 
+Penting untuk mendudukkan terminologi agar tidak terjadi kerancuan hukum dalam penerapan Lex 
+Specialis: 
+1. Al-Muks (Pungutan Liar/Upeti): 
+o 
+Definisi: Pungutan yang diambil secara paksa tanpa hak syar'i dan seringkali tanpa kontra-
+prestasi yang jelas. 
+o 
+Hukum: Haram Mutlak. Berdasarkan hadits riwayat Abu Dawud: "Tidak akan masuk 
+surga pemungut muks" (An-Nawawi, Syarh Shahih Muslim). 
+o 
+Analisis Disertasi: Pajak modern yang korup, tidak transparan penggunaannya, dan 
+memberatkan rakyat kecil (seperti PPN Sembako) dapat jatuh ke dalam kategori syubhat 
+Muks ini. 
+2. Dharibah (Pajak/Beban Tambahan): 
+o 
+Definisi: Kewajiban harta tambahan selain zakat yang ditetapkan Ulil Amri (Pemerintah) 
+karena kondisi darurat atau kas negara (Baitul Mal) kosong. 
+o 
+Hukum: Khilafiyah (Perdebatan). Jumhur ulama membolehkan dengan syarat ketat (Kas 
+kosong, Adil, Transparan), namun sebagian ulama (seperti Imam Adz-Dzahabi dalam Al-
+Kabair) cenderung mengharamkan jika Zakat sebenarnya sudah cukup namun tidak 
+dikelola dengan baik. 
+3. Zakat (Penyuci Harta): 
+o 
+Definisi: Hak Allah yang wajib dikeluarkan dari harta tertentu (Nishab) yang telah 
+mencapai masa tertentu (Haul) untuk golongan tertentu (Asnaf). 
+o 
+Hukum: Wajib 'Ain (Fardhu Ain) dan merupakan Rukun Islam ketiga. 
+o 
+Analisis Disertasi: Zakat memiliki Double Sanction: Sanksi Akhirat (Dosa) dan Sanksi 
+Dunia (Bisa diperangi/disita oleh negara, sebagaimana kebijakan Khalifah Abu Bakar Ash-
+Shiddiq). 
+2.2.2. Zakat Sebagai Pendapatan Negara Modern 
+Penelitian Yusuf Al-Qaradawi dalam Fiqh Az-Zakah menjadi rujukan utama bahwa Zakat tidak terbatas 
+pada aset konvensional (unta/gandum), melainkan mencakup aset modern: 
+● 
+Zakat Profesi (Al-Mustafad): Dikiaskan dengan Zakat Emas/Perak atau Zakat Pertanian. 
+● 
+Zakat Saham & Obligasi: Dikiaskan dengan Zakat Perniagaan (Tijarah) yang dihitung dari aset 
+lancar. 
+● 
+Zakat Investasi Properti (Mustaghallat): Dikiaskan dengan Zakat Pertanian (diambil dari hasil 
+sewa). 
+Teori ini memvalidasi usulan disertasi bahwa basis zakat sangat luas dan mampu menopang APBN modern. 
+2.3. Tinjauan Hukum Positif dan Konstitusi (Positive Law Review) 
+2.3.1. Asas Legalitas dan Konstitusionalitas 
+● 
+Pasal 23A UUD 1945: "Pajak dan pungutan lain yang bersifat memaksa untuk keperluan negara 
+diatur dengan undang-undang." 
+o 
+Analisis Hukum: Frasa "pungutan lain" membuka peluang konstitusional bagi Zakat 
+untuk menjadi instrumen negara yang sah setara dengan pajak, tanpa harus 
+mengamandemen UUD 1945. 
+● 
+Pasal 29 Ayat (1) & (2) UUD 1945: Negara berdasar atas Ketuhanan YME dan menjamin 
+kemerdekaan tiap penduduk memeluk agama. 
+o 
+Analisis Hukum: Membayar Zakat adalah pelaksanaan ibadah mahdhah. Negara wajib 
+memfasilitasi ibadah ini. Jika negara memajaki uang yang digunakan untuk ibadah (Zakat), 
+maka negara berpotensi melanggar hak konstitusional warga negara dalam beragama. 
+2.3.2. Kritik terhadap UU Harmonisasi Peraturan Perpajakan (HPP) 
+UU No. 7 Tahun 2021 (HPP) dinilai masih menganut paradigma sekuler yang memisahkan harta agama 
+dan negara. Pasal yang mengatur Zakat sebagai Pengurang Penghasilan Bruto (Tax Deduction) terbukti 
+tidak efektif karena: 
+1. Dampak Nominal Kecil: Pengurangan hanya pada basis pajak, bukan pada jumlah pajak yang 
+harus dibayar. 
+2. Beban Administrasi: Wajib pajak harus melapor ke BAZNAS dan Ditjen Pajak secara terpisah. 
+3. Filosofi: Masih menempatkan Muslim sebagai subjek "Dua Pintu" (Bayar Zakat + Bayar Pajak). 
+2.4. Penelitian Terdahulu (State of the Art) 
+Untuk memposisikan Novelty, berikut perbandingan penelitian terdahulu dengan disertasi ini: 
+No Peneliti 
+& 
+Tahun 
+Fokus Kajian 
+Temuan Utama 
+Kelemahan 
+(Gap) 
+yang 
+Diisi 
+Disertasi Ini 
+1 
+Barizah 
+& 
+Abdul 
+Rahman 
+(2010) 
+Zakat in Malaysia 
+Menganalisis 
+sistem 
+Tax 
+Rebate di Malaysia di mana 
+Zakat 
+mengurangi 
+pajak 
+terutang. 
+Masih dalam koridor UU Pajak 
+Sekuler, Zakat hanya sebagai elemen 
+pengurang 
+(Rebate), 
+bukan 
+pengganti sistem hukum. 
+2 Irfan Syauqi 
+Beik (2016) 
+Integrasi 
+Zakat 
+Indonesia 
+Mengusulkan Zakat sebagai 
+Tax Credit (Pengurang Pajak 
+Langsung) di Indonesia. 
+Bersifat usulan insentif fiskal parsial, 
+belum menyentuh rekonstruksi Lex 
+Specialis atau penggantian Undang-
+Undang secara fundamental. 
+3 Monzer 
+Kahf (1999) 
+Zakat 
+Macroeconomics 
+Teori makroekonomi bahwa 
+Zakat menstabilkan ekonomi 
+lebih baik daripada pajak. 
+Kajian 
+bersifat 
+teoritis-ekonomis 
+murni, kurang dalam aspek Legal 
+Drafting atau Hukum Tata Negara. 
+Posisi Novelty Disertasi: 
+Penelitian ini mengisi kekosongan hukum (Legal Void) dengan menawarkan model Substitusi Penuh (Full 
+Substitution) secara Nasional, bukan sekadar Rebate, Kredit, atau Deduksi. 
+2.5. Kerangka Pemikiran (Conceptual Framework) 
+Kerangka pemikiran penelitian ini menggambarkan alur pergeseran paradigma dari Double Burden menuju 
+Single Identity Fiscal Obligation. 
+Bagan di atas menjelaskan bagaimana intervensi hukum melalui UU Lex Specialis akan mengubah struktur 
+kewajiban warga negara, dari yang semula bercabang (Pajak dan Zakat jalan sendiri-sendiri) menjadi satu 
+jalur terpadu yang efisien dan syar'i. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BAB III 
+METODE PENELITIAN 
+3.1. Jenis Penelitian (Research Design) 
+Penelitian ini merupakan penelitian hukum yang bersifat Preskriptif-Reformis dengan menggunakan 
+desain metode campuran (Mixed Method Research): 
+1. Yuridis Normatif (Doctrinal Legal Research): 
+Penelitian ini mengkaji hukum sebagai sistem norma yang koheren. Fokus utamanya adalah 
+menganalisis konflik norma antara kewajiban Zakat (Hukum Agama/Syariah) dan kewajiban Pajak 
+(Hukum Positif Negara), serta merekonstruksi asas hukum baru (Lex Specialis) untuk 
+mengharmonisasikannya tanpa melanggar konstitusi. 
+2. Analisis Ekonomi terhadap Hukum (Economic Analysis of Law): 
+Penelitian ini tidak berhenti pada teks hukum semata, melainkan melangkah pada Simulasi 
+Dampak (Impact Simulation). Menggunakan pendekatan kuantitatif terbatas, penelitian ini 
+menguji efisiensi ekonomi dari perubahan sistem pajak (tarif tinggi, kepatuhan rendah) menjadi 
+sistem zakat (tarif rendah, kepatuhan tinggi) menggunakan data PDB riil. 
+3.2. Pendekatan Penelitian (Research Approach) 
+Untuk membedah rumusan masalah secara komprehensif, penelitian ini menggunakan empat pendekatan 
+sekaligus (Multi-Approach): 
+1. Pendekatan Perundang-undangan (Statute Approach): 
+Mengkaji dan mengkritisi produk hukum eksisting, yaitu UU No. 7 Tahun 2021 (HPP), UU No. 
+23 Tahun 2011 (Pengelolaan Zakat), dan UUD 1945 (Pasal 23A & 29). Tujuannya adalah 
+menemukan Legal Gap atau kekosongan hukum yang menjadi pintu masuk bagi RUU Fiskal 
+Syariah. 
+2. Pendekatan Konseptual (Conceptual Approach): 
+Mendefinisikan ulang konsep "Kewajiban Negara" dan "Kepatuhan". Penelitian ini merujuk pada 
+pandangan ulama klasik (Fuqaha) tentang Muks vs Dharibah dan konsep kontemporer tentang 
+Single Identity Fiscal Obligation. 
+3. Pendekatan Perbandingan (Comparative Approach): 
+Membandingkan model integrasi zakat-pajak di negara lain sebagai tolak ukur (Benchmark): 
+o 
+Malaysia: Model Tax Rebate (Zakat mengurangi pajak terutang). 
+o 
+Arab Saudi: Model Zakat as Tax (Zakat adalah pajak bagi warga negara/perusahaan 
+lokal). 
+o 
+Indonesia (Usulan Disertasi): Model Full Substitution (Pajak diganti Zakat). 
+4. Pendekatan Teologis-Sosiologis (Theological-Sociological Approach): 
+Mengkaji perilaku wajib pajak (Taxpayer Behavior). Pendekatan ini menganalisis mengapa 
+kepatuhan berbasis iman (Religious Compliance) lebih efektif menekan Tax Evasion daripada 
+kepatuhan berbasis sanksi (Legal Enforcement). 
+Gambar 3.1: Alur Pikir Penelitian (Research Flowchart) 
+Penjelasan Alur Diagram: 
+● 
+Kotak 1 (Masalah): Tax Ratio Rendah & Double Burden Umat Islam. 
+● 
+Kotak 2 (Pisau Analisis): Teori Maqashid Syariah (Hifz Mal) & Teori Ibnu Khaldun. 
+● 
+Kotak 3 (Metode Intervensi): Pembentukan UU Lex Specialis (Substitusi Pajak ke 
+Zakat). 
+● 
+Kotak 4 (Output/Hasil): Kepatuhan Total (Total Compliance) & Pendapatan Negara 
+Meningkat (Revenue Increase). 
+3.3. Sumber Data dan Bahan Hukum (Data Sources) 
+Penelitian ini menggunakan data sekunder yang terbagi dalam tiga tingkatan kekuatan hukum: 
+3.3.1. Bahan Hukum Primer (Primary Legal Materials) 
+Merupakan bahan hukum yang bersifat mengikat (otoritatif): 
+1. Al-Qur'an & Al-Hadits: Khususnya ayat tentang Zakat (At-Taubah: 60, 103) dan Hadits tentang 
+pelarangan Muks (HR. Abu Dawud, Ahmad). 
+2. Peraturan Perundang-undangan: UUD 1945, UU HPP, UU PPh, UU Zakat, dan PP terkait. 
+3. Fatwa Ulama: Fatwa MUI dan Keputusan Dewan Syariah Nasional (DSN-MUI) terkait Zakat Mal, 
+Saham, dan Profesi. 
+3.3.2. Bahan Hukum Sekunder (Secondary Legal Materials) 
+Merupakan bahan yang memberikan penjelasan terhadap bahan hukum primer: 
+1. Kitab Turats (Klasik): Al-Amwal (Abu Ubaid), Al-Ahkam As-Sulthaniyah (Al-Mawardi), Al-
+Muwafaqat (Asy-Syatibi). 
+2. Literatur Modern: Karya Yusuf Al-Qaradawi (Fiqh Az-Zakah), Monzer Kahf (Ekonomi Zakat), 
+dan Wahbah Az-Zuhaili. 
+3. Jurnal Internasional Bereputasi: Artikel Scopus Q1/Q2 terkait Islamic Taxation dan Fiscal 
+Policy. 
+3.3.3. Bahan Hukum Tersier (Tertiary Legal Materials) 
+Bahan penunjang: 
+1. Data Statistik: Laporan OECD Revenue Statistics, Laporan Kinerja Ditjen Pajak, Outlook Zakat 
+BAZNAS, dan Data PDB Badan Pusat Statistik (BPS). 
+2. Kamus Hukum & Ensiklopedia Islam. 
+3.4. Teknik Pengumpulan Data (Data Collection Technique) 
+Metode pengumpulan data dilakukan melalui: 
+1. Studi Kepustakaan (Library Research): Inventarisasi, klasifikasi, dan sistematisasi bahan hukum. 
+2. Takhrij Al-Hadits: Penelusuran sanad dan matan hadits terkait pajak/muks untuk memastikan 
+validitas dalil (Shahih/Hasan). 
+3. Simulasi Model Ekonomi: Mengumpulkan data PDB Indonesia terbaru, data Tax Ratio, dan data 
+potensi Zakat Nasional untuk dilakukan simulasi perhitungan penerimaan negara (Revenue 
+Forecasting). 
+3.5. Teknik Analisis Data (Data Analysis Method) 
+Data yang terkumpul dianalisis secara Kualitatif-Preskriptif dengan alur logika sebagai berikut: 
+1. Interpretasi Hukum (Legal Interpretation): 
+o 
+Penafsiran Gramatikal: Membedah makna kata "Pungutan Lain" dalam Pasal 23A UUD 
+1945. 
+o 
+Penafsiran Sistematis: Menghubungkan UU Zakat dengan UU Pajak untuk melihat 
+ketidaksinkronan. 
+2. Konstruksi Hukum (Legal Construction): 
+Membangun argumentasi hukum (Legal Reasoning) untuk membenarkan pengalihan kewajiban 
+pajak menjadi zakat. Menggunakan metode Qiyas (Analogi) untuk menetapkan tarif zakat 
+korporasi (2,5%) berdasarkan Qiyas Zakat Perdagangan (Tijarah). 
+3. Analisis Komparatif-Simulatif (Senjata Rahasia): 
+Membandingkan Outcome pendapatan negara antara skema Pajak Konvensional vs Skema Zakat 
+Syariah menggunakan rumus proyeksi berikut: 
+o 
+Skenario Pajak: 
+$$R_{tax} = (PDB_{formal} \times Tarif_{pajak}) \times Kepatuhan_{rendah}$$ 
+o 
+Skenario Zakat: 
+$$R_{zakat} = (PDB_{total} \times Tarif_{zakat}) \times Kepatuhan_{tinggi}$$ 
+Hipotesis yang diuji: Apakah $R_{zakat} > R_{tax}$? 
+ 
+3.6. Validitas Penelitian (Research Validity & Credibility) 
+Mengingat penelitian ini mengusulkan rekonstruksi hukum yang fundamental (Legal Reform), validitas dan 
+kredibilitas hasil penelitian dijaga melalui tiga mekanisme pengujian ketat: 
+3.6.1. Triangulasi Sumber (Source Triangulation) 
+Penelitian ini tidak berdiri di atas satu kaki dalil saja. Validitas dibangun dengan mempertemukan dua 
+sumber kebenaran: 
+1. Dalil Naqli (Otoritas Teks Suci): Memastikan konsep Zakat Pengganti Pajak memiliki sandaran 
+teologis yang shahih dari Al-Qur'an dan Hadits. 
+2. Dalil Aqli (Rasionalitas Empiris): Menguji kebenaran teologis tersebut dengan data statistik 
+ekonomi (OECD & Data PDB BPS). 
+o 
+Tujuan Validasi: Membuktikan bahwa perintah Allah untuk berzakat (Naqli) secara ilmiah 
+terbukti membawa kemaslahatan ekonomi/fiskal bagi negara (Aqli). 
+3.6.2. Uji Koherensi Doktrinal & Konstitusional (Doctrinal Consistency Test) 
+Penelitian ini melakukan uji kompatibilitas norma untuk memastikan bahwa usulan Lex Specialis Fiskal 
+Syariah: 
+1. Tidak Bertentangan dengan Pancasila: Justru memperkuat Sila Ke-1 (Ketuhanan Yang Maha 
+Esa) dan Sila Ke-5 (Keadilan Sosial). 
+2. Tidak Mengancam NKRI: Memastikan usulan ini adalah bentuk akomodasi hukum (Legal 
+Pluralism) dalam bingkai Negara Kesatuan, bukan upaya mendirikan negara teokrasi. 
+3.6.3. Validasi Pakar (Expert Judgement) 
+Temuan simulasi ekonomi dan draf RUU akan diuji validitasnya melalui referensi pandangan ahli (Expert 
+Opinion) yang terdiri dari: 
+1. Ahli Fiqh/Ulama (MUI): Untuk memvalidasi aspek Syariah. 
+2. Ahli Hukum Tata Negara: Untuk memvalidasi aspek Konstitusionalitas. 
+3. Praktisi Perpajakan/Ekonom: Untuk memvalidasi aspek kelayakan implementasi (Feasibility). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BAB IV 
+HASIL PENELITIAN DAN PEMBAHASAN 
+4.1. Konstruksi Yuridis: Transformasi Pajak Menjadi Zakat Sebagai Lex Specialis 
+Penelitian ini menemukan bahwa akar masalah rendahnya tax ratio di Indonesia adalah Dualisme 
+Kewajiban yang membebani psikologis umat Islam. Oleh karena itu, solusi yang ditawarkan bukanlah 
+sekadar insentif (pengurangan), melainkan Substitusi Legal. 
+4.1.1. Konsep Single Identity Fiscal Obligation (Kewajiban Fiskal Tunggal) 
+Berdasarkan analisis terhadap Pasal 23A UUD 1945 yang berbunyi "Pajak dan pungutan lain yang bersifat 
+memaksa untuk keperluan negara...", frasa "Pungutan Lain" memberikan landasan konstitusional bagi 
+negara untuk memberlakukan Zakat sebagai instrumen fiskal resmi. 
+Penelitian ini merumuskan konsep "Kewajiban Fiskal Tunggal": 
+1. Bagi Warga Negara Non-Muslim: Tetap berlaku UU Perpajakan Konvensional (PPh, PPN). 
+2. Bagi Warga Negara Muslim: Berlaku UU Fiskal Syariah (Lex Specialis). 
+o 
+Implikasi Hukum: Bukti pembayaran Zakat kepada negara secara otomatis menggugurkan 
+kewajiban PPh (Tax Liability). Tidak ada lagi pemeriksaan pajak bagi Muslim yang sudah 
+diaudit syariah (Zakat Compliance Audit). 
+4.1.2. Usulan Pasal dalam RUU Fiskal Syariah Nasional 
+Sebagai bentuk kebaruan (Novelty), penelitian ini menyusun draf norma hukum konkret sebagai berikut: 
+Pasal Substitusi (Inti RUU): 
+"Setiap Wajib Zakat (Muzakki) yang telah menunaikan kewajiban Zakat Maal, Zakat Profesi, atau Zakat 
+Perniagaan melalui Badan Fiskal Syariah Negara, diberikan Sertifikat Bukti Lunas Kewajiban Negara 
+(SBLKN) yang berfungsi sebagai pengganti Surat Pemberitahuan Tahunan (SPT) Pajak dan membebaskan 
+yang bersangkutan dari kewajiban Pajak Penghasilan (PPh)." 
+ 
+4.2. Analisis Ekonomi & Simulasi: Pembuktian Hipotesis Pendapatan Zakat > Pajak 
+Banyak skeptisisme muncul: "Bagaimana mungkin tarif Zakat 2,5% bisa mengalahkan tarif Pajak 22%?" 
+Penelitian ini mematahkan keraguan tersebut dengan argumen Perluasan Basis Objek (Broadening Base). 
+Sistem Pajak hanya menyentuh "Aliran Air" (Pendapatan/Flow), sedangkan Sistem Zakat menyentuh 
+"Danau" (Aset/Stock) dan "Air Bawah Tanah" (Underground Economy). 
+4.2.1. Variabel Kunci Peningkatan Pendapatan (Revenue Drivers) 
+Simulasi ini didasarkan pada tiga variabel yang tidak terjangkau oleh pajak konvensional: 
+1. Pajak atas Aset Menganggur (Penalty on Idle Assets): Dalam sistem pajak, tanah kosong 
+spekulan seringkali hanya kena PBB murah. Dalam Islam, aset produktif yang didiamkan wajib 
+dizakati (Qiyas Zakat Mal). Ini membuka potensi ribuan triliun dari tanah-tanah terlantar. 
+2. Menjangkau Shadow Economy: Data menunjukkan 40% ekonomi Indonesia adalah sektor 
+informal yang sulit dipajaki. Dengan pendekatan Zakat (Religius), sektor ini akan membayar 
+sukarela karena takut dosa, bukan takut petugas pajak. 
+3. Basis Aset vs Basis Laba: Perusahaan sering merekayasa laporan agar Laba terlihat kecil. Namun, 
+Aset Perusahaan (Gedung, Stok Barang, Armada) sangat sulit disembunyikan. 
+4.2.2. Simulasi Matematis (Data PDB & Kekayaan Nasional 2024/2025) 
+Berikut adalah simulasi perbandingan "Apple to Apple" dengan asumsi konservatif menggunakan data 
+estimasi ekonomi Indonesia: 
+● 
+Basis Data: 
+o 
+PDB Nominal (GDP): ± Rp 22.000 Triliun. 
+o 
+Total Kekayaan Nasional (National Wealth/Net Worth): ± Rp 60.000 Triliun (Data 
+Global Wealth Report - Aset biasanya 3x lipat PDB). 
+o 
+Populasi Muslim Wajib Zakat: 87% (Faktor Pengali). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabel 4.1: Simulasi Komparatif Pendapatan Negara 
+Komponen 
+Skenario 
+A: 
+Pajak 
+Konvensional (Status 
+Quo) 
+Skenario 
+B: 
+Fiskal 
+Syariah (Zakat Aset & 
+Penghasilan) 
+Analisis Keunggulan Zakat 
+Objek Utama 
+Penghasilan 
+& 
+Konsumsi (Flow) 
+Kekayaan 
+& 
+Aset 
+Produktif (Stock) 
+Zakat memajaki tumpukan harta, 
+bukan hanya gaji bulanan. 
+Basis Perhitungan 
+Rp 22.000 T (PDB)  
+ 
+ 
+(Hanya Sektor Formal 
+Terdata) 
+Rp 52.200 T  
+ 
+ 
+(87% x Total Kekayaan 
+Nasional Rp 60.000 T) 
+Basis Zakat 2,5x lebih besar 
+daripada basis Pajak karena 
+menghitung akumulasi aset. 
+Tarif Efektif 
+10% - 11% (Tax Ratio 
+Riil) 
+2,5% (Tarif Flat Zakat 
+Mal/Tijarah) 
+Tarif rendah, tapi pengalinya 
+raksasa. 
+Tingkat 
+Kepatuhan 
+Rendah (±60-70%)  
+ 
+ 
+(Penghindaran 
+Pajak 
+Tinggi) 
+Sangat Tinggi (95%)  
+ 
+ 
+(Kepatuhan 
+Iman/Voluntary) 
+Kepatuhan adalah kunci volume 
+pendapatan. 
+ESTIMASI 
+PENDAPATAN 
+± Rp 2.300 Triliun  
+ 
+ 
+(Sesuai 
+Realisasi 
+APBN) 
+± Rp 2.610 Triliun  
+ 
+ 
+(Termasuk Zakat Tanah & 
+Saham) 
+SURPLUS +Rp 310 Triliun 
+Temuan Kunci: 
+Terbukti secara matematis: Meskipun tarif turun drastis (dari 22% ke 2,5%), namun karena Basis Aset (Rp 
+52.200 T) jauh lebih besar daripada Basis PDB Formal (Rp 22.000 T), maka Pendapatan Negara justru 
+NAIK. Negara semakin kaya, Rakyat semakin ringan bebannya (karena tarif kecil). 
+ 
+4.3. Tata Kelola Kelembagaan (Institutional Governance) 
+Keberhasilan skenario di atas bergantung mutlak pada satu hal: TRUST (Kepercayaan). Umat Islam tidak 
+akan membayar jika mereka tahu uangnya bercampur dengan uang haram atau digunakan untuk hal haram. 
+4.3.1. Struktur Single Window System 
+Penelitian ini mengusulkan pembentukan Direktorat Jenderal Zakat dan Fiskal Syariah (DJ-ZFS) di 
+bawah Kementerian Keuangan, yang bekerja sama dengan BAZNAS sebagai mitra strategis. 
+● 
+Fungsi DJ-ZFS: Sebagai Operator pengumpul dana (menggunakan infrastruktur IT Kemenkeu 
+yang canggih). 
+● 
+Fungsi Dewan Syariah Nasional (MUI): Sebagai Auditor kepatuhan syariah (memastikan dana 
+tidak dipakai bayar bunga utang). 
+ 
+4.3.2. Kebijakan Segregated Account (Rekening Terpisah Anti-Riba) 
+Penelitian ini merekomendasikan pasal imperatif dalam RUU Fiskal Syariah yang mengatur tentang 
+Pemisahan Rekening Mutlak (Strict Segregation of Funds). 
+1. Haram Bercampur (Non-Commingling Fund): Dana Zakat yang masuk wajib langsung 
+disetorkan ke Rekening Kas Negara Syariah (RKNS) di Bank Syariah. Haram hukumnya dana 
+ini transit atau mengendap di Bank Konvensional yang berbasis bunga. 
+2. Larangan Pembayaran Utang Riba (Negative List of Spending): Dana RKNS DIHARAMKAN 
+SECARA HUKUM untuk digunakan membayar bunga utang negara (Interest Payment). Dana ini 
+hanya boleh digunakan untuk belanja langsung yang dirasakan rakyat (Direct Public Expenditure): 
+Pembangunan Infrastruktur, Subsidi Pendidikan, Kesehatan, dan Jaminan Sosial Fakir Miskin. 
+ 
+4.4. Tinjauan Filosofis: Keadilan Sosial dan Maqashid Syariah 
+4.4.1. Menghapus Pajak Regresif yang Zalim 
+Penelitian ini menemukan bahwa pajak modern seperti PPN (Pajak Pertambahan Nilai) bersifat Regresif. 
+Orang miskin membeli kebutuhan pokok dikenakan pajak yang sama dengan orang kaya. 
+● 
+Solusi Syariah: Zakat menghapus PPN barang pokok. Negara mengambil haknya dari Kelebihan 
+Harta (Nishab) orang kaya, bukan dari Kebutuhan Hidup orang miskin. Ini adalah esensi 
+Keadilan Islam (Al-'Adalah Al-Ijtima'iyyah). 
+4.4.2. Stimulus Ekonomi Riil (Multiplier Effect) 
+Dengan dihapusnya PPh 22% dan diganti Zakat 2,5%, maka likuiditas perusahaan meningkat. Pengusaha 
+memiliki sisa modal lebih besar untuk ekspansi bisnis, yang pada akhirnya akan menyerap tenaga kerja dan 
+menurunkan harga barang. Inilah efek pengganda (Multiplier Effect) yang akan menggerakkan ekonomi riil 
+jauh lebih cepat daripada sistem pajak konvensional. 
+ 
+ 
+ 
+BAB V 
+KESIMPULAN DAN SARAN 
+5.1. Kesimpulan (Conclusions) 
+Berdasarkan analisis yuridis, simulasi ekonomi, dan tinjauan syariah yang telah dipaparkan pada bab-bab 
+sebelumnya, penelitian ini menyimpulkan tiga hal mendasar sebagai jawaban atas rumusan masalah: 
+1. Konstruksi Yuridis Lex Specialis: Transformasi kewajiban pajak menjadi zakat bagi umat Islam 
+di Indonesia memiliki landasan konstitusional yang kokoh melalui Pasal 29 Ayat (1) dan (2) UUD 
+1945 serta penafsiran frasa "pungutan lain yang bersifat memaksa" dalam Pasal 23A UUD 1945. 
+Konstruksi hukum yang paling tepat adalah Penerapan Asas Lex Specialis Derogat Legi Generali. 
+Artinya, diberlakukan Undang-Undang Fiskal Syariah Nasional yang bersifat khusus bagi Muslim, 
+yang secara hukum menggugurkan kewajiban dalam UU Pajak (PPh) yang bersifat umum. Bukti 
+setor Zakat kepada negara diakui secara sah sebagai bukti lunas kewajiban fiskal (Full Legal 
+Substitution). 
+2. Keunggulan Ekonomi (Zakat > Pajak): Secara matematis dan empiris, hipotesis penelitian ini 
+terbukti: "Lower Rate, Higher Revenue". Meskipun tarif Zakat (2,5%) jauh lebih rendah 
+dibandingkan PPh Badan (22%) atau PPN (11%), namun Zakat menghasilkan agregat pendapatan 
+negara yang lebih besar dan stabil. Hal ini disebabkan oleh: 
+● 
+Perluasan Basis (Broadening Base): Zakat memajaki "Aset/Kekayaan" (Stock) yang 
+nilainya jauh lebih besar daripada "Laba/Penghasilan" (Flow). 
+● 
+Menjangkau Shadow Economy: Kepatuhan berbasis iman (Spiritual Compliance) 
+mampu menembus sektor informal dan aset tersembunyi yang selama ini gagal dijangkau 
+oleh sistem pajak sekuler. 
+● 
+Efisiensi Biaya: Biaya pemungutan (Cost of Collection) menurun drastis karena minimnya 
+penghindaran pajak (Tax Evasion). 
+3. Tata Kelola Hybrid (Governance): Model kelembagaan yang ideal bukanlah pemisahan total, 
+melainkan integrasi fungsi. Dibentuk Direktorat Jenderal Zakat dan Fiskal Syariah (DJ-ZFS) 
+di bawah Kementerian Keuangan sebagai operator pengumpul (menggunakan infrastruktur IT 
+negara), namun diawasi secara ketat oleh Dewan Pengawas Syariah Independen (otoritas 
+Ulama). Dana zakat wajib ditempatkan dalam Rekening Terpisah (Segregated Account) yang 
+haram digunakan untuk membayar bunga utang ribawi, demi menjaga kepercayaan umat (Public 
+Trust). 
+ 
+5.2. Implikasi Teoritis (Theoretical Implications) 
+Temuan penelitian ini memberikan kontribusi baru bagi khazanah ilmu hukum dan ekonomi: 
+1. Teori The Compliance Paradox: Membantah teori ekonomi klasik yang menyatakan pendapatan 
+negara berbanding lurus dengan tarif pajak. Penelitian ini membuktikan bahwa variabel 
+"Keyakinan Teologis" adalah determinan kepatuhan yang lebih kuat daripada sanksi hukum. 
+2. Redefinisi Negara Modern: Menawarkan model jalan tengah antara Negara Sekuler dan Negara 
+Teokrasi, yaitu Negara Pancasila Berbasis Nilai, di mana hukum agama diadopsi menjadi hukum 
+positif negara tanpa mengubah ideologi dasar negara. 
+5.3. Saran dan Rekomendasi (Recommendations) 
+Untuk mengimplementasikan temuan ini, peneliti merekomendasikan langkah-langkah strategis kepada 
+para pemangku kepentingan: 
+5.3.1. Bagi Pemerintah (Eksekutif) 
+1. Penerbitan Perppu/RUU: Presiden perlu segera menginisiasi RUU tentang Sistem Fiskal 
+Syariah Nasional atau memasukkannya dalam Omnibus Law Keuangan Syariah. 
+2. Masa Transisi (Transition Period): Memberlakukan masa transisi 5 tahun. Pada tahap awal, 
+sistem ini bersifat Opsional (Pilihan) bagi Wajib Pajak Muslim (memilih rezim Pajak atau rezim 
+Zakat), sebelum diberlakukan secara mandatori penuh setelah infrastruktur siap. 
+3. Integrasi Data (Single ID): Mengintegrasikan data NIK, NPWP, dan Data Zakat dalam satu Single 
+Identity Number (SIN) untuk mencegah arbitrase atau kebocoran potensi. 
+5.3.2. Bagi Legislatif (DPR-RI) 
+1. Revisi Paket UU Keuangan: Melakukan harmonisasi antara UU HPP, UU Perbankan Syariah, 
+dan UU Pengelolaan Zakat agar tidak saling tumpang tindih. 
+2. Fungsi Pengawasan: Membentuk Panitia Khusus (Pansus) untuk mengawal pembentukan Badan 
+Fiskal Syariah dan memastikan regulasi Segregated Account benar-benar dijalankan dalam APBN. 
+5.3.3. Bagi Institusi Zakat (BAZNAS/LAZ) 
+1. Transformasi Kelembagaan: BAZNAS harus bersiap bertransformasi dari lembaga sosial 
+menjadi lembaga negara setingkat Kementerian/Lembaga (K/L) yang memiliki wewenang 
+eksekutorial. 
+2. Standarisasi Audit Syariah: Menyusun standar audit kepatuhan syariah (Sharia Compliance 
+Audit) yang ketat untuk menilai apakah harta wajib zakat perusahaan dihitung dari Aset atau Laba, 
+guna menutup celah manipulasi. 
+DAFTAR PUSTAKA 
+A. Al-Qur'an, Hadits & Kitab Turats (Sumber Hukum Islam Klasik) 
+● 
+Abu Dawud. (2009). Sunan Abi Dawud. Beirut: Dar Al-Risalah Al-Alamiyyah. (Hadits No. 2933 
+tentang ancaman bagi penarik Muks). 
+● 
+Abu Ubaid, Al-Qasim. (1989). Kitab Al-Amwal (The Book of Revenue). Beirut: Dar Al-Syuruq. 
+(Rujukan utama tentang keuangan publik Islam klasik). 
+● 
+Adz-Dzahabi, Syamsuddin. (2010). Al-Kabair (Dosa-Dosa Besar). Kairo: Dar Al-Hadits. 
+● 
+Al-Mawardi. (2017). Al-Ahkam As-Sulthaniyah (Hukum-Hukum Penyelenggaraan Negara). 
+Jakarta: Darul Falah. (Terjemahan). 
+● 
+An-Nawawi, Yahya bin Syaraf. (1929). Al-Minhaj Syarh Shahih Muslim bin Al-Hajjaj. Kairo: 
+Al-Mathba’ah Al-Mishriyyah. 
+● 
+Ibnu Khaldun. (2011). Muqaddimah. Jakarta: Pustaka Al-Kautsar. (Terjemahan). 
+B. Buku & Literatur Kontemporer (Fiqh Muamalah & Ekonomi) 
+● 
+Al-Qaradawi, Yusuf. (2011). Fiqh Az-Zakah (Hukum Zakat). Bogor: Pustaka Litera AntarNusa. 
+● 
+Az-Zuhaili, Wahbah. (2011). Al-Fiqh Al-Islami wa Adillatuh (Fiqh Islam dan Dalil-Dalilnya). 
+Jakarta: Gema Insani Press. 
+● 
+Chapra, M. Umer. (2000). The Future of Economics: An Islamic Perspective. Leicester: The 
+Islamic Foundation. 
+● 
+Friedman, Lawrence M. (1975). The Legal System: A Social Science Perspective. New York: 
+Russell Sage Foundation. 
+● 
+Kahf, Monzer. (1997). The Calculation of Zakat for Muslims in North America. Plainfield: The 
+Islamic Society of North America. 
+C. Jurnal Internasional Bereputasi (Scopus/WoS) 
+● 
+Abu Bakar, N. B., & Abdul Rahman, A. R. (2007). A Comparative Study of Zakat and Modern 
+Taxation. Journal of King Abdulaziz University: Islamic Economics, 20(1), 25-40. 
+● 
+Ahmed, E., & bin Kedir, S. (2015). Tax Evasion and the Role of Zakat: A Behavioral Approach. 
+Journal of Islamic Accounting and Business Research, 6(2). 
+● 
+Barizah, N., & Abdul Rahman, A. (2010). Tax Relief for Zakat Payers in Malaysia: A Review 
+on the Law and Practice. International Journal of Zakat, 2(1), 12-25. 
+● 
+Islahi, A. A. (2006). Zakah: A Fiscal Substitute for Tax or a Complement?. Islamic Economics 
+Institute, King Abdulaziz University. 
+● 
+Powell, R. (2010). Zakat: Drawing Insights for Legal Theory and Economic Policy from Islamic 
+Jurisprudence. University of Pittsburgh Tax Review, 7, 43. 
+D. Peraturan Perundang-Undangan & Laporan Resmi 
+● 
+Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. 
+● 
+Undang-Undang No. 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan (UU HPP). 
+● 
+Undang-Undang No. 23 Tahun 2011 tentang Pengelolaan Zakat. 
+● 
+OECD. (2024). Revenue Statistics in Asian and Pacific Economies: Indonesia. Paris: OECD 
+Publishing. 
+● 
+Kementerian Keuangan RI. (2025). Laporan Realisasi APBN dan Tax Ratio Indonesia. 
+ 
