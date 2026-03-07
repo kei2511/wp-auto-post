@@ -19,6 +19,4 @@ Key points discussed in this journal:
 - **Revitalizing the Real Sector and Sharia Economy**: Islamic social finance such as cash waqf won't be eroded by inflation if converted to this digital gold-backed currency.
 - **The 10-Year Transition Roadmap**: From repatriating foreign exchange reserves to real sector testing and ultimately phasing out paper fiat money across Southeast Asia.
 
-\> **Read the complete journal below to explore the legal structure and the full transition roadmap of Crypto Rupiah Gold.**
-
-[Download / Read the Complete Journal (PDF)](/jurnal/THE%20URGENCY%20OF%20A%20CENTRAL%20BANK%20DIGITAL%20CURRENCY%20CBDC%20BASED%20ON%20PHYSICAL%20GOLD%20AND%20CRYPTO%20RUPIAH.pdf)
+> **Read the complete journal below to explore the legal structure and the full transition roadmap of Crypto Rupiah Gold.**

@@ -20,5 +20,3 @@ Beberapa poin penting yang dibahas dalam jurnal ini:
 - **Peta Jalan 10 Tahun**: Pendekatan strategis dari peralihan cadangan devisa, uji coba di sektor properti, hingga Indonesia yang menjadi *safe haven* ekonomi Asia Tenggara.
 
 \> **Silakan baca jurnal selengkapnya di bawah ini untuk mendalami konstruksi hukum dan peta jalan lengkap dari Crypto Rupiah Emas.**
-
-[Unduh / Baca Jurnal Lengkap (PDF)](/jurnal/URGENSI%20CENTRAL%20BANK%20DIGITAL%20CURRENCY%20CBDC%20BERBASIS%20EMAS%20FISIK%20CRYPTO%20RUPIAH.pdf)
